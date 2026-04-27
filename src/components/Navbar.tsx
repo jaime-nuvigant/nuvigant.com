@@ -7,7 +7,7 @@ const navLinks = [
   { label: "Características", href: "/#features" },
   { label: "Calculadora ISR", href: "/#isr" },
   { label: "Precios", href: "/pricing" },
-  { label: "Contacto", href: "/#contact" },
+  { label: "Contacto", href: "/contact" },
 ];
 
 export default function Navbar() {
