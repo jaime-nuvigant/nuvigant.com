@@ -1,0 +1,12 @@
+import type { Metadata } from "next";
+import FinanceAgenciesPage from "@/components/FinanceAgenciesPage";
+
+export const metadata: Metadata = {
+  title: "Finance Agencies | Nuvigant",
+  description:
+    "Controla tus proyectos, flujo y clientes en un solo lugar. Cumple con las leyes antilavado de manera automática.",
+};
+
+export default function Page() {
+  return <FinanceAgenciesPage />;
+}
