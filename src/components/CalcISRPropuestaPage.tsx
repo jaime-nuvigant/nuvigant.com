@@ -16,7 +16,9 @@ export default function CalcISRPropuestaPage() {
           <div className="mx-auto max-w-2xl">
             <p className="text-sm font-semibold uppercase tracking-wide text-slate-500">Embed placeholder</p>
             <p className="mt-3 text-slate-700">
-              Iframe pendiente de configuración. Sustituye este bloque por el `<iframe>` de la propuesta cuando
+              Iframe pendiente de configuración. Sustituye este bloque por el{" "}
+              <code className="rounded bg-slate-200 px-1 text-xs">&lt;iframe&gt;</code>{" "}
+              de la propuesta cuando
               el origen esté disponible.
             </p>
             <div className="mt-6 inline-flex items-center gap-2 rounded-lg bg-white px-4 py-2 text-sm text-slate-500 border border-slate-200">

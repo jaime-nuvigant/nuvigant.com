@@ -35,7 +35,7 @@ const sections: Section[] = [
       },
       {
         title: "Precio Adquisición",
-        body: "El precio por el cual el inmueble fue comprado. Cuando se cuenta con terreno y construcción y no se tienen los precios por separado, por lo general se aplica la regla "ochenta veinte", en la cual el precio se separa yéndose 80% del precio a la construcción y el 20% restante al terreno.",
+        body: "El precio por el cual el inmueble fue comprado. Cuando se cuenta con terreno y construcción y no se tienen los precios por separado, por lo general se aplica la regla \"ochenta veinte\", en la cual el precio se separa yéndose 80% del precio a la construcción y el 20% restante al terreno.",
       },
       {
         title: "UDIs",

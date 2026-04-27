@@ -66,7 +66,7 @@ const faqSections: FaqSection[] = [
       {
         question: "¿Cómo funciona compensar la pérdida con ganancia?",
         answer:
-          "La herramienta cuenta con la capacidad de compensar la pérdida con la ganancia al momento de realizar los cálculos. Esta opción se encuentra disponible para seleccionarla en las distintas opciones de la sección del cálculo de Terreno y Construcción con la casilla que dice "Compensar pérdida con ganancia". Por ejemplo, si al hacer el cálculo se obtiene ganancia del Terreno y cuando se calculan los valores de la Construcción en lugar de ganancia se obtiene pérdida, automáticamente a la ganancia se le resta la pérdida antes de continuar.",
+          "La herramienta cuenta con la capacidad de compensar la pérdida con la ganancia al momento de realizar los cálculos. Esta opción se encuentra disponible para seleccionarla en las distintas opciones de la sección del cálculo de Terreno y Construcción con la casilla que dice \"Compensar pérdida con ganancia\". Por ejemplo, si al hacer el cálculo se obtiene ganancia del Terreno y cuando se calculan los valores de la Construcción en lugar de ganancia se obtiene pérdida, automáticamente a la ganancia se le resta la pérdida antes de continuar.",
       },
       {
         question: "¿Cada cuándo actualizan los índices?",
