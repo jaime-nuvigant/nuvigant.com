@@ -140,7 +140,7 @@ export default function Hero() {
                 {[
                   {
                     label: "Total Acumulado",
-                    value: "$4,820,500",
+                    value: "$4.8mdp",
                     sub: "+12% este mes",
                     color: "#056dfe",
                     bg: "#eff6ff",
@@ -154,7 +154,7 @@ export default function Hero() {
                   },
                   {
                     label: "Total Facturado",
-                    value: "$847,200",
+                    value: "$47,200",
                     sub: "Facturas emitidas",
                     color: "#51d2e9",
                     bg: "#ecfeff",
