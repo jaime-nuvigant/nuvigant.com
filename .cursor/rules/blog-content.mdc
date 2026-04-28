@@ -1,0 +1,82 @@
+---
+description: Standards for creating and editing blog posts in content/posts/
+globs: content/posts/**/*.md
+alwaysApply: false
+---
+
+# Blog Post Authoring
+
+## Creating a post from an external URL
+
+Always use `WebFetch` on the source URL — never rely on a text-only scrape.
+The text scraper strips `href` values; WebFetch returns full markdown with working links.
+
+```
+✅ WebFetch("https://nuvigant.com/blog/industry/lawyers/some-post")
+❌ Using the external_links context alone — hrefs will be missing
+```
+
+After fetching, **always** extract the original publication date from the page source and use it as the `date` field in frontmatter — never default to today's date or invent one:
+
+```bash
+curl -s "<url>" | grep -oP '(?<=<time[^>]*datetime=")[^"]+' | head -3
+# fallback: look for visible date text patterns like DD/MM/YY or Month DD, YYYY
+curl -s "<url>" | grep -oP '\d{2}/\d{2}/\d{2,4}' | head -3
+```
+
+Convert the result to `YYYY-MM-DD` format for the frontmatter `date` field.
+
+After fetching, **always** check for an embedded YouTube video — WebFetch strips iframes so the video will not appear in the output. Extract it from the raw page source:
+
+```bash
+curl -s "<url>" | grep -o 'youtube\.com/embed/[^"?]*' | head -5
+```
+
+If a video ID is found, embed it in the markdown right after the intro paragraph using a responsive wrapper:
+
+```html
+<div class="video-container"><iframe src="https://www.youtube.com/embed/VIDEO_ID" title="..." allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+```
+
+The `.video-container` class is defined in `src/app/globals.css` and provides a 16:9 responsive embed with rounded corners. Do **not** add inline styles.
+
+## Frontmatter requirements
+
+Every post **must** include `category` and `subcategory`. The filename must match the intended URL slug exactly.
+
+```yaml
+---
+title: "..."
+date: "YYYY-MM-DD"
+author:
+  name: "Equipo Nuvigant"
+  avatar: "https://ui-avatars.com/api/?name=Equipo+Nuvigant&background=056dfe&color=fff&size=128"
+  bio: "..."
+  twitter: "https://twitter.com/nuvigant"
+  linkedin: "https://linkedin.com/company/nuvigant"
+tags: ["Tag1", "Tag2"]
+excerpt: "..."
+coverImage: "/images/blog/post-slug.jpg"  # local path, never an external URL
+published: true
+category: "industry"       # ← required
+subcategory: "lawyers"     # ← required
+---
+```
+
+- **Filename = slug**: `content/posts/puede-la-ia-sustituir-al-notario.md` → `/blog/industry/lawyers/puede-la-ia-sustituir-al-notario`
+- **Unique cover images**: never reuse the same image across posts
+- **Images are local**: download covers to `public/images/blog/<post-slug>.jpg` with `curl -sL "<unsplash-url>&fm=jpg" -o <post-slug>.jpg`; reference as `/images/blog/<post-slug>.jpg` — never use external Unsplash URLs directly
+- **Preserve all links**: include every `href` from the original, including inline article links and the "clic aquí" style CTAs
+- **Always include a body image**: every post must have at least one inline image relevant to the topic. Download it to `public/images/blog/<post-slug>-body.jpg` and embed it as `![post-title-with-dashes-instead-of-spaces](/images/blog/<post-slug>-body.jpg)`. The alt text must be the post title with spaces replaced by `-` (e.g. `Exención-casa-habitación-mixta-¿cómo-funciona?`).
+- **Never place two images, or a YouTube video and an image, next to each other**: always separate them with at least one full section of body text (a heading + paragraph) between them.
+
+## Body text alignment
+
+All paragraph text in blog posts is **justified**. This is enforced by setting `text-align: justify` on `.blog-content` in `src/app/globals.css`, which inherits to all children. Headings (`h2`, `h3`, `h4`) explicitly override back to `text-align: left`.
+Do not override this with inline styles or Tailwind classes on individual posts.
+
+## When adding a new post, also add a redirect in `next.config.ts`
+
+```ts
+{ source: "/blog/old-slug", destination: "/blog/category/subcategory/old-slug", permanent: true }
+```

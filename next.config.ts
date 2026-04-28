@@ -9,10 +9,6 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-      {
-        protocol: "https",
         hostname: "ui-avatars.com",
       },
     ],
@@ -37,6 +33,16 @@ const nextConfig: NextConfig = {
       {
         source: "/blog/puede-ia-sustituir-al-notario",
         destination: "/blog/industry/lawyers/puede-la-ia-sustituir-al-notario",
+        permanent: true,
+      },
+      {
+        source: "/blog/exencion-casa-habitacion-mixta",
+        destination: "/blog/industry/isr/exencion-casa-habitacion-mixta",
+        permanent: true,
+      },
+      {
+        source: "/blog/inteligencia-artificial-en-sector-notarial",
+        destination: "/blog/industry/fedatarios/inteligencia-artificial-en-sector-notarial",
         permanent: true,
       },
     ];

@@ -9,7 +9,7 @@ author:
   linkedin: "https://linkedin.com/company/nuvigant"
 tags: ["PLD", "Reforma Legal", "LFPIORPI"]
 excerpt: "El 16 de julio de 2025 se publicó en el Diario Oficial de la Federación una reforma profunda a la LFPIORPI que impacta directamente a los notarios públicos. Esta guía analiza los cambios más importantes y qué acciones debes tomar en tu notaría."
-coverImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=80"
+coverImage: "/images/blog/reforma-antilavado-2025.jpg"
 published: true
 category: "industry"
 subcategory: "lawyers"

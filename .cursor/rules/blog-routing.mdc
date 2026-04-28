@@ -1,0 +1,55 @@
+---
+description: Blog routing conventions — URL structure, getPostUrl(), and component patterns
+globs: src/{app/blog,components/blog,lib/blog}**/*
+alwaysApply: false
+---
+
+# Blog Routing & Code
+
+## URL structure
+
+All blog posts live at `/blog/[category]/[subcategory]/[slug]`.
+
+```
+✅ /blog/industry/lawyers/puede-la-ia-sustituir-al-notario
+❌ /blog/puede-la-ia-sustituir-al-notario
+```
+
+## Always use `getPostUrl()` — never hardcode the path
+
+```ts
+// ✅ GOOD
+import { getPostUrl } from "@/lib/blog";
+<Link href={getPostUrl(post)} />
+
+// ❌ BAD
+<Link href={`/blog/${post.slug}`} />
+```
+
+This applies in: `PostCard`, `RelatedPosts`, prev/next navigation, RSS route, schema.org JSON-LD, canonical meta tags, and `ShareButtons`.
+
+## ShareButtons takes a full URL, not a slug
+
+```tsx
+// ✅ GOOD
+<ShareButtons title={post.title} url={canonical} />  // canonical = SITE_URL + getPostUrl(post)
+
+// ❌ BAD
+<ShareButtons title={post.title} slug={post.slug} />
+```
+
+## Route file layout
+
+```
+src/app/blog/
+  page.tsx                              # /blog listing
+  layout.tsx
+  rss.xml/route.ts
+  [category]/
+    [subcategory]/
+      [slug]/page.tsx                   # canonical post page
+```
+
+Do NOT add a `[category]/page.tsx` alongside `[category]/[subcategory]/[slug]/page.tsx` —
+Next.js throws "different slug names for the same dynamic path".
+Legacy slug redirects belong in `next.config.ts`, not as a route file.

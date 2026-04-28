@@ -9,7 +9,7 @@ author:
   linkedin: "https://linkedin.com/company/nuvigant"
 tags: ["PLD", "Compliance", "LFPIORPI"]
 excerpt: "En el ejercicio notarial, uno de los compromisos más importantes es el cumplimiento de la LFPIORPI. Esta legislación impone obligaciones específicas a los fedatarios públicos, entre las que destaca la identificación, control y reporte de las llamadas 'Operaciones Vulnerables'."
-coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80"
+coverImage: "/images/blog/operaciones-vulnerables-notarios.jpg"
 published: true
 category: "industry"
 subcategory: "lawyers"

@@ -9,7 +9,7 @@ author:
   linkedin: "https://linkedin.com/company/nuvigant"
 tags: ["IA", "Tecnología", "Automatización"]
 excerpt: "La inteligencia artificial está dejando de ser ciencia ficción para convertirse en una herramienta cotidiana en las notarías más avanzadas de México. Desde la extracción automática de datos hasta el análisis de escrituras, exploramos cómo esta tecnología puede transformar tu práctica notarial."
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
+coverImage: "/images/blog/ia-automatizacion-notarias.jpg"
 published: true
 category: "industry"
 subcategory: "lawyers"
