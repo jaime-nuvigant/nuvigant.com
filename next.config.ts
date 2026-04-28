@@ -45,6 +45,16 @@ const nextConfig: NextConfig = {
         destination: "/blog/industry/fedatarios/inteligencia-artificial-en-sector-notarial",
         permanent: true,
       },
+      {
+        source: "/blog/industry/lawyers/legal-tech/fe-de-hechos-de-una-api",
+        destination: "/blog/industry/lawyers/fe-de-hechos-de-una-api",
+        permanent: true,
+      },
+      {
+        source: "/blog/fe-de-hechos-de-una-api",
+        destination: "/blog/industry/lawyers/fe-de-hechos-de-una-api",
+        permanent: true,
+      },
     ];
   },
 };
