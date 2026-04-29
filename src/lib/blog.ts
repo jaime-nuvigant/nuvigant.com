@@ -172,6 +172,9 @@ export function getPostUrl(post: Pick<PostMeta, "category" | "subcategory" | "sl
   if (post.category && post.subcategory) {
     return `/blog/${post.category}/${post.subcategory}/${post.slug}`;
   }
+  if (post.category) {
+    return `/blog/${post.category}/${post.slug}`;
+  }
   return `/blog/${post.slug}`;
 }
 
