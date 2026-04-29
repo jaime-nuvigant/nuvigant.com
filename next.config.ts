@@ -22,7 +22,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/blog/operaciones-vulnerables-notarios",
-        destination: "/blog/industry/lawyers/operaciones-vulnerables-notarios",
+        destination: "/blog/industry/aml/operaciones-vulnerables-4-cosas-que-todo-notario-debe-sab",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/operaciones-vulnerables-notarios",
+        destination: "/blog/industry/aml/operaciones-vulnerables-4-cosas-que-todo-notario-debe-sab",
         permanent: true,
       },
       {

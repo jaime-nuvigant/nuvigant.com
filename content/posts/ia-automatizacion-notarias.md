@@ -126,10 +126,6 @@ La consulta automática de datos fiscales del SAT (CIF, situación fiscal, opini
 
 La consulta de antecedentes registrales de inmuebles, aunque aún limitada en algunas entidades, puede automatizarse donde las plataformas del RPP lo permiten.
 
-### Integración con el RENAPO
-
-La verificación de CURP contra el Registro Nacional de Población permite confirmar en segundos que la identidad del cliente es válida y que los datos coinciden.
-
 ## Consideraciones de Seguridad y Privacidad
 
 El manejo de datos personales con IA implica responsabilidades importantes:
