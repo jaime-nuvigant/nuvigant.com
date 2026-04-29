@@ -46,6 +46,8 @@ La Reforma Antilavado 2025 para notarios exige que el notario cuente con un **pr
 
 Aquí les compartimos un documento que pueden usar como fundamento para el programa de capacitación que vayan a elaborar. De la misma manera, si nos dejas tu correo en el formulario del artículo, automáticamente te mandaremos correos con novedades de PLD que podrás usar para evidenciar tus esfuerzos por mantenerte a ti y tu equipo capacitado en caso de una inspección.
 
+<a href="https://docs.google.com/document/d/1zWBSg5kq1EZKOVVNyPasTy03y8O9CZbaMgm-TMBWz4g/edit?tab=t.0" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin:1.5rem 0;padding:0.85rem 2rem;background:#1d4ed8;color:#fff;font-weight:700;font-size:1.05rem;border-radius:8px;text-decoration:none;box-shadow:0 4px 14px rgba(29,78,216,0.35);">📄 Ver Programa de Entrenamiento PLD →</a>
+
 ---
 
 ### 3. 📉 Reducción del umbral para presentar avisos
