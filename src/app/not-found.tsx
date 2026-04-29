@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const css = `
   :root {
@@ -558,6 +558,14 @@ export default function NotFound() {
   const captionRef = useRef<HTMLDivElement>(null);
   const readtimeRef = useRef<HTMLSpanElement>(null);
   const zeroRef = useRef<HTMLSpanElement>(null);
+  const [currentTime, setCurrentTime] = useState("");
+
+  useEffect(() => {
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2, "0");
+    const mm = String(now.getMinutes()).padStart(2, "0");
+    setCurrentTime(`${hh}:${mm}`);
+  }, []);
 
   useEffect(() => {
     // 1. Drifting debris
@@ -851,7 +859,7 @@ export default function NotFound() {
           <article className="nf-article">
             <h2 id="s1">Lo que sabemos hasta ahora.</h2>
             <p>
-              A las <strong>03:42 hrs</strong> del día de hoy, esta URL fue solicitada por su
+              A las <strong>{currentTime} hrs</strong> del día de hoy, esta URL fue solicitada por su
               navegador. Procedimos a buscarla en cada uno de nuestros servidores, en cada caja de
               archivo muerto, en cada respaldo notarial, e incluso en el cajón donde guardamos los
               pendientes que decimos que no tenemos. El resultado fue, en todos los casos, idéntico:{" "}

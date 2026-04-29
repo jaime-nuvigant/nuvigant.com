@@ -60,6 +60,31 @@ const nextConfig: NextConfig = {
         destination: "/blog/industry/lawyers/fe-de-hechos-de-una-api",
         permanent: true,
       },
+      {
+        source: "/blog/que-son-los-peps-para-notarios",
+        destination: "/blog/industry/aml/que-son-los-peps-para-notarios",
+        permanent: true,
+      },
+      {
+        source: "/blog/extraccion-automatica-de-datos-de-documentos",
+        destination: "/blog/inteligencia-artificial/extraccion-automatica-de-datos-de-documentos",
+        permanent: true,
+      },
+      {
+        source: "/blog/gastos-a-cuenta-de-terceros-para-notarios",
+        destination: "/blog/industry/fedatarios/gastos-a-cuenta-de-terceros-para-notarios",
+        permanent: true,
+      },
+      {
+        source: "/blog/ia-en-notaria-automatizacion-y-analisis-de-escrituras-con-nuvigant",
+        destination: "/blog/industry/fedatarios/ia-en-notaria-automatizacion-y-analisis-de-escrituras-con-nuvigant",
+        permanent: true,
+      },
+      {
+        source: "/blog/analisis-de-escrituras-con-ia",
+        destination: "/blog/inteligencia-artificial/analisis-de-escrituras-con-ia",
+        permanent: true,
+      },
     ];
   },
 };

@@ -57,7 +57,7 @@ export default function Navbar() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="#contact"
+            href="https://app.nuvigant.com/operation/catalogue"
             className="text-sm font-medium text-slate-600 hover:text-[#056dfe] transition-colors px-4 py-2"
           >
             Iniciar sesión
