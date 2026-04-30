@@ -6,6 +6,27 @@ alwaysApply: false
 
 # Blog Post Authoring
 
+## Article queue: `.ignore/webpages.json`
+
+`.ignore/webpages.json` is the master list of articles to be converted into blog posts. Each entry has:
+
+```json
+{
+  "id": 28193,
+  "date": "2025-07-25T19:27:31",
+  "link": "https://nuvigant.com/blog/industry/aml/que-son-los-peps-para-notarios",
+  "title": { "rendered": "Qué son los PEPS para notarios" },
+  "finished": true
+}
+```
+
+- **`finished: true`** — the post has already been created. **Skip it.**
+- **`finished` absent or `false`** — the post still needs to be created.
+
+**After successfully creating a post**, update the corresponding entry in `.ignore/webpages.json` by setting `"finished": true`. Use the `StrReplace` tool to make the change — find the entry by its `"id"` or `"link"` and add/set the field.
+
+When asked to convert or batch-process articles, always read `.ignore/webpages.json` first to determine which entries are pending (no `finished` field or `finished: false`), process only those, and mark each one finished as soon as its post file is created.
+
 ## Creating a post from an external URL
 
 Always use `WebFetch` on the source URL — never rely on a text-only scrape.
@@ -80,3 +101,20 @@ Do not override this with inline styles or Tailwind classes on individual posts.
 ```ts
 { source: "/blog/old-slug", destination: "/blog/category/subcategory/old-slug", permanent: true }
 ```
+
+## After creating a new post, open it in the browser
+
+Once the markdown file is saved, derive the full URL path from the frontmatter:
+
+```
+/blog/<category>/<subcategory>/<slug>
+```
+
+where `<slug>` is the filename without the `.md` extension. Then open that path in both environments using the Shell tool:
+
+```bash
+xdg-open "http://localhost:3000/blog/<category>/<subcategory>/<slug>"
+xdg-open "https://nuvigant.com/blog/<category>/<subcategory>/<slug>"
+```
+
+Both tabs must be opened every time a new post is created, without waiting to be asked.

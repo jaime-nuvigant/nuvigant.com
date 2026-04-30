@@ -85,6 +85,11 @@ const nextConfig: NextConfig = {
         destination: "/blog/inteligencia-artificial/analisis-de-escrituras-con-ia",
         permanent: true,
       },
+      {
+        source: "/blog/business-technology/automatizacion-para-notarias-e-inmobiliarias-nuvigant-zapier",
+        destination: "/blog/business-technology/automation/automatizacion-para-notarias-e-inmobiliarias-nuvigant-zapier",
+        permanent: true,
+      },
     ];
   },
 };

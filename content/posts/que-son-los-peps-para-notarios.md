@@ -17,8 +17,6 @@ subcategory: "aml"
 
 Las Personas Expuestas Políticamente (PEP) son individuos que desempeñan o han desempeñado cargos públicos relevantes, como presidentes, ministros, jueces, militares de alto rango, legisladores, líderes de partidos, o altos funcionarios de organismos autónomos. También pueden incluir a sus familiares cercanos o personas con vínculos empresariales. Se consideran de alto riesgo en materia de prevención de lavado de dinero y financiamiento al terrorismo, ya que podrían tener acceso a recursos indebidos o ser objeto de presiones ilícitas.
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/64PudOyp9p8" title="Qué son los PEPS para notarios - Nuvigant" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 Por ello, las instituciones financieras, fiscales y entidades reguladas en México (como sujetos obligados por la UIF y el SAT) deben revisarlos constantemente en sus procesos de debida diligencia (KYC/KYB), aplicando controles reforzados en caso de detección.
 
 ---
@@ -29,10 +27,10 @@ Según las obligaciones establecidas en la LFPIORPI y la normativa del SAT, se d
 
 **Lista UIF:** las listas que determine la UIF (por ejemplo la de la ONU).
 
+**Listados PEPS:** 
+
 **Listados SAT:** Art. 69‐B (emisores de facturas sin sustento) y Art. 69 (contribuyentes incumplidos).
 
-- [Contacto](https://nuvigant.com/contact)
-- Listado de PEPS
 
 El buscador de Nuvigant de PEPS para notarios permite hacerlo automáticamente, ofreciendo el cruce oportuno y eficaz con las listas oficiales, incluyendo la Lista Nacional de PEPs.
 

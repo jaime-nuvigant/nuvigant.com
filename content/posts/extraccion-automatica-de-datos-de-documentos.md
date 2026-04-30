@@ -79,4 +79,4 @@ Pronto podrás automatizar aún más tareas clave de tu notaría.
 
 La extracción automática de datos de documentos con inteligencia artificial representa una evolución natural en la digitalización del trabajo notarial. En Nuvigant, seguimos comprometidos en brindarte herramientas que te ayuden a trabajar más rápido, con más precisión y menos carga operativa.
 
-¿Tienes preguntas, sugerencias o comentarios? Escríbenos a soporte@nuvigant.com o descubre más funciones en nuestro [Centro de Ayuda](https://nuvigant.com/contact).
+¿Tienes preguntas, sugerencias o comentarios? Escríbenos a soporte@nuvigant.com o descubre más funciones en nuestro [Centro de Ayuda](https://manual.nuvigant.com/).
