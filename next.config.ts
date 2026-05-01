@@ -205,6 +205,166 @@ const nextConfig: NextConfig = {
         destination: "/blog/industry/fedatarios/sello-digital-notarial-que-es-y-como-funciona",
         permanent: true,
       },
+      {
+        source: "/blog/solo-terreno-calculo-isr-enajenacion-inmuebles",
+        destination: "/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/blog/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble",
+        destination: "/blog/industry/isr/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble",
+        permanent: true,
+      },
+      {
+        source: "/blog/inflacion-isr-por-enajenacion-de-inmuebles",
+        destination: "/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/blog/isr-enajenacion-inmuebles",
+        destination: "/blog/industry/isr/isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/blog/cfdi-4-notarios-publicos",
+        destination: "/blog/industry/fedatarios/cfdi-4-notarios-publicos",
+        permanent: true,
+      },
+      {
+        source: "/blog/jornada-notarial-oaxaca-2021",
+        destination: "/blog/industry/fedatarios/jornada-notarial-oaxaca-2021",
+        permanent: true,
+      },
+      {
+        source: "/blog/constitucion-de-sociedad-a-traves-de-la-firma-electronica-avanzada",
+        destination: "/blog/industry/fedatarios/constitucion-de-sociedad-a-traves-de-la-firma-electronica-avanzada",
+        permanent: true,
+      },
+      {
+        source: "/blog/que-es-la-firma-electronica-avanzada-para-notarios-y-corredores",
+        destination: "/blog/industry/fedatarios/que-es-la-firma-electronica-avanzada-para-notarios-y-corredores",
+        permanent: true,
+      },
+      {
+        source: "/blog/protocolo-electronico-notarial-en-mexico-2020",
+        destination: "/blog/industry/fedatarios/protocolo-electronico-notarial-en-mexico-2020",
+        permanent: true,
+      },
+      {
+        source: "/blog/acumulados-de-operaciones-notariales-y-de-corredores-en-mexico",
+        destination: "/blog/industry/fedatarios/acumulados-de-operaciones-notariales-y-de-corredores-en-mexico",
+        permanent: true,
+      },
+      {
+        source: "/blog/corredor-y-notario-en-linea",
+        destination: "/blog/industry/fedatarios/corredor-y-notario-en-linea",
+        permanent: true,
+      },
+      {
+        source: "/blog/reglas-para-la-realizacion-de-visitas-a-notarios",
+        destination: "/blog/industry/fedatarios/reglas-para-la-realizacion-de-visitas-a-notarios",
+        permanent: true,
+      },
+      {
+        source: "/blog/aspectos-fiscales-practicos-con-el-nuevo-declaranot",
+        destination: "/blog/industry/fedatarios/aspectos-fiscales-practicos-con-el-nuevo-declaranot",
+        permanent: true,
+      },
+      {
+        source: "/blog/resumen-de-conferencia-actualizacion-fiscal-mexico-2020",
+        destination: "/blog/industry/fedatarios/resumen-de-conferencia-actualizacion-fiscal-mexico-2020",
+        permanent: true,
+      },
+      {
+        source: "/blog/jornada-de-notarios-mazatlan-2019",
+        destination: "/blog/industry/fedatarios/jornada-de-notarios-mazatlan-2019",
+        permanent: true,
+      },
+      {
+        source: "/blog/6-pasos-para-implementar-un-software-para-abogados",
+        destination: "/blog/industry/lawyers/6-pasos-para-implementar-un-software-para-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/legal-tech/6-pasos-para-implementar-un-software-para-abogados",
+        destination: "/blog/industry/lawyers/6-pasos-para-implementar-un-software-para-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/50-kpis-para-abogados",
+        destination: "/blog/industry/lawyers/50-kpis-para-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados",
+        destination: "/blog/industry/lawyers/50-kpis-para-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/como-saber-si-necesito-un-software-de-abogados",
+        destination: "/blog/industry/lawyers/como-saber-si-necesito-un-software-de-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/legal-tech/como-saber-si-necesito-un-software-de-abogados",
+        destination: "/blog/industry/lawyers/como-saber-si-necesito-un-software-de-abogados",
+        permanent: true,
+      },
+      {
+        source: "/blog/software-para-abogados-15-cosas-que-debes-saber",
+        destination: "/blog/industry/lawyers/software-para-abogados-15-cosas-que-debes-saber",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber",
+        destination: "/blog/industry/lawyers/software-para-abogados-15-cosas-que-debes-saber",
+        permanent: true,
+      },
+      {
+        source: "/blog/10-recomendaciones-a-corredores-y-notarios-sobre-corona-virus",
+        destination: "/blog/industry/aml/10-recomendaciones-a-corredores-y-notarios-sobre-corona-virus",
+        permanent: true,
+      },
+      {
+        source: "/blog/cumpliendo-con-leyes-anti-lavado-sin-morir-en-el-intento",
+        destination: "/blog/industry/aml/cumpliendo-con-leyes-anti-lavado-sin-morir-en-el-intento",
+        permanent: true,
+      },
+      {
+        source: "/blog/fechas-importantes-en-prevencion-de-lavado-de-dinero-en-mexico",
+        destination: "/blog/industry/aml/fechas-importantes-en-prevencion-de-lavado-de-dinero-en-mexico",
+        permanent: true,
+      },
+      {
+        source: "/blog/3-cosas-que-debes-de-saber-sobre-los-listados-negros",
+        destination: "/blog/industry/aml/3-cosas-que-debes-de-saber-sobre-los-listados-negros",
+        permanent: true,
+      },
+      {
+        source: "/blog/5-terminos-de-prevencion-de-lavado-de-dinero-que-debes-conocer",
+        destination: "/blog/industry/aml/5-terminos-de-prevencion-de-lavado-de-dinero-que-debes-conocer",
+        permanent: true,
+      },
+      {
+        source: "/blog/pilares-programa-prevencion-lavado-dinero",
+        destination: "/blog/industry/aml/pilares-programa-prevencion-lavado-dinero",
+        permanent: true,
+      },
+      {
+        source: "/blog/trabajo-remoto-oficina-remota",
+        destination: "/blog/business-technology/cloud/trabajo-remoto-oficina-remota",
+        permanent: true,
+      },
+      {
+        source: "/blog/3-cosas-que-debes-de-saber-sobre-la-nube",
+        destination: "/blog/business-technology/cloud/3-cosas-que-debes-de-saber-sobre-la-nube",
+        permanent: true,
+      },
+      {
+        source: "/blog/deberia-subir-mi-informacion-a-la-nube",
+        destination: "/blog/business-technology/cloud/deberia-subir-mi-informacion-a-la-nube",
+        permanent: true,
+      },
     ];
   },
 };
