@@ -2,28 +2,61 @@ import type { Metadata } from "next";
 import { getAllPostsMeta, getAllTags } from "@/lib/blog";
 import BlogPage from "@/components/BlogPage";
 
-export const metadata: Metadata = {
-  title: "Blog | Nuvigant",
-  description:
-    "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.",
-  alternates: {
-    types: {
-      "application/rss+xml": "/blog/rss.xml",
+const SITE_URL = "https://nuvigant.com";
+const BASE_DESCRIPTION =
+  "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
+
+interface SearchParams {
+  tag?: string;
+  page?: string;
+}
+
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<SearchParams>;
+}): Promise<Metadata> {
+  const { tag, page } = await searchParams;
+  const currentPage = Math.max(1, parseInt(page ?? "1"));
+
+  const tagLabel = tag ? `${tag} — ` : "";
+  const pageLabel = currentPage > 1 ? ` — Página ${currentPage}` : "";
+  const title = `${tagLabel}Blog${pageLabel} | Nuvigant`;
+
+  const description = tag
+    ? `Artículos sobre ${tag} en el blog de Nuvigant: tecnología legal, gestión notarial y cumplimiento para fedatarios en México.`
+    : BASE_DESCRIPTION;
+
+  const canonicalParams = new URLSearchParams();
+  if (tag) canonicalParams.set("tag", tag);
+  if (currentPage > 1) canonicalParams.set("page", String(currentPage));
+  const qs = canonicalParams.toString();
+  const canonical = `${SITE_URL}/blog${qs ? `?${qs}` : ""}`;
+
+  return {
+    title,
+    description,
+    alternates: {
+      canonical,
+      types: { "application/rss+xml": "/blog/rss.xml" },
     },
-  },
-  openGraph: {
-    title: "Blog | Nuvigant",
-    description:
-      "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.",
-    type: "website",
-    url: "https://nuvigant.com/blog",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Blog | Nuvigant",
-    description: "Artículos sobre gestión notarial, tecnología legal e IA para fedatarios.",
-  },
-};
+    // Paginated pages beyond page 1 carry duplicate-content risk; noindex them.
+    robots: currentPage > 1 ? { index: false, follow: true } : undefined,
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      url: canonical,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: tag
+        ? `Artículos sobre ${tag} en Nuvigant.`
+        : "Artículos sobre gestión notarial, tecnología legal e IA para fedatarios.",
+    },
+  };
+}
 
 const PER_PAGE = 10;
 

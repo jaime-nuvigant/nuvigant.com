@@ -27,11 +27,41 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nuvigant · Gestión Notarial con IA",
+  metadataBase: new URL("https://nuvigant.com"),
+  title: {
+    default: "Nuvigant · Gestión Notarial con IA",
+    template: "%s · Nuvigant",
+  },
   description:
     "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
   icons: {
     icon: "/favicon.svg",
+  },
+  openGraph: {
+    type: "website",
+    locale: "es_MX",
+    url: "https://nuvigant.com",
+    siteName: "Nuvigant",
+    title: "Nuvigant · Gestión Notarial con IA",
+    description:
+      "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Nuvigant · Gestión Notarial con IA",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@nuvigant",
+    creator: "@nuvigant",
+    title: "Nuvigant · Gestión Notarial con IA",
+    description:
+      "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
+    images: ["/og-image.png"],
   },
 };
 

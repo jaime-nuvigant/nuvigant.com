@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Link from "next/link";
 import { Menu, X } from "lucide-react";
 
 const navLinks = [
@@ -31,25 +32,25 @@ export default function Navbar() {
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-16">
         {/* Logo */}
-        <a href="#" className="flex items-center gap-2 group">
+        <Link href="/" className="flex items-center gap-2 group">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#51d2e9] to-[#056dfe] flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
             <span className="text-white font-bold text-sm">N</span>
           </div>
           <span className="text-xl font-bold text-slate-900 tracking-tight">
             Nuvi<span className="text-[#056dfe]">gant</span>
           </span>
-        </a>
+        </Link>
 
         {/* Desktop links */}
         <ul className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
             <li key={link.href}>
-              <a
+              <Link
                 href={link.href}
                 className="text-sm font-medium text-slate-600 hover:text-[#056dfe] transition-colors"
               >
                 {link.label}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>
@@ -62,12 +63,12 @@ export default function Navbar() {
           >
             Iniciar sesión
           </a>
-          <a
+          <Link
             href="#contact"
             className="text-sm font-semibold text-white bg-[#056dfe] hover:bg-[#0459d4] px-5 py-2.5 rounded-lg shadow-sm hover:shadow-md transition-all"
           >
             Solicitar demo
-          </a>
+          </Link>
         </div>
 
         {/* Mobile hamburger */}
@@ -84,22 +85,22 @@ export default function Navbar() {
       {open && (
         <div className="md:hidden bg-white border-t border-slate-100 shadow-lg px-6 py-4 flex flex-col gap-4">
           {navLinks.map((link) => (
-            <a
+            <Link
               key={link.href}
               href={link.href}
               onClick={() => setOpen(false)}
               className="text-sm font-medium text-slate-700 hover:text-[#056dfe] transition-colors py-1"
             >
               {link.label}
-            </a>
+            </Link>
           ))}
-          <a
+          <Link
             href="#contact"
             onClick={() => setOpen(false)}
             className="mt-2 text-center text-sm font-semibold text-white bg-[#056dfe] hover:bg-[#0459d4] px-5 py-2.5 rounded-lg transition-all"
           >
             Solicitar demo
-          </a>
+          </Link>
         </div>
       )}
     </header>

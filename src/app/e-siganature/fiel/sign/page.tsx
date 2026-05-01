@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
 import { Suspense } from "react";
 import FielSignPage from "@/components/FielSignPage";
+
+export const metadata: Metadata = {
+  title: "Firmar con FIEL",
+  description:
+    "Firma documentos electrónicamente con tu FIEL de manera segura y con plena validez legal en México.",
+};
 
 export default function Page() {
   return (

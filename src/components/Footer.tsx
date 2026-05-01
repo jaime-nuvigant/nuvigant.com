@@ -1,10 +1,25 @@
 import { Mail } from "lucide-react";
 import { EMAIL_MAIN } from "../constants";
 
-const links = {
-  Producto: ["Características", "Calculadora ISR", "Integraciones", "Novedades"],
-  Empresa: ["Nosotros", "Blog", "Carreras", "Prensa"],
-  Legal: ["Privacidad", "Términos de uso", "Política de cookies", "NOM-151"],
+const links: Record<string, { label: string; href: string }[]> = {
+  Producto: [
+    { label: "Características", href: "/product" },
+    { label: "Calculadora ISR", href: "/fedatarios/calculo-isr" },
+    { label: "Integraciones", href: "#" },
+    { label: "Novedades", href: "#" },
+  ],
+  Empresa: [
+    { label: "Nosotros", href: "/about" },
+    { label: "Blog", href: "/blog" },
+    { label: "Carreras", href: "/careers" },
+    { label: "Prensa", href: "#" },
+  ],
+  Legal: [
+    { label: "Privacidad", href: "/privacy-notice" },
+    { label: "Términos de uso", href: "/terms-conditions" },
+    { label: "Política de cookies", href: "/cookie-policy" },
+    { label: "NOM-151", href: "#" },
+  ],
 };
 
 export default function Footer() {
@@ -14,7 +29,7 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pb-12 border-b border-slate-800">
           {/* Brand col */}
           <div className="col-span-2 md:col-span-1">
-            <a href="#" className="inline-flex items-center gap-2 mb-4">
+            <a href="/" className="inline-flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#51d2e9] to-[#056dfe] flex items-center justify-center">
                 <span className="text-white font-bold text-sm">N</span>
               </div>
@@ -70,13 +85,13 @@ export default function Footer() {
                 {heading}
               </h4>
               <ul className="space-y-2.5">
-                {items.map((item) => (
-                  <li key={item}>
+                {items.map(({ label, href }) => (
+                  <li key={label}>
                     <a
-                      href="#"
+                      href={href}
                       className="text-sm text-slate-500 hover:text-slate-200 transition-colors"
                     >
-                      {item}
+                      {label}
                     </a>
                   </li>
                 ))}
