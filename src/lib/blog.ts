@@ -69,13 +69,14 @@ function buildRenderer(): Renderer {
   };
 
   renderer.heading = ({ text, depth }) => {
+    const remappedDepth = depth === 1 ? 2 : depth;
     const id = slugify(text);
-    return `<h${depth} id="${id}">${text}</h${depth}>\n`;
+    return `<h${remappedDepth} id="${id}">${text}</h${remappedDepth}>\n`;
   };
 
   renderer.image = ({ href, title, text }) => {
     const titleAttr = title ? ` title="${title}"` : "";
-    return `<img src="${href}" alt="${text}"${titleAttr} loading="lazy" class="blog-img" />`;
+    return `<img src="${href}" alt="${text}"${titleAttr} class="blog-img" />`;
   };
 
   return renderer;

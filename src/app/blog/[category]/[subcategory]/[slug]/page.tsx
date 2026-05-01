@@ -16,6 +16,7 @@ import ShareButtons from "@/components/blog/ShareButtons";
 import ReadingProgress from "@/components/blog/ReadingProgress";
 import AuthorBio from "@/components/blog/AuthorBio";
 import RelatedPosts from "@/components/blog/RelatedPosts";
+import BlogContent from "@/components/blog/BlogContent";
 
 const SITE_NAME = "Nuvigant";
 const SITE_URL = "https://nuvigant.com";
@@ -256,10 +257,7 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
                 </div>
 
                 {/* Markdown content */}
-                <div
-                  className="blog-content"
-                  dangerouslySetInnerHTML={{ __html: post.contentHtml }}
-                />
+                <BlogContent html={post.contentHtml} />
 
                 {/* Share bar (bottom) */}
                 <div className="mt-10 pt-8 border-t border-slate-100">

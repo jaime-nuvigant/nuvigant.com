@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
+import Image from "next/image";
 import { Printer, Shield, Cpu, BookOpen } from "lucide-react";
 import { EMAIL_MAIN } from "../constants";
 
@@ -72,10 +73,12 @@ export default function ConstanciasPage() {
           >
             {/* Logo */}
             <div className="text-center mb-6">
-              <img
+              <Image
                 src="https://notariamasmas3imagenes.blob.core.windows.net/logos/cropped_logo.png"
                 alt="Nuvigant"
-                className="inline-block max-w-[280px]"
+                width={280}
+                height={80}
+                className="inline-block"
               />
             </div>
 
