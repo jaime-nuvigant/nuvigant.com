@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Automatización", "Zapier", "Notarías", "Inmobiliarias", "Tecnología"]
+tags: ["Automatización", "Fedatarios", "Venta de Inmuebles", "Tecnología"]
 excerpt: "Nuvigant se integra con Zapier para ofrecer automatización sin código a notarías e inmobiliarias. Conecta tu sistema con Gmail, DocuSign, Google Drive, QuickBooks y cientos de aplicaciones más para eliminar tareas manuales y mejorar tu eficiencia operativa."
 coverImage: "/images/blog/automatizacion-para-notarias-e-inmobiliarias-nuvigant-zapier.jpg"
 published: true

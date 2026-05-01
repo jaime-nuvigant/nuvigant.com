@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Listados Negros", "PLD", "DDC", "GAFI", "Notarios"]
+tags: ["PLD", "GAFI", "Notarios"]
 excerpt: "Tener procesos y controles internos para conocer la identidad de sus clientes y verificar que no estén involucrados en procesos criminales se ha convertido en una necesidad antilavado para las notarías en todo el mundo."
 coverImage: "/images/blog/3-cosas-que-debes-de-saber-sobre-los-listados-negros.jpg"
 published: true

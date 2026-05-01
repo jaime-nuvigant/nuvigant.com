@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación", "Construcción", "Depreciación", "Fiscal"]
+tags: ["ISR", "Enajenación", "Construcción", "Fiscal"]
 excerpt: "El cálculo de ISR por enajenación de solo una construcción incluye la depreciación del inmueble. Aprende paso a paso cómo realizarlo con un ejemplo práctico."
 coverImage: "/images/blog/solo-construccion-calculo-isr.jpg"
 published: true

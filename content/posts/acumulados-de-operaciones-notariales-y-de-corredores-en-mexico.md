@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Operaciones Vulnerables", "LFPIORPI", "Notarios", "Corredores Públicos", "PLD", "UMA", "Lavado de Dinero"]
+tags: ["PLD", "LFPIORPI", "Notarios", "Corredores Públicos", "ISR"]
 excerpt: "El artículo 17 de la LFPIORPI define las operaciones vulnerables para notarios y corredores públicos. Aquí encontrarás una tabla tabulada con los umbrales de identificación, aviso y límite efectivo expresados en UMAs."
 coverImage: "/images/blog/acumulados-de-operaciones-notariales-y-de-corredores-en-mexico.jpg"
 published: true

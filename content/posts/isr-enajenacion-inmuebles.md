@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación", "Venta de Inmuebles", "Fiscal", "Exención", "Notaría"]
+tags: ["ISR", "Enajenación", "Venta de Inmuebles", "Fiscal", "Notaría"]
 excerpt: "¿Qué es el ISR por enajenación de inmuebles, cuándo se paga y cómo se calcula? Una guía introductoria completa para notarios, inmobiliarias y vendedores."
 coverImage: "/images/blog/isr-enajenacion-inmuebles.jpg"
 published: true

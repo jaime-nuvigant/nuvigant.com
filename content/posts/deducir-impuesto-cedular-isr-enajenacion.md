@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Impuesto Cedular", "Enajenación de Inmuebles", "Deducciones", "Notaría"]
+tags: ["ISR", "Enajenación", "Notaría"]
 excerpt: "El impuesto cedular puede deducirse del ISR por venta de inmueble en estados como Chihuahua, Guanajuato o Quintana Roo. Aprende el procedimiento especial para calcularlo correctamente y reducir la carga tributaria."
 coverImage: "/images/blog/deducir-impuesto-cedular-isr-enajenacion.jpg"
 published: true

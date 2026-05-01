@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Protocolo Electrónico", "Notariado", "Firma Electrónica Avanzada", "Tecnología Notarial", "Seguridad Jurídica"]
+tags: ["Legal Tech", "Notariado", "Firma Electrónica", "Tecnología Notarial", "Fedatarios"]
 excerpt: "El protocolo electrónico notarial es una realidad que avanza en México. Conoce qué es, cuáles son sus beneficios, sus retos jurídicos y tecnológicos, y cómo puede transformar la función notarial."
 coverImage: "/images/blog/protocolo-electronico-notarial-en-mexico-2020.jpg"
 published: true

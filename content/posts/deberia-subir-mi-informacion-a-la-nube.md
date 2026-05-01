@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Nube", "Seguridad", "Notaría", "Cloud Computing", "Datos"]
+tags: ["Nube", "Legal Tech", "Notaría", "Gestión"]
 excerpt: "¿Qué es realmente la nube? ¿Deberías subir la información de tu notaría o correduría? Descubre todo lo que necesitas saber antes de dar el paso."
 coverImage: "/images/blog/deberia-subir-mi-informacion-a-la-nube.jpg"
 published: true

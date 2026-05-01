@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Factura Digital", "CFDI", "ISR", "Fedatarios", "SAT"]
+tags: ["Fiscal", "ISR", "Fedatarios"]
 excerpt: "En la práctica notarial, los clientes entregan dinero a los notarios para pagar impuestos o derechos a su nombre. ¿Ese dinero es ingreso propio? ¿Qué obligaciones fiscales genera? Aquí explicamos el fundamento legal y el procedimiento correcto."
 coverImage: "/images/blog/gastos-a-cuenta-de-terceros-para-notarios.jpg"
 published: true

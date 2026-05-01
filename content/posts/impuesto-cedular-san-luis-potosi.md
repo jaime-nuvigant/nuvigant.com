@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Impuesto Cedular", "San Luis Potosí", "Enajenación de Inmuebles", "Fedatarios"]
+tags: ["ISR", "Enajenación", "Fedatarios"]
 excerpt: "San Luis Potosí introduce el Impuesto Cedular por Enajenación de Bienes Inmuebles a partir del 1 de enero de 2025, con una tasa del 3% sobre la ganancia. Conoce quiénes lo pagan, cómo se calcula y cuáles son las exenciones."
 coverImage: "/images/blog/impuesto-cedular-san-luis-potosi.jpg"
 published: true

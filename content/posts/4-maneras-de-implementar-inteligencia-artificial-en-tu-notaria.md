@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Inteligencia Artificial", "Notaría", "ChatGPT", "Automatización", "Legal Tech"]
+tags: ["Inteligencia Artificial", "Notaría", "Automatización", "Legal Tech"]
 excerpt: "La inteligencia artificial está revolucionando el trabajo notarial. Aquí te presentamos 4 maneras concretas en las que puedes implementar la IA en tu notaría para mejorar la eficiencia, precisión y seguridad."
 coverImage: "/images/blog/4-maneras-de-implementar-inteligencia-artificial-en-tu-notaria.jpg"
 published: true

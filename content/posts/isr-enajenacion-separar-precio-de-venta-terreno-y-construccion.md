@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación de Inmuebles", "Terreno y Construcción", "Precio de Venta", "Cálculo ISR"]
+tags: ["ISR", "Enajenación", "Terreno", "Cálculo ISR"]
 excerpt: "Cuando se vende una propiedad con terreno y construcción adquiridos en fechas distintas, es necesario separar el precio de venta para calcular el ISR. Aprende los tres métodos disponibles: avalúo, proporción de compra y regla 20/80."
 coverImage: "/images/blog/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion.jpg"
 published: true

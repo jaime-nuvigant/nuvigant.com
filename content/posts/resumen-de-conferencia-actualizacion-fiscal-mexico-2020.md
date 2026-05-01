@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Actualización Fiscal 2020", "CNNM", "Extinción de Dominio", "PLD", "UIF", "Beneficiario Final", "LFPIORPI", "Notarios"]
+tags: ["Fiscal", "Fedatarios", "PLD", "UIF", "LFPIORPI", "Notarios"]
 excerpt: "Resumen del Seminario de Actualización Fiscal 2020 organizado por el CNNM: Ley de Extinción de Dominio, disposiciones antilavado, beneficiario final, tópicos fiscales federales, y el nuevo servicio gratuito de búsqueda en listados negros."
 coverImage: "/images/blog/resumen-de-conferencia-actualizacion-fiscal-mexico-2020.jpg"
 published: true

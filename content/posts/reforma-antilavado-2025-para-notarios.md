@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "Fedatarios", "LFPIORPI", "Prevención de Lavado de Dinero"]
+tags: ["PLD", "Fedatarios", "LFPIORPI"]
 excerpt: "El 16 de julio de 2025 se publicó en el Diario Oficial de la Federación una reforma profunda a la LFPIORPI que impacta directamente a los notarios, reforzando su papel en la lucha contra el lavado de dinero y exigiendo nuevos procesos, controles y registros digitales."
 coverImage: "/images/blog/reforma-antilavado-2025.jpg"
 published: true

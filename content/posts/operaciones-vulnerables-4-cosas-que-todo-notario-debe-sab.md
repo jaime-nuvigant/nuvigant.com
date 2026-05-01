@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "Compliance", "LFPIORPI", "Operaciones Vulnerables"]
+tags: ["PLD", "LFPIORPI"]
 excerpt: "En el ejercicio notarial, uno de los compromisos más importantes es el cumplimiento de la LFPIORPI. Esta legislación impone obligaciones específicas a los fedatarios públicos, entre las que destaca la identificación, control y reporte de las llamadas 'Operaciones Vulnerables'."
 coverImage: "/images/blog/operaciones-vulnerables-4-cosas-que-todo-notario-debe-sab.jpg"
 published: true

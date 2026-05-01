@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "LFPIORPI", "FATF", "GAFI", "Visitas a Notarios", "UIF", "Lavado de Dinero", "Autorregularización"]
+tags: ["PLD", "LFPIORPI", "GAFI", "Fedatarios", "UIF", "ISR"]
 excerpt: "Resumen de la plática sobre las reglas para la realización de visitas a notarios: recomendaciones GAFI, criptomonedas como actividades vulnerables, manual anti lavado, PEPs y los resultados del programa de autorregularización."
 coverImage: "/images/blog/reglas-para-la-realizacion-de-visitas-a-notarios.jpg"
 published: true

@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación", "Diferente Fecha", "Terreno", "Construcción"]
+tags: ["ISR", "Enajenación", "Terreno", "Construcción"]
 excerpt: "El cálculo de ISR de diferente fecha ocurre cuando el terreno y la construcción fueron adquiridos en fechas distintas. Es uno de los más complejos; aquí te lo explicamos paso a paso."
 coverImage: "/images/blog/calculo-isr-diferente-fecha.jpg"
 published: true

@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Inteligencia Artificial", "Post Firma", "Declaranot", "Automatización", "Fedatarios"]
+tags: ["Inteligencia Artificial", "Fedatarios", "Declaranot", "Automatización"]
 excerpt: "Nuvigant utiliza inteligencia artificial para leer una escritura y generar automáticamente los archivos de post firma y Declaranot, ahorrando tiempo y eliminando errores en el proceso notarial."
 coverImage: "/images/blog/post-firma-inteligencia-artificial.jpg"
 published: true

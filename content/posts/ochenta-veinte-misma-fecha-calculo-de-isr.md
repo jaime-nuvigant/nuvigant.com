@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación", "Ochenta Veinte", "Terreno", "Construcción"]
+tags: ["ISR", "Enajenación", "Gestión", "Terreno", "Construcción"]
 excerpt: "El cálculo ochenta veinte misma fecha es la variante más sencilla cuando se venden terreno y construcción juntos. Aprende paso a paso cómo calcularlo."
 coverImage: "/images/blog/ochenta-veinte-misma-fecha-calculo-de-isr.jpg"
 published: true

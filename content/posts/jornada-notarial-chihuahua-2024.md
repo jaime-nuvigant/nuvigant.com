@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Jornada Notarial", "Chihuahua", "PLD", "GAFI", "UIF", "Antilavado"]
+tags: ["Jornada Notarial", "PLD", "GAFI", "UIF"]
 excerpt: "En la Jornada Notarial de Chihuahua 2024 se abordaron puntos clave sobre prevención de lavado de dinero: la evaluación de México ante la GAFI, las visitas de la UIF a notarías y estrategias prácticas para el cumplimiento."
 coverImage: "/images/blog/jornada-notarial-chihuahua-2024.jpg"
 published: true

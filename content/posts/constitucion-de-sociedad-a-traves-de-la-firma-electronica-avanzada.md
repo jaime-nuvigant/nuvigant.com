@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Firma Electrónica Avanzada", "FIEL", "Constitución de Sociedad", "Fedatarios", "COVID-19"]
+tags: ["Firma Electrónica", "Fedatarios"]
 excerpt: "Por primera vez en Nuevo León se facilita la constitución de una sociedad utilizando la Firma Electrónica Avanzada. Conoce cómo fue el proceso paso a paso y lo que aprendimos."
 coverImage: "/images/blog/constitucion-de-sociedad-a-traves-de-la-firma-electronica-avanzada.jpg"
 published: true

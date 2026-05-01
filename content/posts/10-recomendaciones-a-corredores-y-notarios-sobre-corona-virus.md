@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Coronavirus", "Notarios", "Corredores", "Salud", "Prevención de Lavado de Dinero"]
+tags: ["Notarios", "Corredores Públicos", "PLD"]
 excerpt: "En caso de que no las hayan recibido, les dejamos aquí las 10 recomendaciones hechas a los notarios y corredores en México para hacer frente al Covid-19."
 coverImage: "/images/blog/10-recomendaciones-a-corredores-y-notarios-sobre-corona-virus.jpg"
 published: true

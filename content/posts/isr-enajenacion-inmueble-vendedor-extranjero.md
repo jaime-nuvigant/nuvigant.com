@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Extranjeros", "Enajenación de Inmuebles", "LISR", "Notaría", "Impuestos"]
+tags: ["ISR", "Venta de Inmuebles", "Enajenación", "Notaría", "Fiscal"]
 excerpt: "Cuando un extranjero vende un inmueble en México tiene dos opciones para calcular el ISR: pagar el 25% del precio de venta o el 35% de la utilidad obtenida. Aprende cómo funciona cada opción y cuál conviene más."
 coverImage: "/images/blog/isr-enajenacion-inmueble-vendedor-extranjero.jpg"
 published: true

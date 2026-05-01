@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Agentes Inmobiliarios", "Enajenación", "Cálculo", "Fiscal"]
+tags: ["ISR", "Venta de Inmuebles", "Enajenación", "Fiscal"]
 excerpt: "Saber calcular el ISR por venta de inmuebles puede diferenciarte como agente inmobiliario. Te explicamos por qué es importante y cómo hacerlo de manera gratuita y sencilla."
 coverImage: "/images/blog/calculo-de-isr-para-agentes-inmobiliarios.jpg"
 published: true

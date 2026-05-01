@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenación", "Terreno", "Construcción", "Variantes"]
+tags: ["ISR", "Enajenación", "Terreno", "Construcción"]
 excerpt: "Cuando se venden terreno y construcción juntos, existen diferentes variantes para calcular el ISR. En este artículo te explicamos cuándo usar cada una y qué información necesitas."
 coverImage: "/images/blog/variantes-calculo-isr-enajenacion-inmuebles.jpg"
 published: true

@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["CFDI 4.0", "Facturación", "Notarios", "SAT", "Corredores Públicos"]
+tags: ["Fiscal", "Notarios", "Corredores Públicos"]
 excerpt: "El CFDI 4.0 trae cambios importantes para notarios y corredores públicos. Te explicamos las 5 cosas más relevantes: gastos de terceros, complemento de pagos, cancelación y más."
 coverImage: "/images/blog/cfdi-4-notarios-publicos.jpg"
 published: true

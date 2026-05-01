@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Legal Tech", "Software para Abogados", "Implementación", "Despacho", "Gestión"]
+tags: ["Legal Tech", "Software para Abogados", "Gestión", "Despacho"]
 excerpt: "Implementar un software para abogados de manera exitosa requiere seguir una estrategia clara. Te compartimos 6 pasos clave para lograrlo en tu despacho o empresa."
 coverImage: "/images/blog/6-pasos-para-implementar-un-software-para-abogados.jpg"
 published: true

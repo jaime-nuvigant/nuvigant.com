@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["KPIs", "Indicadores", "Legal Tech", "Despacho", "Gestión", "Abogados"]
+tags: ["Gestión", "Legal Tech", "Despacho"]
 excerpt: "Sin datos duros solo eres una persona dando una opinión. Conoce 50 KPIs clave para abogados: operativos, financieros, de marketing y recursos humanos para impulsar tu despacho."
 coverImage: "/images/blog/50-kpis-para-abogados.jpg"
 published: true

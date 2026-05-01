@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Firma Electrónica Avanzada", "FIEL", "Notarios", "Corredores Públicos", "Tecnología Legal"]
+tags: ["Firma Electrónica", "Notarios", "Corredores Públicos", "Legal Tech"]
 excerpt: "Te explicamos qué es la Firma Electrónica Avanzada (FEA o FIEL), cómo se diferencia de la firma simple, y qué significa para el futuro de los notarios y corredores públicos en México."
 coverImage: "/images/blog/que-es-la-firma-electronica-avanzada-para-notarios-y-corredores.jpg"
 published: true

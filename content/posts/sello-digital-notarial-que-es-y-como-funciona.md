@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Fedatarios", "Sello Digital", "Escrituras", "Notarios", "Tecnología"]
+tags: ["Fedatarios", "Legal Tech", "Escrituras", "Notarios", "Tecnología"]
 excerpt: "El Sello Digital Notarial (SDN) es una herramienta en línea que permite detectar escrituras apócrifas mediante un código QR. Te explicamos cómo funciona y cómo empezar a usarlo."
 coverImage: "/images/blog/sello-digital-notarial-que-es-y-como-funciona.jpg"
 published: true

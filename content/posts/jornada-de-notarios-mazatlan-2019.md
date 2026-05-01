@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Jornada Notarial", "Mazatlán 2019", "CNNM", "INE", "Suplantación de Identidad", "Biometría", "Notarios", "Nube"]
+tags: ["Jornada Notarial", "Fedatarios", "Notarios", "Nube"]
 excerpt: "Resumen de la Jornada de Notarios Mazatlán 2019: suplantación de identidad, el nuevo convenio CNNM-INE con lector de huellas, identidad transgénero en trámites notariales, y la visión del notario en línea."
 coverImage: "/images/blog/jornada-de-notarios-mazatlan-2019.jpg"
 published: true

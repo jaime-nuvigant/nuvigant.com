@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Avalúo Referido", "Enajenación de Inmuebles", "Mejoras", "Cálculo ISR"]
+tags: ["ISR", "Enajenación", "Gestión", "Cálculo ISR"]
 excerpt: "El avalúo referido permite estimar el valor de una propiedad en una fecha pasada para deducirlo en el cálculo del ISR. Aprende cómo funciona este mecanismo en un caso real con terreno, construcción y mejoras sin facturas."
 coverImage: "/images/blog/isr-avaluo-referido-mejoras.jpg"
 published: true

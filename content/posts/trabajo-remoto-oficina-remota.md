@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Trabajo Remoto", "Oficina Remota", "Nube", "Herramientas Digitales", "Productividad"]
+tags: ["Gestión", "Nube", "Legal Tech"]
 excerpt: "La pandemia de COVID19 cambió radicalmente los paradigmas del trabajo. Aprende las 5 cosas esenciales que debes saber para transformar tu espacio en una oficina remota exitosa."
 coverImage: "/images/blog/trabajo-remoto-oficina-remota.jpg"
 published: true

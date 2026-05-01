@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["API", "Legal Tech", "Fedatarios", "Tecnología"]
+tags: ["Automatización", "Legal Tech", "Fedatarios", "Tecnología"]
 excerpt: "La fe de hechos es un documento que certifica que un evento tuvo lugar. Pero, ¿cómo aplica este concepto del derecho notarial al mundo de las APIs y la tecnología? Exploramos cómo certificar interacciones digitales con la misma rigurosidad que un fedatario."
 coverImage: "/images/blog/fe-de-hechos-de-una-api.jpg"
 published: true

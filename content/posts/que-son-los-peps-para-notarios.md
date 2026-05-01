@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PEP", "PLD", "Fedatarios", "LFPIORPI", "Prevención de Lavado de Dinero"]
+tags: ["PLD", "Fedatarios", "LFPIORPI"]
 excerpt: "Las Personas Expuestas Políticamente (PEP) son un factor de alto riesgo en la prevención de lavado de dinero. Conoce qué son, por qué importan para los notarios y cómo identificarlas de forma automatizada con Nuvigant."
 coverImage: "/images/blog/que-son-los-peps-para-notarios.jpg"
 published: true

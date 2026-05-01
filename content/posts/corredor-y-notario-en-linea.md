@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Notario en Línea", "Corredor en Línea", "Transformación Digital", "Fe Pública", "Nube", "Millennials", "Firma Electrónica"]
+tags: ["Legal Tech", "Fedatarios", "Nube", "Firma Electrónica"]
 excerpt: "El mundo está cambiando y la fe pública no es la excepción. Descubre cómo los corredores y notarios pueden ofrecer sus servicios completamente en línea, aprovechando la nube, la firma electrónica y la biometría."
 coverImage: "/images/blog/corredor-y-notario-en-linea.jpg"
 published: true

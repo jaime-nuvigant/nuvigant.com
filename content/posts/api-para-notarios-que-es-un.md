@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["API", "Legal Tech", "Tecnología Notarial", "Digitalización", "Notaría"]
+tags: ["Automatización", "Legal Tech", "Tecnología Notarial", "Notaría"]
 excerpt: "¿Qué es un API Endpoint y cómo afecta a los notarios? Entender este concepto es esencial para adaptarse al entorno digital y aprovechar las herramientas tecnológicas que transforman el trabajo notarial."
 coverImage: "/images/blog/api-para-notarios-que-es-un.jpg"
 published: true

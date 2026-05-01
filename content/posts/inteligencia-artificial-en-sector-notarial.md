@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["IA", "Fedatarios", "Automatización", "Tecnología"]
+tags: ["Inteligencia Artificial", "Fedatarios", "Automatización", "Tecnología"]
 excerpt: "La inteligencia artificial transformará el sector notarial de forma revolucionaria. Descubre cómo la IA impacta a los notarios, desde la automatización de tareas hasta la evolución de la función notarial."
 coverImage: "/images/blog/inteligencia-artificial-en-sector-notarial.jpg"
 published: true

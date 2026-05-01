@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "Terminología", "AML", "UIF", "GAFI", "KYC"]
+tags: ["PLD", "UIF", "GAFI"]
 excerpt: "Bienvenido al primer artículo de nuestro boletín de Prevención de Lavado de Dinero. Aquí te explicamos los 5 términos fundamentales que debes conocer si trabajas en una industria sujeta a las leyes PLD."
 coverImage: "/images/blog/5-terminos-de-prevencion-de-lavado-de-dinero-que-debes-conocer.jpg"
 published: true

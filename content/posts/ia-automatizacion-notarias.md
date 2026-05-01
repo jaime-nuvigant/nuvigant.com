@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["IA", "Tecnología", "Automatización"]
+tags: ["Inteligencia Artificial", "Tecnología", "Automatización"]
 excerpt: "La inteligencia artificial está dejando de ser ciencia ficción para convertirse en una herramienta cotidiana en las notarías más avanzadas de México. Desde la extracción automática de datos hasta el análisis de escrituras, exploramos cómo esta tecnología puede transformar tu práctica notarial."
 coverImage: "/images/blog/ia-automatizacion-notarias.jpg"
 published: true

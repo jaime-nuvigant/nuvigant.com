@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Nube", "Cloud Computing", "Notaría", "Tecnología", "Flexibilidad"]
+tags: ["Nube", "Notaría", "Tecnología", "Gestión"]
 excerpt: "La nube es el futuro y ya no hay vuelta atrás. Descubre las 3 cosas fundamentales que todo notario debe saber sobre trabajar en la nube."
 coverImage: "/images/blog/3-cosas-que-debes-de-saber-sobre-la-nube.jpg"
 published: true

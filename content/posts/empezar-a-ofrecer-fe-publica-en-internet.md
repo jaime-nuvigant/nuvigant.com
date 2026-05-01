@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Fedatarios", "Firma Electrónica", "Digitalización", "Notarios"]
+tags: ["Fedatarios", "Firma Electrónica", "Legal Tech", "Notarios"]
 excerpt: "En un mundo cada vez más digital, los notarios y corredores públicos pueden modernizar sus servicios ofreciéndolos en línea. Te explicamos los pasos clave para lograrlo de forma segura y legal."
 coverImage: "/images/blog/empezar-a-ofrecer-fe-publica-en-internet.jpg"
 published: true

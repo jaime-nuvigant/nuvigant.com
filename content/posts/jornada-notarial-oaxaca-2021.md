@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Notariado", "Jornada Notarial", "Oaxaca", "Lavado de Dinero", "Tecnología Notarial"]
+tags: ["Notariado", "Jornada Notarial", "PLD", "Tecnología Notarial"]
 excerpt: "Resumen de las conferencias más destacadas de la Jornada Notarial Oaxaca 2021, incluyendo temas de género, tecnología blockchain, PLD y la participación del INFONAVIT en el notariado."
 coverImage: "/images/blog/jornada-notarial-oaxaca-2021.jpg"
 published: true

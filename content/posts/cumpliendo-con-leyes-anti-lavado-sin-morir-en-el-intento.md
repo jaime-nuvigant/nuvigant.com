@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Anti Lavado", "PLD", "Cumplimiento", "Notarios", "UIF"]
+tags: ["PLD", "Notarios", "UIF"]
 excerpt: "Habiendo platicado con cientos de fedatarios públicos, en lo que concierne a las leyes anti lavado me quedan claras dos cosas: sigue siendo una de las principales preocupaciones y cumplirlas sin incurrir en costos muy altos sigue siendo un reto."
 coverImage: "/images/blog/cumpliendo-con-leyes-anti-lavado-sin-morir-en-el-intento.jpg"
 published: true

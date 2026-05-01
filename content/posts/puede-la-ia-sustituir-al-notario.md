@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["IA", "Tecnología", "Notariado"]
+tags: ["Inteligencia Artificial", "Tecnología", "Notariado"]
 excerpt: "En una era donde la Inteligencia Artificial ha comenzado a automatizar tareas que antes parecían exclusivamente humanas, la pregunta sobre si ésta pudiera sustituir al notario cobra relevancia. Analizamos por qué la figura del notario es insustituible."
 coverImage: "/images/blog/puede-ia-sustituir-al-notario.jpg"
 published: true

@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Casa Habitación", "Enajenación", "Notarios", "Fiscal"]
+tags: ["ISR", "Enajenación", "Notarios", "Fiscal"]
 excerpt: "La venta de una casa habitación puede estar exenta de ISR si se cumplen ciertos requisitos. Te explicamos los pasos y condiciones establecidos por la legislación fiscal mexicana."
 coverImage: "/images/blog/casa-habiracion-exentar-casa-habitacion.jpg"
 published: true

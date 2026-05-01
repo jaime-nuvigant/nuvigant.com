@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Casa Habitación", "Enajenación de Inmuebles", "Notarios"]
+tags: ["ISR", "Enajenación", "Notarios"]
 excerpt: "Cuando varios copropietarios venden una casa habitación, algunos pueden exentar el ISR y otros no. Descubre cómo calcular correctamente el impuesto en estos casos mixtos."
 coverImage: "/images/blog/exencion-casa-habitacion-mixta.jpg"
 published: true

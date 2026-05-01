@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Notaría", "Crecimiento", "Gestión Notarial", "Legal Tech", "Nuvigant"]
+tags: ["Notaría", "Gestión", "Legal Tech"]
 excerpt: "El crecimiento de una notaría conlleva desafíos administrativos, de personal y tecnológicos. Aquí exploramos los principales retos y cómo herramientas como Nuvigant pueden ayudarte a superarlos."
 coverImage: "/images/blog/retos-de-una-notaria-en-crecimiento.jpg"
 published: true

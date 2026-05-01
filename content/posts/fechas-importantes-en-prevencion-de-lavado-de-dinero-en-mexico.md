@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "Fechas Importantes", "LFPIORPI", "UIF", "Prevención de Lavado de Dinero"]
+tags: ["PLD", "LFPIORPI", "UIF"]
 excerpt: "Hay varias fechas de las que nos tenemos que mantener al tanto en nuestros esfuerzos por combatir al lavado de dinero. Me di la tarea de juntarlas todas y ponerlas en este artículo para que las puedan repasar cuando quieran."
 coverImage: "/images/blog/fechas-importantes-en-prevencion-de-lavado-de-dinero-en-mexico.jpg"
 published: true

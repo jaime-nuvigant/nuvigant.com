@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Depreciación", "Enajenación", "Venta de Inmuebles", "Fiscal", "Construcción"]
+tags: ["ISR", "Enajenación", "Venta de Inmuebles", "Fiscal", "Construcción"]
 excerpt: "Aprende a calcular la depreciación de un inmueble paso a paso y cómo impacta en el cálculo del ISR por enajenación, con ejemplos prácticos."
 coverImage: "/images/blog/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble.jpg"
 published: true

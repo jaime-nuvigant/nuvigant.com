@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Enajenantes", "Enajenación", "Venta de Inmuebles", "Fiscal"]
+tags: ["ISR", "Venta de Inmuebles", "Enajenación", "Fiscal"]
 excerpt: "El número de enajenantes y su porcentaje de participación son factores clave en el cálculo del ISR por venta de inmuebles. Te mostramos cómo afecta con ejemplos prácticos."
 coverImage: "/images/blog/enajenantes-y-el-calculo-isr-por-venta-de-inmuebles.jpg"
 published: true

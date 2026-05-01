@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Deducibles", "Deducciones", "Enajenación", "Venta de Inmuebles"]
+tags: ["ISR", "Enajenación", "Venta de Inmuebles"]
 excerpt: "Las deducciones en el cálculo de ISR por venta de inmuebles pueden reducir significativamente el impuesto a pagar. Aprende qué factores tomar en cuenta y cómo calcularlas."
 coverImage: "/images/blog/deducibles-calculo-isr-por-venta-de-inmuebles.jpg"
 published: true

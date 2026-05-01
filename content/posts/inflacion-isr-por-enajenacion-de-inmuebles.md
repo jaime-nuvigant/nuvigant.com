@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["ISR", "Inflación", "INPC", "Enajenación", "Venta de Inmuebles", "Fiscal"]
+tags: ["ISR", "Enajenación", "Venta de Inmuebles", "Fiscal"]
 excerpt: "Descubre cómo calcular la inflación para el ISR por enajenación de inmuebles usando el INPC o los factores de ajuste, con ejemplos paso a paso."
 coverImage: "/images/blog/inflacion-isr-por-enajenacion-de-inmuebles.jpg"
 published: true

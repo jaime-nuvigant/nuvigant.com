@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Declaranot", "PLD", "Efectivo", "Listas Negras", "Identificación", "Notarios", "Avisos UIF"]
+tags: ["Declaranot", "PLD", "Fedatarios", "Notarios"]
 excerpt: "Resumen de la plática de los Notarios Gómez Portugal y Manzanero Escutia sobre aspectos fiscales prácticos a la luz del nuevo Declaranot: límites de efectivo, identificaciones válidas, casos prácticos de avisos y búsqueda en listas negras."
 coverImage: "/images/blog/aspectos-fiscales-practicos-con-el-nuevo-declaranot.jpg"
 published: true

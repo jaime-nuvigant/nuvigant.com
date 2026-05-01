@@ -7,7 +7,7 @@ author:
   bio: "Software administrativo en la nube con inteligencia artificial para fedatarios públicos."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["PLD", "Programa de Cumplimiento", "Oficial de Cumplimiento", "ACAMS", "Auditoría"]
+tags: ["PLD", "Fiscal"]
 excerpt: "Un programa de cumplimiento de Prevención de Lavado de Dinero (PLD) efectivo se ha convertido en una necesidad. Conoce los 4 pilares que siempre tienen que ser tomados en cuenta al momento de elaborar un programa PLD efectivo."
 coverImage: "/images/blog/pilares-programa-prevencion-lavado-dinero.jpg"
 published: true

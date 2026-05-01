@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Fe de Hechos", "WhatsApp", "Mensajería Digital", "Fedatarios", "Notaría"]
+tags: ["Fedatarios", "Automatización", "Notaría"]
 excerpt: "Realizar una fe de hechos de mensajes de WhatsApp, Telegram o Messenger presenta retos técnicos, legales y operativos únicos. Conoce los desafíos que enfrentan los notarios al certificar conversaciones digitales."
 coverImage: "/images/blog/fe-de-hechos-de-mensajes-de-whatsapp-y-otras-herramientas-de-mensajeria.jpg"
 published: true

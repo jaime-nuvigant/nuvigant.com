@@ -7,7 +7,7 @@ author:
   bio: "El equipo de Nuvigant crea contenido especializado en gestión notarial, compliance y tecnología legal para fedatarios en México."
   twitter: "https://twitter.com/nuvigant"
   linkedin: "https://linkedin.com/company/nuvigant"
-tags: ["Portal de Clientes", "Notaría Digital", "Nuvigant", "Fedatarios", "Experiencia del Cliente"]
+tags: ["Legal Tech", "Fedatarios", "Gestión"]
 excerpt: "Nuvigant lanzó un Portal de Clientes para Notarías que permite seguimiento en tiempo real de trámites, carga segura de documentos y descarga de comprobantes de pago. Descubre cómo puede transformar la gestión de tu notaría."
 coverImage: "/images/blog/portal-de-clientes-para-notaria.jpg"
 published: true
