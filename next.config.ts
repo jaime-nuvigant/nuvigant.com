@@ -16,11 +16,6 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
-        source: "/blog/ia-automatizacion-notarias",
-        destination: "/blog/industry/lawyers/ia-automatizacion-notarias",
-        permanent: true,
-      },
-      {
         source: "/blog/operaciones-vulnerables-notarios",
         destination: "/blog/industry/aml/operaciones-vulnerables-4-cosas-que-todo-notario-debe-sab",
         permanent: true,
