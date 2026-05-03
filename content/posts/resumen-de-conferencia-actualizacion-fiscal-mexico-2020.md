@@ -29,7 +29,7 @@ Así es, no debemos de tener miedo ante esas reformas que ahora te considerarán
 
 *por el Notario Héctor Manuel Cárdenas Villarreal*
 
-En esta plática se presentaron varias leyes que verán algunos cambios, pero a la que más tiempo se le dedicó fue [La Ley Nacional de Extinción de Dominio](http://www.diputados.gob.mx/LeyesBiblio/pdf/LNED_090819.pdf), o como la conocemos los simples mortales: cuando te quitan todo lo que tienes por andar de maloso.
+En esta plática se presentaron varias leyes que verán algunos cambios, pero a la que más tiempo se le dedicó fue [La Ley Nacional de Extinción de Dominio](https://www.dof.gob.mx/nota_detalle.php?codigo=5567625&fecha=09/08/2019) (texto publicado en el *Diario Oficial de la Federación*), o como la conocemos los simples mortales: cuando te quitan todo lo que tienes por andar de maloso.
 
 Esta es una de las leyes que tienen al país entero de rodillas, ya que muchos sienten que con ella se eleva la evasión de impuestos al mismo nivel de seriedad que el narcotráfico. Habrá que esperar para ver si sí se ponen tan duros como todos piensan.
 
@@ -46,7 +46,7 @@ Los artículos de los que platicó fueron los siguientes:
 - **Art. 173:** Puedes asegurar los inmuebles con "medidas cautelares"
 - **Art. 175:** Las medidas cautelares las puedes hacer antes y durante el juicio
 
-Después de esto se entró brevemente a platicar sobre la nueva [Guardia Nacional](https://www.gob.mx/guardianacional) y sobre que ya se tomarán más en cuenta las comunidades [afromexicanas](https://www.conapred.org.mx/userfiles/files/FichaTematicaAfrodescendientes%20(1).pdf).
+Después de esto se entró brevemente a platicar sobre la nueva [Guardia Nacional](https://www.gob.mx/guardianacional) y sobre que ya se tomarán más en cuenta las comunidades [afromexicanas](https://sindis.conapred.gob.mx/wp-content/uploads/2021/07/FT_Afrodescendientes_Noviembre2023.pdf) (ficha temática CONAPRED / SINDIS).
 
 ## Disposiciones Antilavado: Aspectos Prácticos
 

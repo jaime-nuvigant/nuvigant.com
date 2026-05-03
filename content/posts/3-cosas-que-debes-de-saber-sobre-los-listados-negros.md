@@ -21,9 +21,9 @@ Es por eso que hay que tener procedimientos escritos en tu manual anti lavado pa
 
 ## Es tan solo un paso en tu proceso de DDC
 
-Me he encontrado con muchas personas en diferentes notarías que piensan que con tan sólo buscar en varios listados negros, ya tienen un proceso completo de Debida Diligencia de Cliente o [DDC](https://www.cfatf-gafic.org/index.php/es/documentos/gafi40-recomendaciones/416-fatf-recomendacion-10-debida-diligencia-del-cliente). En verdad esta búsqueda de listados negros es sólo un punto de partida.
+Me he encontrado con muchas personas en diferentes notarías que piensan que con tan sólo buscar en varios listados negros, ya tienen un proceso completo de Debida Diligencia de Cliente o [DDC](https://biblioteca.gafilat.org/wp-content/uploads/2024/07/Recomendaciones-metodologia-actDIC2023.pdf). En verdad esta búsqueda de listados negros es sólo un punto de partida.
 
-[La GAFI recomienda tomar medidas basadas en niveles de riesgo.](https://www.fatf-gafi.org/documents/riskbasedapproach/documents/risk-based-approach-banking-sector.html?hf=10&b=0&s=desc(fatf_releasedate)) Digamos que realizan una búsqueda de alguna persona y sale en algún listado de [PEPs (Politically Exposed Person) o de RCAs (Relatives and Close Associates)](https://www.uiaf.gov.co/transparencia/informacion_interes/glosario/personas_politicamente_expuestas_7122). Esto por si solo no es suficiente base para negarle servicio a la persona, pero definitivamente sube el riesgo relacionado con la operación. Otros factores que deben de ser tomados en cuenta son:
+[La GAFI recomienda tomar medidas basadas en niveles de riesgo.](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Risk-based-approach-banking-sector.html) Digamos que realizan una búsqueda de alguna persona y sale en algún listado de [PEPs (Politically Exposed Person) o de RCAs (Relatives and Close Associates)](https://nuvigant.com/blog/industry/aml/que-son-los-peps-para-notarios). Esto por si solo no es suficiente base para negarle servicio a la persona, pero definitivamente sube el riesgo relacionado con la operación. Otros factores que deben de ser tomados en cuenta son:
 
 - La naturaleza de la transacción relacionada
 - Las cantidades de dinero involucradas en la transacción

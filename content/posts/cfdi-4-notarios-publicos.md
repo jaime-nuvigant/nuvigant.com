@@ -21,7 +21,7 @@ Ya hasta se puede decir que extrañábamos que el SAT nos hiciera algún cambio 
 
 ### 1. Cuándo entró en vigor
 
-El complemento entró en vigor el primero de enero del 2022. Al momento de escribir este artículo, el SAT ha permitido seguir facturando con la versión 3.3 hasta el 31 de abril del 2022. En mi opinión muy personal, esta fecha se puede extender, ya que han salido varias complicaciones al hacer estos CFDIs. El SAT liberó la ficha técnica en diciembre del 2021, puedes consultarlo dando [clic aquí](https://www.sat.gob.mx/consultas/43074/actualizacion-factura-electronica---reforma-fiscal-2022-).
+El complemento entró en vigor el primero de enero del 2022. Al momento de escribir este artículo, el SAT ha permitido seguir facturando con la versión 3.3 hasta el 31 de abril del 2022. En mi opinión muy personal, esta fecha se puede extender, ya que han salido varias complicaciones al hacer estos CFDIs. El SAT liberó la ficha técnica en diciembre del 2021, puedes consultarlo dando [clic aquí](https://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20_version3-3.htm) (Anexo 20 del SAT: formato de factura electrónica y material técnico vigente).
 
 ### 2. Elemento vs Complemento de Gastos de Terceros
 
