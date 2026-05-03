@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "fedatarios"
 ---
 
-El mundo está cambiando. Cuando antes era necesario pararte en la banqueta y hacer señas y brincos hasta el cansancio para poder conseguir un taxi, ahora, como por arte de magia, puedes llamarlo directo a tu ubicación por medio de un dispositivo que cabe en el bolsillo de tu pantalón. Ocupaciones que pensábamos que nunca cambiarían están siendo revolucionadas con una rapidez sin precedente y en este artículo les voy a platicar sobre lo que yo creo será el principal cambio que veremos en el nicho de la fe pública gracias a las nuevas tendencias: [corredor y notario en línea](https://cdn.notariamasmas.com/notario-en-linea).
+El mundo está cambiando. Cuando antes era necesario pararte en la banqueta y hacer señas y brincos hasta el cansancio para poder conseguir un taxi, ahora, como por arte de magia, puedes llamarlo directo a tu ubicación por medio de un dispositivo que cabe en el bolsillo de tu pantalón. Ocupaciones que pensábamos que nunca cambiarían están siendo revolucionadas con una rapidez sin precedente y en este artículo les voy a platicar sobre lo que yo creo será el principal cambio que veremos en el nicho de la fe pública gracias a las nuevas tendencias: [corredor y notario en línea](https://nuvigant.com/blog/industry/fedatarios/corredor-y-notario-en-linea).
 
 ## A la nube y más allá
 
@@ -45,6 +45,6 @@ Nosotros crecimos con lo que a veces llaman "el chip de la tecnología" y no es 
 
 El mundo no se va a detener y los que no estemos preparados para estos cambios, nos vamos a quedar atrás. [Se estima que alrededor del 40% de los trabajos que existen hoy en día serán sustituidos por inteligencia artificial y robots en los siguientes 10 años](https://fortune.com/2019/01/10/automation-replace-jobs/). No muestro esto para asustar a nadie, pero sí para traer conciencia de que ignorar las tendencias tecnológicas se vuelve más peligroso mientras va pasando el tiempo.
 
-Si te gustaría seguir platicando sobre esto, déjanos un comentario en la parte de abajo o escríbeme a [jaime@notariamasmas.com](mailto:jaime@notariamasmas.com). Y de igual manera, si te pareció interesante este artículo y gustas compartirlo con tus compañeros, nos estarías ayudando mucho.
+Si te gustaría seguir platicando sobre esto, déjanos un comentario en la parte de abajo o escríbeme a [jaime@nuvigant.com](mailto:jaime@nuvigant.com). Y de igual manera, si te pareció interesante este artículo y gustas compartirlo con tus compañeros, nos estarías ayudando mucho.
 
 ¡Ánimo!

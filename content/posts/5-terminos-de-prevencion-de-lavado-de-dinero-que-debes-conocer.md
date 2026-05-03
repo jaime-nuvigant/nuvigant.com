@@ -17,7 +17,7 @@ subcategory: "aml"
 
 Permíteme darte la bienvenida al primer artículo de nuestro nuevo boletín de correos de Prevención de Lavado de Dinero (PLD). Este es un boletín destinado a informarles sobre novedades y datos generales de la PLD. Recibir este tipo de correos es muy importante para empezar a formar y fortalecer una cultura de PLD dentro de una empresa, algo indispensable de demostrar que tienen si llegan a tener una inspección de este tipo.
 
-Si crees que este boletín de correos es algo que te pueda ayudar, te invitamos a que te subscribas e invites a tus compañeros de trabajo a subscribirse siguiendo [esta liga](https://notariamasmas.com/pld). Les prometemos que trataremos de hacerlo lo menos aburrido posible y empezaremos haciéndolo platicando sobre los 5 términos que debes de conocer sobre la PLD.
+Si crees que este tipo de contenido te puede ayudar, te invitamos a revisar [nuestra sección sobre PLD y AML](https://nuvigant.com/aml) y a [escribirnos](https://nuvigant.com/contact) si quieres conocer cómo Nuvigant apoya el cumplimiento en tu operación. En este artículo empezamos platicando sobre los 5 términos que debes de conocer sobre la PLD.
 
 ## 1. PLD: Prevención de lavado de dinero
 
@@ -53,8 +53,8 @@ Pues ahí lo tienes, los 5 términos que debes de conocer si trabajas en una ind
 
 Ahora, de tarea les vamos a dejar leer las 40 recomendaciones de la GAFI que pueden encontrar dando [click aquí](https://www.fatf-gafi.org/media/fatf/documents/recommendations/pdfs/FATF-40-Rec-2012-Spanish.pdf). Es un excelente punto de partida, ya que son consideradas como el texto sagrado de PLD.
 
-Si te gustaría seguir fortaleciendo la cultura PLD en tu empresa, te invitamos a que te subscribas a nuestro boletín junto con todo tu equipo de trabajo siguiendo [esta liga](https://notariamasmas.com/pld), y si este artículo te sirvió de algo, te agradecemos enormemente que lo compartas con tus conocidos que les pueda también ayudar a fortalecer su cultura PLD.
+Si te gustaría seguir fortaleciendo la cultura PLD en tu empresa, te invitamos a explorar [recursos y herramientas en nuestra página PLD/AML](https://nuvigant.com/aml); si este artículo te sirvió de algo, te agradecemos enormemente que lo compartas con quien también pueda fortalecer su cultura PLD.
 
-Déjanos un comentario abajo si tienes alguna duda y pueden siempre escribirme a [jaime@nuvigant.com](mailto:jaime@notariamasmas.com).
+Déjanos un comentario abajo si tienes alguna duda y pueden siempre escribirme a [jaime@nuvigant.com](mailto:jaime@nuvigant.com).
 
 ¡Muchísimas gracias!

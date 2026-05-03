@@ -85,10 +85,10 @@ Estas sesiones de igual manera las puedes usar para entrenamiento del personal, 
 
 Para puntos adicionales con la UIF, te invitamos a que le des [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing), y compartas esa liga con tu personal. Ellos podrán escribir su correo ahí, y recibirán nuestra guía anti lavado, así como correos sobre el tema periódicamente actualizándolos con lo que hay que saber. Esto te puede ayudar en caso de una auditoría, ya que te proporciona una manera tangible de demostrar tu compromiso para que el equipo esté informado.
 
-Esas son algunas de las cosas que he visto que pueden propulsar la operación de tu empresa hacia el cumplimiento de una manera sencilla. Si te interesa resolver esto de una manera aún más sencilla, te invitamos a visitar [la página web de nuestra aplicación](https://notariamasmas.com/), que se enfoca en permitirte hacer todo esto y cumplir con estas leyes con la menor cantidad de clicks posibles.
+Esas son algunas de las cosas que he visto que pueden propulsar la operación de tu empresa hacia el cumplimiento de una manera sencilla. Si te interesa resolver esto de una manera aún más sencilla, te invitamos a visitar [la página de nuestro sistema para notarías](https://nuvigant.com/fedatarios/sistema-notarias), que se enfoca en permitirte hacer todo esto y cumplir con estas leyes con la menor cantidad de clicks posibles.
 
 Lo mejor de todo es que como nos gusta mucho la tecnología, estamos innovando constantemente, por ejemplo, para utilizar la aplicación, ya no necesitas comprar un servidor, ni mantener redes, ni pagar por licencias (es por medio de una suscripción, piensa en el Netflix del anti lavado). Tienes acceso a tu información sin importar donde estés, sólo con tener internet y con cualquier dispositivo y, según nuestros clientes, la app es muy fácil de usar y amigable (ya estamos en el 2020, así deberían de ser todos los sistemas). En verdad le quitamos lo difícil e intimidante a manejar un sistema informático.
 
-Pero bueno, espero que este artículo les sea de utilidad y cualquier duda, comentario o sugerencia, nos pueden dejar un comentario en la parte de abajo o me pueden enviar un correo a jaime@notariamasmas.com
+Pero bueno, espero que este artículo les sea de utilidad y cualquier duda, comentario o sugerencia, nos pueden dejar un comentario en la parte de abajo o me pueden enviar un correo a jaime@nuvigant.com
 
 ¡Ánimo! Que ya mero es viernes.

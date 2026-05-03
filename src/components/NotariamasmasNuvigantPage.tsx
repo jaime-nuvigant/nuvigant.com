@@ -21,7 +21,7 @@ export default function NotariamasmasNuvigantPage() {
               da clic en este botón.
             </p>
             <a
-              href="https://app.notariamasmas.com"
+              href="https://app.nuvigant.com"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#7cda24] px-6 py-3.5 font-semibold text-white shadow-lg hover:opacity-90 transition-opacity"

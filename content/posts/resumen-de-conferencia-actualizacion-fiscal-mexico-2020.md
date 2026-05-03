@@ -58,9 +58,9 @@ Pero bueno, a estas alturas ya estamos todos muy familiarizados de lo que se hab
 
 - Tener un manual anti lavado ([puedes descargar una plantilla dando click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing))
 - Tener a un oficial de cumplimiento
-- Limitar el uso de Efectivo ([más sobre esto aquí](https://blog.notariamasmas.com/blog/acumulados-de-operaciones-notariales))
+- Limitar el uso de Efectivo ([más sobre esto aquí](https://nuvigant.com/blog/industry/fedatarios/acumulados-de-operaciones-notariales-y-de-corredores-en-mexico))
 
-Te invitamos a leer nuestro artículo de [Los 4 Pilares de un Programa Anti Lavado de Dinero](https://blog.notariamasmas.com/blog/4-pilares-de-un-programa-anti-lavado), para ver más sobre este tema.
+Te invitamos a leer nuestro artículo de [Los 4 Pilares de un Programa Anti Lavado de Dinero](https://nuvigant.com/blog/industry/aml/pilares-programa-prevencion-lavado-dinero), para ver más sobre este tema.
 
 Sin embargo, hay otras cosas que se mencionaron en esta plática de las que me gustaría comentar:
 
@@ -109,7 +109,7 @@ Si el cliente dice que no conoce la existencia del dueño beneficiario, hasta ah
 
 *por la Lic. Verónica Hernández Sánchez (Directora de actividades vulnerables de la UIF) y el Notario Alfonso Gómez Portugal Aguirre*
 
-Otras vez se mencionaron muchas cosas de las que la mayoría ya estamos al tanto. [Operaciones Vulnerables y acumulados](https://blog.notariamasmas.com/blog/acumulados-de-operaciones-notariales) al igual que varias [fechas importantes](https://blog.notariamasmas.com/blog/fechas-importantes-relacionadas-al-pld-en-m%C3%A9xico) son cosas de las que ya hemos escuchado muchas veces. Pero sí hay unos puntos muy buenos que se tocaron en esta plática.
+Otras vez se mencionaron muchas cosas de las que la mayoría ya estamos al tanto. [Operaciones Vulnerables y acumulados](https://nuvigant.com/blog/industry/fedatarios/acumulados-de-operaciones-notariales-y-de-corredores-en-mexico) al igual que varias [fechas importantes](https://nuvigant.com/blog/industry/aml/fechas-importantes-en-prevencion-de-lavado-de-dinero-en-mexico) son cosas de las que ya hemos escuchado muchas veces. Pero sí hay unos puntos muy buenos que se tocaron en esta plática.
 
 Primero que nada, por fin se dio una respuesta definitiva y concreta:
 
@@ -131,7 +131,7 @@ Para cumplir con la LFPIORPI, necesitas llevar a cabo periódicamente auditoría
 
 Una sorpresa para todos es que el Colegio Nacional del Notariado Mexicano, gracias al Colegio de Notarios de Guanajuato, va a ofrecer sin costo un servicio donde podrán los notarios mexicanos buscar en los listados negros e imprimir una constancia de búsqueda. Algo justo y necesario creo yo.
 
-La única manera en que un servicio así puede ser ofrecido de manera gratuita es si se distribuye utilizando la nube. Nos da mucho gusto ver que el CNNM haya adoptado ya a la nube, tanto con el lector de huellas del convenio CNNM-INE que ya trabaja en la nube como este nuevo servicio. Te dejo también este artículo de [3 Cosas que Todo Notario debe de Saber sobre la Nube](https://blog.notariamasmas.com/blog/3-cosas-notario-debe-saber-notaria-en-la-nube).
+La única manera en que un servicio así puede ser ofrecido de manera gratuita es si se distribuye utilizando la nube. Nos da mucho gusto ver que el CNNM haya adoptado ya a la nube, tanto con el lector de huellas del convenio CNNM-INE que ya trabaja en la nube como este nuevo servicio. Te dejo también este artículo de [3 Cosas que Todo Notario debe de Saber sobre la Nube](https://nuvigant.com/blog/business-technology/cloud/3-cosas-que-debes-de-saber-sobre-la-nube).
 
 ## Cierre de Conferencias
 
@@ -143,7 +143,7 @@ Se compartieron varias estadísticas interesantes durante esta conferencia sobre
 
 Creo que fue un evento muy exitoso y excelentemente bien organizado por el CNNM. A mí, en lo personal, me hubiera gustado ver otra plática como la que hubo en Veracruz el año pasado sobre las tecnologías emergentes (eFirma, Blockchain, etc.). En especial con lo que [está pasando actualmente en Chile con estas tecnologías](https://www.biobiochile.cl/noticias/nacional/chile/2018/12/18/diputados-aprueban-proyecto-para-masificar-y-modernizar-la-firma-electronica-avanzada.shtml), donde ya se permite realizar ciertos trámites todo por medio de la firma electrónica.
 
-Creo que esa situación en Chile pudo haber sido manejada de una mejor manera siguiendo el ejemplo de los [notarios de España que llevan rato trabajando con estas tecnologías](https://cincodias.elpais.com/cincodias/2018/04/26/legal/1524740045_962339.html). Ayudarles a los notarios a implementar estas tecnologías (nube, firma electrónica, etc.) es algo que nos apasiona mucho hacer. Si les gustaría platicar sobre eso, no duden en [contactarnos aquí](/contact) o también pueden ver más información en [notariamasmas.com](https://notariamasmas.com/).
+Creo que esa situación en Chile pudo haber sido manejada de una mejor manera siguiendo el ejemplo de los [notarios de España que llevan rato trabajando con estas tecnologías](https://cincodias.elpais.com/cincodias/2018/04/26/legal/1524740045_962339.html). Ayudarles a los notarios a implementar estas tecnologías (nube, firma electrónica, etc.) es algo que nos apasiona mucho hacer. Si les gustaría platicar sobre eso, no duden en [contactarnos aquí](/contact) o también pueden ver más información en [nuvigant.com](https://nuvigant.com/).
 
 Como siempre menciono, nada de lo que está en este artículo debe de ser tomado como asesoría legal o fiscal.
 

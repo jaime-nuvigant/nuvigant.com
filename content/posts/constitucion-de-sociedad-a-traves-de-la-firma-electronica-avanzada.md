@@ -53,7 +53,7 @@ El proceso a seguir es el mismo que cuando se firma de manera autógrafa, con la
 
 Pues sí, la verdad de las cosas es que firmar de esta manera no tiene gran ciencia. La tecnología detrás de esto es algo bastante probada y aunque no lo creas ya la usas diario (el CFDI no es más que una firma electrónica).
 
-Desde que empezamos, nosotros tenemos la visión de ayudar a los fedatarios a volverse un [fedatario en línea](https://blog.notariamasmas.com/blog/corredor-y-notario-en-l%C3%ADnea) y este tipo de tecnologías son indispensables para lograr esto. Haber participado en este proceso por primera vez y ver lo fácil que fue tanto para el cliente como para el corredor es algo que nos da mucha seguridad en que vamos en el camino correcto.
+Desde que empezamos, nosotros tenemos la visión de ayudar a los fedatarios a volverse un [fedatario en línea](https://nuvigant.com/blog/industry/fedatarios/corredor-y-notario-en-linea) y este tipo de tecnologías son indispensables para lograr esto. Haber participado en este proceso por primera vez y ver lo fácil que fue tanto para el cliente como para el corredor es algo que nos da mucha seguridad en que vamos en el camino correcto.
 
 Dada la contingencia del COVID-19, hemos visto que varios estados han estado aplicándose para incorporar este tipo de operaciones a la "nueva normalidad". Algunas veces me han mencionado que al hacer los trámites de esta manera, se pierde algo del servicio personal que han ofrecido los fedatarios desde siempre.
 
