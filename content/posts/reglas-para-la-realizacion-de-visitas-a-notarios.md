@@ -21,7 +21,7 @@ Después se mencionó que ahora la compra y venta de activos virtuales o criptom
 
 ## Manual Anti Lavado
 
-Se comentó además un poco sobre el manual anti lavado. Si no tienen el de ustedes listo, les invito a dar [click aquí](https://cdn.notariamasmas.com/descarga-manual-pld) para descargar una plantilla de un manual anti lavado de manera gratuita. Obviamente tendrían ustedes que adecuarlo a su manera de trabajar, pero es un buen comienzo.
+Se comentó además un poco sobre el manual anti lavado. Si no tienen el de ustedes listo, les invito a dar [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing) para descargar una plantilla de un manual anti lavado de manera gratuita. Obviamente tendrían ustedes que adecuarlo a su manera de trabajar, pero es un buen comienzo.
 
 ## Listados de PEPs y Listas Negras
 

@@ -30,7 +30,7 @@ Es muy sencillo cumplir con esto, ya que es algo que sólo tienes que hacer una 
 
 Es necesario al descargar estos manuales, que los modifiques y adecues a tu manera de trabajar.
 
-Si aún no lo tienes te invitamos a descargar un manual de muestra que nosotros hemos creado dando [click aquí](https://cdn.notariamasmas.com/descarga-manual-pld).
+Si aún no lo tienes te invitamos a descargar un manual de muestra que nosotros hemos creado dando [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing).
 
 ## Oficial de Cumplimiento
 
@@ -83,7 +83,7 @@ Mi recomendación es que te definas a ti mismo como un negocio de mediano riesgo
 
 Estas sesiones de igual manera las puedes usar para entrenamiento del personal, analizando cualquier cambio que se haya hecho a las leyes anti lavado y repasando las que ya existen.
 
-Para puntos adicionales con la UIF, te invitamos a que le des [click aquí](https://cdn.notariamasmas.com/descarga-manual-pld), y compartas esa liga con tu personal. Ellos podrán escribir su correo ahí, y recibirán nuestra guía anti lavado, así como correos sobre el tema periódicamente actualizándolos con lo que hay que saber. Esto te puede ayudar en caso de una auditoría, ya que te proporciona una manera tangible de demostrar tu compromiso para que el equipo esté informado.
+Para puntos adicionales con la UIF, te invitamos a que le des [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing), y compartas esa liga con tu personal. Ellos podrán escribir su correo ahí, y recibirán nuestra guía anti lavado, así como correos sobre el tema periódicamente actualizándolos con lo que hay que saber. Esto te puede ayudar en caso de una auditoría, ya que te proporciona una manera tangible de demostrar tu compromiso para que el equipo esté informado.
 
 Esas son algunas de las cosas que he visto que pueden propulsar la operación de tu empresa hacia el cumplimiento de una manera sencilla. Si te interesa resolver esto de una manera aún más sencilla, te invitamos a visitar [la página web de nuestra aplicación](https://notariamasmas.com/), que se enfoca en permitirte hacer todo esto y cumplir con estas leyes con la menor cantidad de clicks posibles.
 

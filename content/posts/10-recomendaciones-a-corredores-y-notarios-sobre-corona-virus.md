@@ -43,6 +43,6 @@ En caso de que no las hayan recibido, les dejamos aquí las 10 recomendaciones h
 
 Aprovecho para recordarles, si están usando nuestra app, en caso de que vayan a trabajar haciendo "homeoffice", seguirán teniendo acceso a toda su información dentro de nuestra plataforma sin importar en donde estén.
 
-También pudiera ser un buen momento para aprender sobre la función de nuestra aplicación de carga de documentos ([click aquí](https://knowledge.notariamasmas.com/knowledge/cargar-documentos-a-la-plataforma)) que les puede servir en estos tiempos de estar aislados para mantener un órden con todos sus documentos.
+También pudiera ser un buen momento para aprender sobre la función de nuestra aplicación de carga de documentos ([click aquí](https://manual.nuvigant.com/docs/cargar-documentos-a-la-plataforma/)) que les puede servir en estos tiempos de estar aislados para mantener un órden con todos sus documentos.
 
 Tampoco se preocupen, no habrá interrupción alguna en nuestro servicio. Nuestro equipo trabaja casi completamente de manera remota, por lo que estas circunstancias no son ninguna novedad para nosotros.

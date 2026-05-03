@@ -27,7 +27,7 @@ Este método es comúnmente utilizado en notarías. Consiste en obtener un aval�
 - **Precio de venta del terreno:** $2,300,000 MXN
 - **Precio de venta de la construcción:** $10,000,000.00 – $2,300,000.00 = **$7,800,000**
 
-Muy sencillo si tienes el avalúo a la mano. Si no lo tienes, recuerda que siempre puedes sacar uno con un [perito valuador](https://www.gob.mx/indaabin/documentos/padron-nacional-de-peritos-valuadores) o un [corredor público](https://corredorespublicosmx.org/).
+Muy sencillo si tienes el avalúo a la mano. Si no lo tienes, recuerda que siempre puedes sacar uno con un [perito valuador](https://www.gob.mx/indaabin/acciones-y-programas/peritos-valuadores) o un [corredor público](https://corredorespublicosmx.org/).
 
 ![Separar-Precio-de-Venta,-ISR-Enajenación-|-Terreno-y-Construcción](/images/blog/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion-body.jpg)
 

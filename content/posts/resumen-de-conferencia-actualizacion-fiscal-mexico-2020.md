@@ -56,7 +56,7 @@ Después de esto se entró brevemente a platicar sobre la nueva [Guardia Naciona
 
 Pero bueno, a estas alturas ya estamos todos muy familiarizados de lo que se habla en estas pláticas y también ya conocemos las obligaciones muy bien:
 
-- Tener un manual anti lavado ([puedes descargar una plantilla dando click aquí](https://cdn.notariamasmas.com/descarga-manual-pld))
+- Tener un manual anti lavado ([puedes descargar una plantilla dando click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing))
 - Tener a un oficial de cumplimiento
 - Limitar el uso de Efectivo ([más sobre esto aquí](https://blog.notariamasmas.com/blog/acumulados-de-operaciones-notariales))
 
@@ -131,7 +131,7 @@ Para cumplir con la LFPIORPI, necesitas llevar a cabo periódicamente auditoría
 
 Una sorpresa para todos es que el Colegio Nacional del Notariado Mexicano, gracias al Colegio de Notarios de Guanajuato, va a ofrecer sin costo un servicio donde podrán los notarios mexicanos buscar en los listados negros e imprimir una constancia de búsqueda. Algo justo y necesario creo yo.
 
-La única manera en que un servicio así puede ser ofrecido de manera gratuita es si se distribuye utilizando la nube. Nos da mucho gusto ver que el CNNM haya adoptado ya a la nube, tanto con el [lector de huellas](https://cdn.notariamasmas.com/ine-convenio-notarios-lector-huellas-pld) que ya trabaja en la nube como este nuevo servicio. Te dejo también este artículo de [3 Cosas que Todo Notario debe de Saber sobre la Nube](https://blog.notariamasmas.com/blog/3-cosas-notario-debe-saber-notaria-en-la-nube).
+La única manera en que un servicio así puede ser ofrecido de manera gratuita es si se distribuye utilizando la nube. Nos da mucho gusto ver que el CNNM haya adoptado ya a la nube, tanto con el lector de huellas del convenio CNNM-INE que ya trabaja en la nube como este nuevo servicio. Te dejo también este artículo de [3 Cosas que Todo Notario debe de Saber sobre la Nube](https://blog.notariamasmas.com/blog/3-cosas-notario-debe-saber-notaria-en-la-nube).
 
 ## Cierre de Conferencias
 
@@ -143,7 +143,7 @@ Se compartieron varias estadísticas interesantes durante esta conferencia sobre
 
 Creo que fue un evento muy exitoso y excelentemente bien organizado por el CNNM. A mí, en lo personal, me hubiera gustado ver otra plática como la que hubo en Veracruz el año pasado sobre las tecnologías emergentes (eFirma, Blockchain, etc.). En especial con lo que [está pasando actualmente en Chile con estas tecnologías](https://www.biobiochile.cl/noticias/nacional/chile/2018/12/18/diputados-aprueban-proyecto-para-masificar-y-modernizar-la-firma-electronica-avanzada.shtml), donde ya se permite realizar ciertos trámites todo por medio de la firma electrónica.
 
-Creo que esa situación en Chile pudo haber sido manejada de una mejor manera siguiendo el ejemplo de los [notarios de España que llevan rato trabajando con estas tecnologías](https://cincodias.elpais.com/cincodias/2018/04/26/legal/1524740045_962339.html). Ayudarles a los notarios a implementar estas tecnologías (nube, firma electrónica, etc.) es algo que nos apasiona mucho hacer. Si les gustaría platicar sobre eso, no duden en [contactarnos aquí](https://cdn.notariamasmas.com/contact) o también pueden ver más información en [notariamasmas.com](https://notariamasmas.com/).
+Creo que esa situación en Chile pudo haber sido manejada de una mejor manera siguiendo el ejemplo de los [notarios de España que llevan rato trabajando con estas tecnologías](https://cincodias.elpais.com/cincodias/2018/04/26/legal/1524740045_962339.html). Ayudarles a los notarios a implementar estas tecnologías (nube, firma electrónica, etc.) es algo que nos apasiona mucho hacer. Si les gustaría platicar sobre eso, no duden en [contactarnos aquí](/contact) o también pueden ver más información en [notariamasmas.com](https://notariamasmas.com/).
 
 Como siempre menciono, nada de lo que está en este artículo debe de ser tomado como asesoría legal o fiscal.
 

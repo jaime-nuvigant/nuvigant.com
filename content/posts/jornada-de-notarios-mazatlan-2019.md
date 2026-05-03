@@ -43,7 +43,7 @@ Otra dificultad que se presenta en esta época en la que vivimos es el tema de l
 
 Con mucha emoción les platicamos que después de esto entraron en detalles del nuevo convenio que celebra el Colegio Nacional del Notariado Mexicano (CNNM) con el INE, todo para disminuir el riesgo en este tipo de operaciones. Muy pronto podrán comprar, directamente con el CNNM, un lector de huellas que les ayudará a verificar que su cliente es en verdad quién dicen ser.
 
-Si te interesan los detalles de esta herramienta, puedes dar [click aquí para aprender más sobre ellos](https://cdn.notariamasmas.com/ine-convenio-notarios-lector-huellas-pld). Ahí podrán ver los detalles que compartieron Mauricio y Vicente sobre el aparato (ellos lideran a los nerds de computadora del CNNM que desarrollaron esta aplicación).
+En la jornada, Mauricio y Vicente compartieron detalles sobre el aparato (ellos lideran a los nerds de computadora del CNNM que desarrollaron esta aplicación).
 
 Tuve la oportunidad de platicar con ellos sobre su trabajo que nos pareció excelente y estaremos muy al pendiente sobre qué novedades hay con esta nueva plataforma del CNNM.
 
