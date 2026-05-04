@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
-import { canonicalAlternates } from "@/lib/canonical-metadata";
+import { canonicalAlternates, ogMetadataSpread } from "@/lib/canonical-metadata";
 import FedatariosPricingPage from "@/components/FedatariosPricingPage";
 
+const title = "Pricing | Nuvigant";
+const description = "Nuestra plataforma crece junto contigo. Escoge los módulos que necesitas.";
 export const metadata: Metadata = {
-  ...canonicalAlternates('/fedatarios/pricing'),
-
-  title: "Pricing | Nuvigant",
-  description: "Nuestra plataforma crece junto contigo. Escoge los módulos que necesitas.",
+  ...canonicalAlternates("/fedatarios/pricing"),
+  ...ogMetadataSpread({ title, description, pathname: "/fedatarios/pricing" }),
+  title,
+  description,
 };
 
 export default function Page() {

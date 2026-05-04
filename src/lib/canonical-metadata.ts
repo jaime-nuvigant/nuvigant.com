@@ -27,11 +27,14 @@ export function ogMetadataSpread(opts: {
   description: string;
   pathname: string;
   image?: string;
+  /** Full absolute page URL (e.g. with query string). Overrides URL derived from `pathname`. */
+  openGraphUrl?: string;
 }): Pick<Metadata, "openGraph" | "twitter"> {
   const base = getSiteUrl().replace(/\/$/, "");
   const rawPath = opts.pathname.startsWith("/") ? opts.pathname : `/${opts.pathname}`;
   const pathNoTrailing = rawPath.replace(/\/+$/, "") || "/";
-  const pageUrl = pathNoTrailing === "/" ? `${base}/` : `${base}${pathNoTrailing}`;
+  const derivedPageUrl = pathNoTrailing === "/" ? `${base}/` : `${base}${pathNoTrailing}`;
+  const pageUrl = opts.openGraphUrl ?? derivedPageUrl;
   const imageUrl = absoluteOgImage(opts.image ?? DEFAULT_OG_IMAGE);
 
   return {

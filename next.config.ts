@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/blog/industry/lawyers/ia-automatizacion-notarias",
+        destination:
+          "/blog/industry/fedatarios/ia-en-notaria-automatizacion-y-analisis-de-escrituras-con-nuvigant",
+        permanent: true,
+      },
+      {
         source: "/calculo-isr/get-version-plus/propuesta-servicio",
         destination: "/fedatarios/calculo-isr/get-version-plus/propuesta-servicio",
         permanent: true,

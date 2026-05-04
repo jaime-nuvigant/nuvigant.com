@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getAllPostsMeta, getAllTags } from "@/lib/blog";
 import BlogPage from "@/components/BlogPage";
 import { getSiteUrl } from "@/lib/site-url";
+import { ogMetadataSpread } from "@/lib/canonical-metadata";
 const BASE_DESCRIPTION =
   "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
 
@@ -42,28 +43,12 @@ export async function generateMetadata({
     },
     // Paginated pages beyond page 1 carry duplicate-content risk; noindex them.
     robots: currentPage > 1 ? { index: false, follow: true } : undefined,
-    openGraph: {
+    ...ogMetadataSpread({
       title,
       description,
-      type: "website",
-      url: canonical,
-      images: [
-        {
-          url: "/og-image.png",
-          width: 1200,
-          height: 630,
-          alt: "Nuvigant · Blog",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description: tag
-        ? `Artículos sobre ${tag} en Nuvigant.`
-        : "Artículos sobre gestión notarial, tecnología legal e IA para fedatarios.",
-      images: ["/og-image.png"],
-    },
+      pathname: "/blog",
+      openGraphUrl: canonical,
+    }),
   };
 }
 

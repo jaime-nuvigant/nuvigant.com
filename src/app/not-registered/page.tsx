@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
-import { canonicalAlternates } from "@/lib/canonical-metadata";
+import { canonicalAlternates, ogMetadataSpread } from "@/lib/canonical-metadata";
 import NotRegisteredPage from "@/components/NotRegisteredPage";
 
+const title = "Not Registered | Nuvigant";
+const description = "Página de Nuvigant: Not Registered | Nuvigant";
 export const metadata: Metadata = {
-  ...canonicalAlternates('/not-registered'),
-
-  title: "Not Registered | Nuvigant",
+  ...canonicalAlternates("/not-registered"),
+  ...ogMetadataSpread({ title, description, pathname: "/not-registered" }),
+  title,
+  description,
   robots: { index: false },
 };
 
