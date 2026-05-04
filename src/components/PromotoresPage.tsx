@@ -20,7 +20,7 @@ import {
   ISR_USER_COUNT,
 } from "../constants";
 
-const AUTOMATION_VIDEO_PATH = "/automatizacion-documentos-ia-notaria#video";
+const AUTOMATION_VIDEO_PATH = "/automatizacion-documentos-ia-notaria";
 
 const pitchCards = [
   {
