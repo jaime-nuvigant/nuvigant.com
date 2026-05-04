@@ -11,6 +11,8 @@ import {
   Upload,
   Calculator,
   Wallet,
+  Wrench,
+  Headset,
 } from "lucide-react";
 import {
   WA_LINK,
@@ -181,6 +183,7 @@ export default function PromotoresPage() {
             </h2>
             <p className="mt-4 text-slate-500 leading-relaxed">
               A mayor volumen de venta en una operación, mayor comisión para ti. Sin letras chiquitas: solo dos tramos.
+              Además, defines con el cliente cómo se lleva la puesta en marcha.
             </p>
           </div>
 
@@ -209,8 +212,53 @@ export default function PromotoresPage() {
             </table>
           </div>
 
+          <div className="mt-10">
+            <h3 className="text-center text-lg font-bold text-slate-900 mb-2">
+              Implementación: tú eliges el modelo con el cliente
+            </h3>
+            <p className="text-center text-sm text-slate-500 mb-6 max-w-2xl mx-auto leading-relaxed">
+              Es opcional y se acota por escrito en cada operación. Puedes liderar la adopción tú mismo o ofrecer
+              acompañamiento reforzado facturado al cliente.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+                <div className="flex items-start gap-3">
+                  <div
+                    className="shrink-0 w-10 h-10 rounded-xl flex items-center justify-center"
+                    style={{ background: "#eff6ff" }}
+                  >
+                    <Wrench size={20} className="text-[#056dfe]" strokeWidth={1.8} />
+                  </div>
+                  <div>
+                    <p className="font-bold text-slate-900 text-sm">Implementación a tu cargo</p>
+                    <p className="mt-2 text-sm text-slate-500 leading-relaxed">
+                      Tú guías plantillas, datos iniciales y adopción en la notaría. Sin cargo adicional al cliente por
+                      soporte extendido de Nuvigant en ese esquema.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="rounded-2xl border border-emerald-200/80 bg-emerald-50/40 p-6 shadow-sm">
+                <div className="flex items-start gap-3">
+                  <div className="shrink-0 w-10 h-10 rounded-xl flex items-center justify-center bg-emerald-100">
+                    <Headset size={20} className="text-emerald-800" strokeWidth={1.8} />
+                  </div>
+                  <div>
+                    <p className="font-bold text-slate-900 text-sm">Soporte e implementación reforzados</p>
+                    <p className="mt-2 text-sm text-slate-600 leading-relaxed">
+                      Si el cliente lo necesita, puedes ofrecer paquete de acompañamiento adicional (horas, talleres,
+                      parametrización avanzada) con cargo explícito al cliente, acordado antes de cerrar.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <p className="mt-6 text-center text-sm text-slate-500">
             Montos en pesos mexicanos antes de IVA, salvo que acuerden contigo otro esquema por escrito con Nuvigant.
+            Los extras de implementación/soporte al cliente se pactan por separado y no sustituyen la comisión sobre el
+            software.
           </p>
         </div>
       </section>
