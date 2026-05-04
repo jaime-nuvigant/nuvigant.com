@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Video, Calendar, Clock, HelpCircle, ArrowRight, CheckCircle } from "lucide-react";
-import ScheduleDemoForm from "@/components/ScheduleDemoForm";
+import ScheduleDemoHero from "@/components/ScheduleDemoHero";
 
 const faqs = [
   {
@@ -39,37 +39,7 @@ export default function ScheduleDemoPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* ── Hero with form ────────────────────────────────── */}
-      <section className="relative overflow-hidden bg-white pt-28 pb-20 lg:pt-36 lg:pb-28">
-        <div
-          aria-hidden
-          className="absolute -top-40 -right-40 w-[600px] h-[600px] rounded-full opacity-[0.08] blur-3xl pointer-events-none"
-          style={{ background: "radial-gradient(circle, #51d2e9 0%, #056dfe 60%, transparent 100%)" }}
-        />
-        <div
-          aria-hidden
-          className="absolute -bottom-32 -left-32 w-[480px] h-[480px] rounded-full opacity-[0.06] blur-3xl pointer-events-none"
-          style={{ background: "radial-gradient(circle, #2ea4f2 0%, #51d2e9 70%, transparent 100%)" }}
-        />
-        <div className="relative max-w-7xl mx-auto px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            {/* Left */}
-            <div>
-              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-[1.1] tracking-tight mb-6">
-                ¿Quieres ver a Nuvigant en acción?
-              </h1>
-              <p className="text-lg text-slate-500 leading-relaxed">
-                La mejor manera de hacer esto es a través de una demo. Nos conectaremos contigo, te mostraremos todo lo
-                que necesitas ver de la aplicación y responderemos todas tus dudas.
-              </p>
-            </div>
-
-            {/* Right: Contact Form → HubSpot */}
-            <div className="bg-white rounded-2xl shadow-xl border border-slate-100 p-8">
-              <ScheduleDemoForm />
-            </div>
-          </div>
-        </div>
-      </section>
+      <ScheduleDemoHero />
 
       {/* ── FAQ ──────────────────────────────────────────── */}
       <section className="py-20 lg:py-28 bg-slate-50">
