@@ -1,9 +1,9 @@
 /**
- * WordPress legacy `?p=` / `?page_id=` → canonical pathname (no query).
- * Sourced from `.ignore/webpages.json` plus manual IDs from `.ignore/all_urls.txt`
- * where the export had query URLs (drafts / utility).
+ * WordPress legacy `?p=` (post ID) → canonical pathname (no query).
+ * `?page_id=` is handled in middleware: always redirected to `/blog`.
  *
- * Used by `src/middleware.ts`. Paths are normalized to final public URLs (single hop).
+ * Sourced from `.ignore/webpages.json` plus manual IDs from `.ignore/all_urls.txt`.
+ * Paths are normalized to final public URLs (single hop).
  */
 
 /** Normalize old permalink paths from the export to current routes. */

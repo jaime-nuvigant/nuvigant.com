@@ -7,8 +7,9 @@ import {
 } from "@/lib/wp-query-redirects";
 
 /**
- * Map legacy WordPress `/?p=ID` and `/?page_id=ID` to canonical paths so old
- * bookmarks and crawlers never hit a hard 404. Unknown IDs → soft redirect to /blog.
+ * Legacy WordPress query URLs on `/` or `/index.php`:
+ * - `page_id` → always `/blog` (we do not resolve numeric page IDs anymore).
+ * - `p` (post ID) → mapped canonical path when known; unknown → `/blog` (302).
  */
 export function middleware(request: NextRequest) {
   const { pathname, searchParams } = request.nextUrl;
@@ -27,7 +28,15 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  const id = (rawP ?? rawPageId)?.trim();
+  const pageId = rawPageId?.trim();
+  if (pageId !== undefined && pageId !== "" && /^\d+$/.test(pageId)) {
+    const url = request.nextUrl.clone();
+    url.pathname = "/blog";
+    url.search = "";
+    return NextResponse.redirect(url, 301);
+  }
+
+  const id = rawP?.trim();
   if (!id || !/^\d+$/.test(id)) {
     return NextResponse.next();
   }
@@ -40,7 +49,6 @@ export function middleware(request: NextRequest) {
   const url = request.nextUrl.clone();
   url.pathname = pathnameOut;
   url.search = "";
-  // 301 for known IDs (permanent); 302 for unknown so we never hard-404 legacy query URLs.
   const status = rawTarget ? 301 : 302;
   return NextResponse.redirect(url, status);
 }
