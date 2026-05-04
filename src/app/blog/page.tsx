@@ -4,7 +4,7 @@ import BlogPage from "@/components/BlogPage";
 import { getSiteUrl } from "@/lib/site-url";
 import { ogMetadataSpread } from "@/lib/canonical-metadata";
 const BASE_DESCRIPTION =
-  "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
+  "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios.";
 
 interface SearchParams {
   tag?: string;

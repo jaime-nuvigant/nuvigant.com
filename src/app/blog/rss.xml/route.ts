@@ -2,7 +2,7 @@ import { getAllPostsMeta, getPostUrl } from "@/lib/blog";
 import { getSiteUrl } from "@/lib/site-url";
 const SITE_NAME = "Nuvigant";
 const SITE_DESCRIPTION =
-  "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
+  "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios.";
 
 function escapeXml(str: string): string {
   return str

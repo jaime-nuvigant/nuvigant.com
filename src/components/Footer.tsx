@@ -7,8 +7,7 @@ const links: Record<string, { label: string; href: string }[]> = {
   Producto: [
     { label: "Características", href: "/product" },
     { label: "Calculadora ISR", href: "/fedatarios/calculo-isr" },
-    { label: "Integraciones", href: "#" },
-    { label: "Novedades", href: "#" },
+    { label: "Novedades", href: "/blog" },
   ],
   Empresa: [
     { label: "Nosotros", href: "/about" },
@@ -41,8 +40,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-sm leading-relaxed text-slate-500 max-w-xs">
-              La plataforma de gestión notarial con inteligencia artificial para
-              México.
+              La plataforma de gestión notarial con inteligencia artificial.
             </p>
             <div className="flex items-center gap-3 mt-6">
               <a

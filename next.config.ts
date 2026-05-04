@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import { wordpressLegacyRedirects } from "./wordpress-redirects";
 
 const nextConfig: NextConfig = {
   images: {
@@ -468,6 +469,7 @@ const nextConfig: NextConfig = {
         destination: "/blog/business-technology/cloud/deberia-subir-mi-informacion-a-la-nube",
         permanent: true,
       },
+      ...wordpressLegacyRedirects,
     ];
   },
 };

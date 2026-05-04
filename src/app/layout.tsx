@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     template: "%s · Nuvigant",
   },
   description:
-    "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
+    "Nuvigant — Plataforma de gestión notarial con IA. Portal de clientes, prevención de lavado, facturación electrónica y más.",
   icons: {
     icon: "/favicon.ico",
     apple: "/favicon.ico",
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     siteName: "Nuvigant",
     title: "Nuvigant · Gestión Notarial con IA",
     description:
-      "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
+      "Nuvigant — Plataforma de gestión notarial con IA. Portal de clientes, prevención de lavado, facturación electrónica y más.",
     images: [
       {
         url: "/og-image.png",

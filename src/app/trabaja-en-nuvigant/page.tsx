@@ -3,7 +3,7 @@ import { canonicalAlternates, ogMetadataSpread } from "@/lib/canonical-metadata"
 import TrabajaPage from "@/components/TrabajaPage";
 
 const title = "Trabaja en Nuvigant";
-const description = "Forma parte del equipo de Nuvigant. Buscamos personas talentosas apasionadas por la tecnología y el derecho para transformar la gestión notarial en México.";
+const description = "Forma parte del equipo de Nuvigant. Buscamos personas talentosas apasionadas por la tecnología y el derecho para transformar la gestión notarial.";
 export const metadata: Metadata = {
   ...canonicalAlternates("/trabaja-en-nuvigant"),
   ...ogMetadataSpread({ title, description, pathname: "/trabaja-en-nuvigant" }),

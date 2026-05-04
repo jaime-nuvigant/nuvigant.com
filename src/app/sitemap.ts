@@ -73,7 +73,6 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   // Events & webinars
   { path: "/cfdi-4-0-videos",                     priority: 0.5,  changeFrequency: "yearly" },
   { path: "/videos-producto",                     priority: 0.5,  changeFrequency: "yearly" },
-  { path: "/calcula-isr-seminario-actualizacion-fiscal", priority: 0.5, changeFrequency: "yearly" },
   { path: "/constancias-webinar-pld-2025",        priority: 0.5,  changeFrequency: "yearly" },
   { path: "/webinar-herramientas-1",              priority: 0.5,  changeFrequency: "yearly" },
   { path: "/webinar-ia-en-fe-publica",            priority: 0.5,  changeFrequency: "yearly" },
