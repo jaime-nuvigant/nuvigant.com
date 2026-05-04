@@ -1,0 +1,72 @@
+---
+description: HubSpot Marketing Forms API — submit leads programmatically (portal, form GUID, field names)
+globs: src/app/api/hubspot/**/*,src/components/ScheduleDemoForm.tsx
+alwaysApply: false
+---
+
+# HubSpot: submitting a form via API
+
+This project posts demo requests to HubSpot using the **public Forms v3 integration** endpoint (no private app token required for this flow).
+
+## Endpoint
+
+```http
+POST https://api.hsforms.com/submissions/v3/integration/submit/{portalId}/{formGuid}
+Content-Type: application/json
+```
+
+- **`portalId`**: HubSpot account (Hub) ID — numeric, same as in `https://app.hubspot.com/.../{portalId}/...`.
+- **`formGuid`**: The form’s GUID (UUID) from Marketing → Forms → form settings / embed.
+
+Override in this repo via env (defaults are in `src/app/api/hubspot/demo/route.ts`):
+
+- `HUBSPOT_PORTAL_ID`
+- `HUBSPOT_DEMO_FORM_GUID`
+
+## Request body
+
+HubSpot expects JSON with at least:
+
+- **`fields`**: array of `{ "name": "<internal field name>", "value": "<string>" }`.
+  - Each **`name`** must match the **internal name** of a field on that exact form (not the label). In HubSpot: open the form → select a field → **Internal name** / property mapping.
+  - If the form marks a field as required in HubSpot, you must include it or the API returns **400** (e.g. missing `lastname`, `phone`).
+- **`context`** (recommended): `{ "pageUri": "<url>", "pageName": "<label>" }` for attribution.
+- **`context.hutk`** (optional): visitor token from the `hubspotutk` cookie when the tracking script is present — helps merge sessions in HubSpot.
+
+Example shape:
+
+```json
+{
+  "fields": [
+    { "name": "firstname", "value": "Jane" },
+    { "name": "lastname", "value": "Doe" },
+    { "name": "email", "value": "jane@example.com" },
+    { "name": "phone", "value": "+52..." },
+    { "name": "company", "value": "Acme" }
+  ],
+  "context": {
+    "pageUri": "https://example.com/schedule-demo/",
+    "pageName": "Solicitar Demo — Nuvigant",
+    "hutk": "optional-cookie-value"
+  }
+}
+```
+
+## Responses and errors
+
+- **2xx**: submission accepted.
+- **4xx**: invalid payload — read the JSON body; common cases are wrong **`fields[].name`** (typo vs form) or **required fields missing**. Fix the mapping or add fields in code to match the live HubSpot form.
+- This app’s route maps non-success HubSpot responses to **502** for the browser but logs **`[hubspot demo]`** with status and body in the server log for debugging.
+
+## Implementation in this repo
+
+| Piece | Role |
+|--------|------|
+| `POST /api/hubspot/demo` | Validates JSON from the site, maps Spanish keys to HubSpot **`fields`**, calls `api.hsforms.com`. |
+| `src/components/ScheduleDemoForm.tsx` | Client form; sends `nombre` → `firstname`, `apellidos` → `lastname`, plus `email`, `telefono` → `phone`, optional `empresa` → `company`, optional `mensaje` → `message`, plus `pageUri` and optional `hutk`. |
+
+**`FIELD_MAP`** in the route maps our optional/custom keys to HubSpot internal names. If you add or rename properties on the HubSpot form, update **`FIELD_MAP`** and/or the explicit `firstname` / `lastname` handling to stay in sync.
+
+## Official reference
+
+Use HubSpot’s current docs for the submit endpoint and any GDPR / `legalConsentOptions` requirements: [Marketing forms / submit data](https://developers.hubspot.com/docs/api/marketing/forms) (and linked “Submit data to a form” / legacy v3 integration guides as HubSpot redirects).

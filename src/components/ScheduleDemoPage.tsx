@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Video, Calendar, Clock, HelpCircle, ArrowRight, CheckCircle } from "lucide-react";
-import { EMAIL_MAIN } from "@/constants";
+import ScheduleDemoForm from "@/components/ScheduleDemoForm";
 
 const faqs = [
   {
@@ -63,76 +63,9 @@ export default function ScheduleDemoPage() {
               </p>
             </div>
 
-            {/* Right: Contact Form */}
+            {/* Right: Contact Form → HubSpot */}
             <div className="bg-white rounded-2xl shadow-xl border border-slate-100 p-8">
-              <h2 className="text-xl font-bold text-slate-900 mb-2">Solicitar una Demo</h2>
-              <p className="text-slate-500 text-sm mb-6">Nos pondremos en contacto contigo muy pronto.</p>
-
-              <form
-                action={`mailto:${EMAIL_MAIN}`}
-                method="get"
-                encType="text/plain"
-                className="space-y-4"
-              >
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  <div>
-                    <label className="block text-sm font-medium text-slate-700 mb-1">Nombre</label>
-                    <input
-                      type="text"
-                      name="nombre"
-                      required
-                      placeholder="Tu nombre"
-                      className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                    />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-slate-700 mb-1">Empresa</label>
-                    <input
-                      type="text"
-                      name="empresa"
-                      placeholder="Tu empresa"
-                      className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                    />
-                  </div>
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Correo electrónico</label>
-                  <input
-                    type="email"
-                    name="email"
-                    required
-                    placeholder="tu@empresa.com"
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                  />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Teléfono (opcional)</label>
-                  <input
-                    type="tel"
-                    name="telefono"
-                    placeholder="+52 55 0000 0000"
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                  />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Mensaje</label>
-                  <textarea
-                    name="mensaje"
-                    rows={3}
-                    placeholder="Cuéntanos brevemente sobre tu empresa y qué te gustaría ver en la demo..."
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm resize-none"
-                  />
-                </div>
-
-                <button
-                  type="submit"
-                  className="w-full inline-flex items-center justify-center gap-2 text-white font-bold text-base py-4 rounded-xl shadow-lg hover:shadow-xl transition-all"
-                  style={{ background: "linear-gradient(135deg, #056dfe 0%, #2ea4f2 100%)" }}
-                >
-                  Solicitar Demo
-                  <ArrowRight size={18} />
-                </button>
-              </form>
+              <ScheduleDemoForm />
             </div>
           </div>
         </div>

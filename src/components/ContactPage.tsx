@@ -148,63 +148,75 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* ── Email Form Section ────────────────────────────── */}
-      <section className="py-20 lg:py-28 bg-slate-50">
-        <div className="max-w-3xl mx-auto px-6 lg:px-8">
-          <div className="text-center mb-10">
-            <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-              Envía un correo
-            </h2>
-            <p className="mt-4 text-slate-500 text-lg">
-              Te dejamos esta forma que de igual manera puedes usar para contactarnos con cualquier duda.
-            </p>
-          </div>
+      {/* ── Email Form (layout aligned with agenda-demo hero) ─ */}
+      <section className="relative overflow-hidden bg-white pt-28 pb-20 lg:pt-36 lg:pb-28">
+        <div
+          aria-hidden
+          className="absolute -top-40 -right-40 w-[600px] h-[600px] rounded-full opacity-[0.08] blur-3xl pointer-events-none"
+          style={{ background: "radial-gradient(circle, #51d2e9 0%, #056dfe 60%, transparent 100%)" }}
+        />
+        <div
+          aria-hidden
+          className="absolute -bottom-32 -left-32 w-[480px] h-[480px] rounded-full opacity-[0.06] blur-3xl pointer-events-none"
+          style={{ background: "radial-gradient(circle, #2ea4f2 0%, #51d2e9 70%, transparent 100%)" }}
+        />
+        <div className="relative max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div>
+              <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-[1.1] tracking-tight mb-6">
+                Envía un correo
+              </h2>
+              <p className="text-lg text-slate-500 leading-relaxed">
+                Te dejamos esta forma que de igual manera puedes usar para contactarnos con cualquier duda.
+              </p>
+            </div>
 
-          <div className="bg-white rounded-2xl shadow-lg border border-slate-100 p-8">
-            <form
-              action={`mailto:${EMAIL_MAIN}`}
-              method="get"
-              encType="text/plain"
-              className="space-y-5"
-            >
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Nombre</label>
-                  <input
-                    type="text"
-                    name="nombre"
-                    placeholder="Tu nombre completo"
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                  />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Correo</label>
-                  <input
-                    type="email"
-                    name="email"
-                    placeholder="tu@email.com"
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
-                  />
-                </div>
-              </div>
-              <div>
-                <label className="block text-sm font-medium text-slate-700 mb-1">Mensaje</label>
-                <textarea
-                  name="mensaje"
-                  rows={5}
-                  placeholder="¿En qué te podemos ayudar?"
-                  className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm resize-none"
-                />
-              </div>
-              <button
-                type="submit"
-                className="w-full inline-flex items-center justify-center gap-2 text-white font-bold text-base py-4 rounded-xl shadow-lg hover:shadow-xl transition-all"
-                style={{ background: "linear-gradient(135deg, #3D72E7 0%, #53a0fe 100%)" }}
+            <div className="bg-white rounded-2xl shadow-xl border border-slate-100 p-8">
+              <form
+                action={`mailto:${EMAIL_MAIN}`}
+                method="get"
+                encType="text/plain"
+                className="space-y-5"
               >
-                Enviar mensaje
-                <ArrowRight size={18} />
-              </button>
-            </form>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                  <div>
+                    <label className="block text-sm font-medium text-slate-700 mb-1">Nombre</label>
+                    <input
+                      type="text"
+                      name="nombre"
+                      placeholder="Tu nombre completo"
+                      className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium text-slate-700 mb-1">Correo</label>
+                    <input
+                      type="email"
+                      name="email"
+                      placeholder="tu@email.com"
+                      className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm"
+                    />
+                  </div>
+                </div>
+                <div>
+                  <label className="block text-sm font-medium text-slate-700 mb-1">Mensaje</label>
+                  <textarea
+                    name="mensaje"
+                    rows={5}
+                    placeholder="¿En qué te podemos ayudar?"
+                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-[#056dfe] focus:ring-2 focus:ring-[#056dfe]/10 transition text-sm resize-none"
+                  />
+                </div>
+                <button
+                  type="submit"
+                  className="w-full inline-flex items-center justify-center gap-2 text-white font-bold text-base py-4 rounded-xl shadow-lg hover:shadow-xl transition-all"
+                  style={{ background: "linear-gradient(135deg, #3D72E7 0%, #53a0fe 100%)" }}
+                >
+                  Enviar mensaje
+                  <ArrowRight size={18} />
+                </button>
+              </form>
+            </div>
           </div>
         </div>
       </section>
