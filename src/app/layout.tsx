@@ -39,7 +39,8 @@ export const metadata: Metadata = {
   description:
     "Nuvigant — Plataforma de gestión notarial con IA para México. Portal de clientes, prevención de lavado, facturación electrónica y más.",
   icons: {
-    icon: "/favicon.svg",
+    icon: "/favicon.ico",
+    apple: "/favicon.ico",
   },
   openGraph: {
     type: "website",

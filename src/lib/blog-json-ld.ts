@@ -42,7 +42,10 @@ export function articleJsonLd(post: Post, canonical: string) {
       "@type": "Organization",
       name: SITE_NAME,
       url: getSiteUrl(),
-      logo: { "@type": "ImageObject", url: `${getSiteUrl()}/favicon.svg` },
+      logo: {
+        "@type": "ImageObject",
+        url: `${getSiteUrl().replace(/\/$/, "")}/images/nuvigant-letter-logo.png`,
+      },
     },
     mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
     keywords: post.tags.join(", "),

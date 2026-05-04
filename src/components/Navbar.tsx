@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
 
@@ -32,13 +33,15 @@ export default function Navbar() {
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-16">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2 group">
-          <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#51d2e9] to-[#056dfe] flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
-            <span className="text-white font-bold text-sm">N</span>
-          </div>
-          <span className="text-xl font-bold text-slate-900 tracking-tight">
-            Nuvi<span className="text-[#056dfe]">gant</span>
-          </span>
+        <Link href="/" className="flex items-center group shrink-0">
+          <Image
+            src="/images/nuvigant-letter-logo.png"
+            alt="Nuvigant"
+            width={450}
+            height={100}
+            className="h-8 sm:h-9 w-auto max-w-[min(200px,55vw)] object-contain object-left group-hover:opacity-90 transition-opacity"
+            priority
+          />
         </Link>
 
         {/* Desktop links */}

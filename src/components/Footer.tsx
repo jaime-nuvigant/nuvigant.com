@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Mail } from "lucide-react";
 import { EMAIL_MAIN } from "../constants";
@@ -30,13 +31,14 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pb-12 border-b border-slate-800">
           {/* Brand col */}
           <div className="col-span-2 md:col-span-1">
-            <Link href="/" className="inline-flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#51d2e9] to-[#056dfe] flex items-center justify-center">
-                <span className="text-white font-bold text-sm">N</span>
-              </div>
-              <span className="text-white font-bold text-lg tracking-tight">
-                Nuvi<span className="text-[#2ea4f2]">gant</span>
-              </span>
+            <Link href="/" className="inline-flex items-center mb-4">
+              <Image
+                src="/images/nuvigant-letter-logo.png"
+                alt="Nuvigant"
+                width={450}
+                height={100}
+                className="h-9 w-auto max-w-[220px] object-contain object-left opacity-95 hover:opacity-100 transition-opacity"
+              />
             </Link>
             <p className="text-sm leading-relaxed text-slate-500 max-w-xs">
               La plataforma de gestión notarial con inteligencia artificial para
