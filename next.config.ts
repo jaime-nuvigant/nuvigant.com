@@ -16,6 +16,16 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/fedatarios/calculo-isr/inmobiliarias",
+        destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/fedatarios/calculo-isr",
+        destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
         source: "/blog/operaciones-vulnerables-notarios",
         destination: "/blog/industry/aml/operaciones-vulnerables-4-cosas-que-todo-notario-debe-sab",
         permanent: true,

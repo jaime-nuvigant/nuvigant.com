@@ -2,6 +2,12 @@ import { MetadataRoute } from "next";
 import { getAllPostsMeta, getPostUrl } from "@/lib/blog";
 import { getSiteUrl } from "@/lib/site-url";
 
+/**
+ * Lean sitemap: indexable marketing and product URLs only.
+ * Omitted on purpose (still crawlable via nav/footer, no loss of eligibility to be indexed):
+ * - Legal pages (linked sitewide in the footer).
+ * - Shorter ISR calculator paths; canonical product URL stays listed below.
+ */
 const STATIC_ROUTES: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
   { path: "/",                                    priority: 1.0,  changeFrequency: "weekly" },
   { path: "/product",                             priority: 0.9,  changeFrequency: "monthly" },
@@ -15,8 +21,6 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/fedatarios/sistema-de-corredores-publicos", priority: 0.7, changeFrequency: "monthly" },
   { path: "/fedatarios/calculo-de-isr-enajenacion-inmuebles", priority: 0.7, changeFrequency: "monthly" },
   { path: "/fedatarios/calculo-de-isr-enajenacion-inmuebles/definiciones-en-el-isr-por-enajenacion-de-inmuebles", priority: 0.6, changeFrequency: "monthly" },
-  { path: "/fedatarios/calculo-isr",              priority: 0.7,  changeFrequency: "monthly" },
-  { path: "/fedatarios/calculo-isr/inmobiliarias",priority: 0.6,  changeFrequency: "monthly" },
   { path: "/fedatarios/implementation",           priority: 0.6,  changeFrequency: "monthly" },
   { path: "/fedatarios/pricing",                  priority: 0.7,  changeFrequency: "monthly" },
 
@@ -62,11 +66,6 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/webinar-herramientas-1",              priority: 0.5,  changeFrequency: "yearly" },
   { path: "/webinar-ia-en-fe-publica",            priority: 0.5,  changeFrequency: "yearly" },
   { path: "/webinar-reforma-pld-2025-para-notarios", priority: 0.5, changeFrequency: "yearly" },
-
-  // Legal
-  { path: "/privacy-notice",                      priority: 0.3,  changeFrequency: "yearly" },
-  { path: "/cookie-policy",                       priority: 0.3,  changeFrequency: "yearly" },
-  { path: "/terms-conditions",                    priority: 0.3,  changeFrequency: "yearly" },
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
