@@ -16,6 +16,76 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/calculo-isr/get-version-plus/propuesta-servicio",
+        destination: "/fedatarios/calculo-isr/get-version-plus/propuesta-servicio",
+        permanent: true,
+      },
+      {
+        source: "/calculo-isr/get-version-plus",
+        destination: "/fedatarios/calculo-isr/get-version-plus",
+        permanent: true,
+      },
+      {
+        source: "/calculo-isr/inmobiliarias/gracias-20565403133",
+        destination: "/fedatarios/calculo-isr/gracias-20565403133",
+        permanent: true,
+      },
+      {
+        source: "/calculo-isr/inmobiliarias",
+        destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/calculo-isr",
+        destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/fedatarios/fe-de-hechos-de-una-api",
+        destination: "/blog/industry/lawyers/fe-de-hechos-de-una-api",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/fedatarios/post-firma-inteligencia-artificial",
+        destination: "/blog/inteligencia-artificial/post-firma-inteligencia-artificial",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/lawyers/legal-tech/puede-la-ia-sustituir-al-notario",
+        destination: "/blog/industry/lawyers/puede-la-ia-sustituir-al-notario",
+        permanent: true,
+      },
+      {
+        source: "/blog/business-technology/extraccion-automatica-de-datos-de-documentos",
+        destination: "/blog/inteligencia-artificial/extraccion-automatica-de-datos-de-documentos",
+        permanent: true,
+      },
+      {
+        source: "/blog/industry/fedatarios/reforma-antilavado-2025-para-notarios",
+        destination: "/blog/industry/aml/reforma-antilavado-2025-para-notarios",
+        permanent: true,
+      },
+      {
+        source: "/fedatarios/sistema-notarias/gastos-cuenta-terceros",
+        destination: "/blog/industry/fedatarios/gastos-a-cuenta-de-terceros-para-notarios",
+        permanent: true,
+      },
+      {
+        source: "/fedatarios/sistema-de-notarias-para-notarias-nuevas",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/25836-2",
+        destination: "/webinar-herramientas-1",
+        permanent: true,
+      },
+      {
+        source: "/28213-2",
+        destination: "/webinar-reforma-pld-2025-para-notarios",
+        permanent: true,
+      },
+      {
         source: "/fedatarios/calculo-isr/inmobiliarias",
         destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
         permanent: true,
