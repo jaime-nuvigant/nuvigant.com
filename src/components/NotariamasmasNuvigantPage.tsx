@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ExternalLink, ArrowRight } from "lucide-react";
 
 export default function NotariamasmasNuvigantPage() {
@@ -35,13 +36,13 @@ export default function NotariamasmasNuvigantPage() {
             <p className="text-white text-lg leading-relaxed">
               Lee un poco más sobre este cambio de imagen.
             </p>
-            <a
+            <Link
               href="/client-news/cambio-notaria-nuvigant"
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#e09900] px-6 py-3.5 font-semibold text-white shadow-lg hover:opacity-90 transition-opacity"
             >
               <ArrowRight size={16} />
               Leer sobre el cambio de imagen
-            </a>
+            </Link>
           </div>
         </div>
       </section>

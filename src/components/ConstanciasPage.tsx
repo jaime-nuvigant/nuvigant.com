@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { Printer, Shield, Cpu, BookOpen } from "lucide-react";
@@ -49,12 +50,12 @@ export default function ConstanciasPage() {
           </button>
           <p className="mt-3 text-sm text-slate-500">
             ¿Aún no has tomado la capacitación?{" "}
-            <a
+            <Link
               href="/webinar-reforma-pld-2025-para-notarios"
               className="text-[#056dfe] font-medium hover:underline"
             >
               Mírala aquí
-            </a>
+            </Link>
           </p>
         </div>
 

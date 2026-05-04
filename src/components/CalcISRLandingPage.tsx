@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Calculator, Smartphone, RefreshCw, CheckCircle, ArrowRight } from "lucide-react";
 import { URL_ISR } from "../constants";
 
@@ -164,12 +165,12 @@ export default function CalcISRLandingPage() {
                 Exportar la información al DECLARANOT para notarías
               </li>
             </ul>
-            <a
+            <Link
               href="/fedatarios/calculo-isr/get-version-plus"
               className="mt-8 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-[#3D72E7] to-[#53a0fe] px-8 py-3.5 font-bold text-white shadow-lg hover:shadow-xl transition-shadow"
             >
               Ver más info <ArrowRight size={16} />
-            </a>
+            </Link>
           </div>
           <div className="rounded-2xl bg-slate-50 border border-slate-200 h-72 flex items-center justify-center">
             <Calculator size={64} className="text-slate-300" />

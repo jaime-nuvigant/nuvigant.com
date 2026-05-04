@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import {
   ArrowRight,
   CheckCircle,
@@ -218,14 +219,14 @@ export default function PricingPage() {
                     <p className="text-slate-500 text-sm mb-3 leading-relaxed">
                       Te preparamos una propuesta personalizada.
                     </p>
-                    <a
-                      href="/contacto"
+                    <Link
+                      href="/contact"
                       className="group inline-flex items-center gap-2 text-white font-bold text-sm px-5 py-2.5 rounded-lg shadow hover:shadow-md transition-all"
                       style={{ background: "linear-gradient(135deg, #056dfe 0%, #2ea4f2 100%)" }}
                     >
                       Ponte en contacto
                       <ArrowRight size={15} className="group-hover:translate-x-1 transition-transform" />
-                    </a>
+                    </Link>
                   </div>
                 ) : (
                   <>

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ArrowRight, Heart, Zap, Globe, Users } from "lucide-react";
 import { EMAIL_MAIN } from "../constants";
 
@@ -70,12 +71,12 @@ export default function TrabajaPage() {
                   Enviar mi CV
                   <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
                 </a>
-                <a
+                <Link
                   href="/"
                   className="inline-flex items-center gap-2 text-slate-900 font-bold text-base px-8 py-3.5 rounded-xl border-4 border-slate-900 bg-transparent hover:bg-slate-900 hover:text-white transition-all shadow-md"
                 >
                   Conoce más de Nuvigant
-                </a>
+                </Link>
               </div>
             </div>
 

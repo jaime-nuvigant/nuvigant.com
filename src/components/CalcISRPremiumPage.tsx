@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CheckCircle, Quote, ArrowRight } from "lucide-react";
 import { PRICE_ISR_PRO } from "../constants";
 
@@ -59,13 +60,13 @@ export default function CalcISRPremiumPage() {
             </p>
           </div>
           <div className="mt-8">
-            <a
+            <Link
               href="/fedatarios/calculo-de-isr-enajenacion-inmuebles/datos-fiscalesregistro-pago-isr"
               className="inline-flex items-center gap-2 rounded-xl bg-white px-8 py-4 font-bold text-[#4161d4] shadow-lg transition hover:shadow-xl"
             >
               ¡Regístrate aquí!
               <ArrowRight size={18} />
-            </a>
+            </Link>
           </div>
         </div>
       </section>
@@ -97,13 +98,13 @@ export default function CalcISRPremiumPage() {
             ))}
           </div>
           <div className="mt-12 text-center">
-            <a
+            <Link
               href="/fedatarios/calculo-de-isr-enajenacion-inmuebles/datos-fiscalesregistro-pago-isr"
               className="inline-flex items-center gap-2 rounded-xl bg-[#2ea4f2] px-8 py-4 font-bold text-white shadow-lg transition hover:shadow-xl"
             >
               ¡Regístrate aquí!
               <ArrowRight size={18} />
-            </a>
+            </Link>
           </div>
         </div>
       </section>

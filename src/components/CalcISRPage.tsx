@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { ArrowRight, CheckCircle, Quote } from "lucide-react";
 import { URL_ISR_CALCULATOR, URL_ISR, WA_LINK } from "../constants";
 
@@ -122,13 +123,13 @@ export default function CalcISRPage() {
             revisa la versión avanzada de la herramienta.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a
+            <Link
               href="/fedatarios/calculo-isr/get-version-plus"
               className="inline-flex items-center gap-2 rounded-xl bg-[#544fff] px-7 py-3.5 font-semibold text-white shadow-lg transition hover:shadow-xl"
             >
               Ver versión PLUS
               <ArrowRight size={18} />
-            </a>
+            </Link>
             <a
               href={WA_LINK}
               target="_blank"

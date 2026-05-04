@@ -4,7 +4,7 @@ import { getSiteUrl } from "@/lib/site-url";
 
 /**
  * Indexable marketing and product URLs plus legal pages.
- * Shorter ISR calculator paths are omitted; canonical product URL stays listed below.
+ * Includes fedatarios ISR funnel entry points; paths blocked in `robots.ts` are omitted.
  */
 const STATIC_ROUTES: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
   { path: "/",                                    priority: 1.0,  changeFrequency: "weekly" },
@@ -19,6 +19,9 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/fedatarios/sistema-de-corredores-publicos", priority: 0.7, changeFrequency: "monthly" },
   { path: "/fedatarios/calculo-de-isr-enajenacion-inmuebles", priority: 0.7, changeFrequency: "monthly" },
   { path: "/fedatarios/calculo-de-isr-enajenacion-inmuebles/definiciones-en-el-isr-por-enajenacion-de-inmuebles", priority: 0.6, changeFrequency: "monthly" },
+  { path: "/fedatarios/calculo-isr",               priority: 0.75, changeFrequency: "monthly" },
+  { path: "/fedatarios/calculo-isr/get-version-plus", priority: 0.7, changeFrequency: "monthly" },
+  { path: "/fedatarios/calculo-isr/inmobiliarias",  priority: 0.65, changeFrequency: "monthly" },
   { path: "/fedatarios/implementation",           priority: 0.6,  changeFrequency: "monthly" },
   { path: "/fedatarios/pricing",                  priority: 0.7,  changeFrequency: "monthly" },
 
@@ -41,6 +44,7 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/e-siganature",                        priority: 0.7,  changeFrequency: "monthly" },
   { path: "/e-siganature/fiel",                   priority: 0.7,  changeFrequency: "monthly" },
   { path: "/e-siganature/fiel/fiel-pricing",      priority: 0.6,  changeFrequency: "monthly" },
+  { path: "/e-siganature/fiel/sign",              priority: 0.55, changeFrequency: "monthly" },
   { path: "/e-siganature/fiel/webinar-firma-electronica-avanzada", priority: 0.5, changeFrequency: "yearly" },
   { path: "/invest",                              priority: 0.7,  changeFrequency: "monthly" },
 

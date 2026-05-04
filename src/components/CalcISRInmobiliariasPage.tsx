@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { ArrowRight, Building2, Calculator, CheckCircle, ChevronDown, ChevronUp } from "lucide-react";
 import { URL_ISR_CALCULATOR, WA_LINK } from "../constants";
 
@@ -141,13 +142,13 @@ export default function CalcISRInmobiliariasPage() {
               $5,800
               <span className="ml-2 text-lg font-semibold text-slate-500">/ año + IVA</span>
             </p>
-            <a
+            <Link
               href="/fedatarios/calculo-isr/get-version-plus"
               className="mt-8 inline-flex items-center gap-2 rounded-xl bg-[#544fff] px-7 py-3.5 font-semibold text-white shadow-lg transition hover:shadow-xl"
             >
               Ver detalles de la versión PLUS
               <ArrowRight size={18} />
-            </a>
+            </Link>
           </div>
         </div>
       </section>

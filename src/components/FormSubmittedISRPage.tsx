@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CheckCircle, ArrowRight, MessageCircle } from "lucide-react";
 import { WA_LINK } from "../constants";
 
@@ -58,13 +59,13 @@ export default function FormSubmittedISRPage() {
                   <MessageCircle size={18} />
                   Ponte en contacto
                 </a>
-                <a
+                <Link
                   href="/fedatarios/calculo-isr/get-version-plus"
                   className="inline-flex items-center gap-2 rounded-xl border border-slate-300 px-7 py-3.5 font-semibold text-slate-700 transition hover:bg-slate-50"
                 >
                   Ver versión PLUS
                   <ArrowRight size={18} />
-                </a>
+                </Link>
               </div>
             </div>
             <div className="bg-slate-50 rounded-2xl p-8 text-center">

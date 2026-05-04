@@ -9,7 +9,8 @@ const siteUrl = getSiteUrl();
 
 const inter = Inter({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
+  // Tailwind body/headings: normal–extrabold (400–800); font-black (900) unused in app CSS.
+  weight: ["400", "500", "600", "700", "800"],
   variable: "--font-inter",
   display: "swap",
 });
