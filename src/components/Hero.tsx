@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ArrowRight, Bell, PlayCircle, TrendingUp } from "lucide-react";
 
 export default function Hero() {
@@ -52,27 +53,27 @@ export default function Hero() {
 
         {/* CTA buttons */}
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-          <a
-            href="#contact"
+          <Link
+            href="/schedule-demo"
             className="group inline-flex items-center gap-2 text-white font-semibold text-base px-8 py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all"
             style={{
               background:
                 "linear-gradient(135deg, #056dfe 0%, #2ea4f2 100%)",
             }}
           >
-            Comenzar gratis
+            Solicitar Demo
             <ArrowRight
               size={18}
               className="group-hover:translate-x-1 transition-transform"
             />
-          </a>
-          <a
-            href="#features"
+          </Link>
+          <Link
+            href="/automatizacion-documentos-ia-notaria"
             className="inline-flex items-center gap-2 text-slate-700 font-semibold text-base px-8 py-3.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 hover:border-slate-300 transition-all shadow-sm"
           >
             <PlayCircle size={18} className="text-[#2ea4f2]" />
             Ver cómo funciona
-          </a>
+          </Link>
         </div>
 
         {/* Social proof */}
