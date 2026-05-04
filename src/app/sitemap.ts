@@ -10,6 +10,7 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/",                                    priority: 1.0,  changeFrequency: "weekly" },
   { path: "/product",                             priority: 0.9,  changeFrequency: "monthly" },
   { path: "/pricing",                             priority: 0.9,  changeFrequency: "monthly" },
+  { path: "/promotores",                          priority: 0.75, changeFrequency: "monthly" },
   { path: "/schedule-demo",                       priority: 0.9,  changeFrequency: "monthly" },
 
   // Fedatarios

@@ -22,7 +22,13 @@ const keyFeatures = [
   {
     icon: Upload,
     title: "Extracción automática de documentos",
-    desc: "Agiliza la recopilación de datos críticos. Carga el documento y deja que la IA haga el trabajo.",
+    desc:
+      "Gestiona documentos e imágenes en múltiples formatos (Word, Excel, PDF, JPG y más). La IA lee y analiza escrituras notariales: extrae participantes, inmuebles y datos de operación sin volver a teclear. Esa información queda vinculada al expediente para trazabilidad fiscal y administrativa, como en el día a día de una notaría con grandes volúmenes de impuestos y derechos.",
+    bullets: [
+      "Generación de archivos de post firma y exportación hacia Declaranot.",
+      "Plantillas y machotes con llaves de sustitución para automatizar documentos legales.",
+      "Integración con firma electrónica avanzada conforme a la ley mexicana.",
+    ],
     color: "#056dfe",
     bg: "#eff6ff",
   },
@@ -195,7 +201,7 @@ export default function AutomationPage() {
 
           {/* Feature grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {keyFeatures.map(({ icon: Icon, title, desc, color, bg }) => (
+            {keyFeatures.map(({ icon: Icon, title, desc, color, bg, bullets }) => (
               <div
                 key={title}
                 className="group relative bg-white rounded-2xl p-7 border border-slate-100 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
@@ -212,6 +218,16 @@ export default function AutomationPage() {
                 </div>
                 <h3 className="text-base font-bold text-slate-900 mb-2">{title}</h3>
                 <p className="text-sm text-slate-500 leading-relaxed">{desc}</p>
+                {bullets && bullets.length > 0 ? (
+                  <ul className="mt-4 space-y-2 text-xs text-slate-600 leading-snug border-t border-slate-100 pt-4">
+                    {bullets.map((item) => (
+                      <li key={item} className="flex gap-2">
+                        <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[#056dfe]/70" aria-hidden />
+                        <span>{item}</span>
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
               </div>
             ))}
           </div>
