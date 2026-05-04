@@ -47,6 +47,14 @@ export async function generateMetadata({
       description,
       type: "website",
       url: canonical,
+      images: [
+        {
+          url: "/og-image.png",
+          width: 1200,
+          height: 630,
+          alt: "Nuvigant · Blog",
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
@@ -54,6 +62,7 @@ export async function generateMetadata({
       description: tag
         ? `Artículos sobre ${tag} en Nuvigant.`
         : "Artículos sobre gestión notarial, tecnología legal e IA para fedatarios.",
+      images: ["/og-image.png"],
     },
   };
 }

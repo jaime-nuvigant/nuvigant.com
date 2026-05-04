@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { EMAIL_CONTACT } from "@/constants";
 
 export default function TermsConditionsPage() {
@@ -54,7 +55,14 @@ export default function TermsConditionsPage() {
 
             <h2 className="text-2xl font-bold text-slate-900 mt-10 mb-4">2. Condiciones generales</h2>
             <ul className="list-disc list-inside space-y-2 text-slate-600 mb-6">
-              <li>Este es un acuerdo legal entre usted y Nuvigant e incorpora la <a href="/privacy-notice/" className="text-[#056dfe] hover:underline">política de privacidad</a>. Al registrarse como suscriptor o usuario autorizado del servicio acepta estar sujeto a los términos de este contrato.</li>
+              <li>
+                Este es un acuerdo legal entre usted y Nuvigant e incorpora la{" "}
+                <Link href="/privacy-notice" className="text-[#056dfe] hover:underline">
+                  política de privacidad
+                </Link>
+                . Al registrarse como suscriptor o usuario autorizado del servicio acepta estar sujeto a los términos de
+                este contrato.
+              </li>
               <li>Los términos de este contrato regirán cualquier actualización del software proporcionada por Nuvigant que sustituya y/o complemente el Software original.</li>
               <li>Esta licencia no le permite otorgar licencias ni distribuir el Software.</li>
               <li>Tampoco podrá integrar ni utilizar el servicio contratado con cualquier programa de software de conexión "plug-in".</li>

@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/canonical-metadata";
 import CalcISRPropuestaPage from "@/components/CalcISRPropuestaPage";
 
 export const metadata: Metadata = {
+  ...canonicalAlternates('/fedatarios/calculo-isr/get-version-plus/propuesta-servicio'),
+
   title: "Propuesta de Servicio — Calculadora ISR Plus",
   description: "Revisa la propuesta de servicio personalizada para acceder a la Calculadora ISR Plus de Nuvigant.",
   robots: { index: false, follow: false },

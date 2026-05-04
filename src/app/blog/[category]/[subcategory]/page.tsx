@@ -18,6 +18,7 @@ import AuthorBio from "@/components/blog/AuthorBio";
 import RelatedPosts from "@/components/blog/RelatedPosts";
 import BlogContent from "@/components/blog/BlogContent";
 import { getSiteUrl } from "@/lib/site-url";
+import { articleJsonLd, breadcrumbJsonLd } from "@/lib/blog-json-ld";
 
 const SITE_NAME = "Nuvigant";
 
@@ -111,28 +112,8 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
 
   const siteUrl = getSiteUrl();
   const canonical = `${siteUrl}${getPostUrl(post)}`;
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: post.title,
-    description: post.excerpt,
-    image: post.coverImage,
-    datePublished: post.date,
-    dateModified: post.date,
-    author: {
-      "@type": "Organization",
-      name: post.author.name,
-      url: siteUrl,
-    },
-    publisher: {
-      "@type": "Organization",
-      name: SITE_NAME,
-      url: siteUrl,
-      logo: { "@type": "ImageObject", url: `${siteUrl}/favicon.svg` },
-    },
-    mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
-    keywords: post.tags.join(", "),
-  };
+  const articleLd = articleJsonLd(post, canonical);
+  const breadcrumbLd = breadcrumbJsonLd(post, canonical);
 
   return (
     <>
@@ -140,7 +121,11 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
 
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
 
       <main>

@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/canonical-metadata";
 import AboutPage from "@/components/AboutPage";
 
 export const metadata: Metadata = {
+  ...canonicalAlternates('/about'),
+
   title: "Nosotros",
   description:
     "Conoce al equipo detrás de Nuvigant, nuestra misión y cómo estamos transformando la gestión notarial en México con tecnología e inteligencia artificial.",

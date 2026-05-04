@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/canonical-metadata";
 import CalcISRInmobiliariasPage from "@/components/CalcISRInmobiliariasPage";
 
 export const metadata: Metadata = {
+  ...canonicalAlternates('/fedatarios/calculo-isr/inmobiliarias'),
+
   title: "Calcula ISR para Inmobiliarias",
   description:
     "Herramienta de cálculo de ISR por enajenación de inmuebles diseñada para inmobiliarias. Obtén resultados precisos y en cumplimiento con el SAT.",

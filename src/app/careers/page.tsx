@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/canonical-metadata";
 import CareersPage from "@/components/CareersPage";
 
 export const metadata: Metadata = {
+  ...canonicalAlternates('/careers'),
+
   title: "Únete al equipo",
   description:
     "Únete a Nuvigant y ayúdanos a transformar la gestión notarial en México. Explora nuestras vacantes y forma parte de un equipo apasionado por la tecnología y el derecho.",

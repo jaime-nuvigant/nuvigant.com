@@ -3,10 +3,8 @@ import { getAllPostsMeta, getPostUrl } from "@/lib/blog";
 import { getSiteUrl } from "@/lib/site-url";
 
 /**
- * Lean sitemap: indexable marketing and product URLs only.
- * Omitted on purpose (still crawlable via nav/footer, no loss of eligibility to be indexed):
- * - Legal pages (linked sitewide in the footer).
- * - Shorter ISR calculator paths; canonical product URL stays listed below.
+ * Indexable marketing and product URLs plus legal pages.
+ * Shorter ISR calculator paths are omitted; canonical product URL stays listed below.
  */
 const STATIC_ROUTES: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
   { path: "/",                                    priority: 1.0,  changeFrequency: "weekly" },
@@ -57,6 +55,15 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/trabaja-en-nuvigant",                 priority: 0.6,  changeFrequency: "monthly" },
   { path: "/contact",                             priority: 0.6,  changeFrequency: "monthly" },
   { path: "/convenio-colegio-de-notarios-de-michoacan", priority: 0.5, changeFrequency: "yearly" },
+
+  // Legal
+  { path: "/terms-conditions",                    priority: 0.4,  changeFrequency: "yearly" },
+  { path: "/privacy-notice",                       priority: 0.4,  changeFrequency: "yearly" },
+  { path: "/cookie-policy",                        priority: 0.4,  changeFrequency: "yearly" },
+
+  // Lead / product entry points (indexable; not in robots disallow)
+  { path: "/form",                                 priority: 0.5,  changeFrequency: "monthly" },
+  { path: "/onboarding-timeline-v1",               priority: 0.4,  changeFrequency: "yearly" },
 
   // Events & webinars
   { path: "/cfdi-4-0-videos",                     priority: 0.5,  changeFrequency: "yearly" },

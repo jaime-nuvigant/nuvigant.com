@@ -171,8 +171,7 @@ export default function ConvenioMichoacanPage() {
         className="py-20 lg:py-28"
         style={{
           background: "#2ea4f2",
-          backgroundImage:
-            "url(https://nuvigant.com/wp-content/uploads/2023/09/line-pattern-light-transparent.png)",
+          backgroundImage: "url(/images/convenio-line-pattern-light-transparent.png)",
         }}
       >
         <div className="max-w-7xl mx-auto px-6 lg:px-8">

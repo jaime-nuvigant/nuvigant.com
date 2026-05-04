@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Mail } from "lucide-react";
 import { EMAIL_MAIN } from "../constants";
 
@@ -29,14 +30,14 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pb-12 border-b border-slate-800">
           {/* Brand col */}
           <div className="col-span-2 md:col-span-1">
-            <a href="/" className="inline-flex items-center gap-2 mb-4">
+            <Link href="/" className="inline-flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#51d2e9] to-[#056dfe] flex items-center justify-center">
                 <span className="text-white font-bold text-sm">N</span>
               </div>
               <span className="text-white font-bold text-lg tracking-tight">
                 Nuvi<span className="text-[#2ea4f2]">gant</span>
               </span>
-            </a>
+            </Link>
             <p className="text-sm leading-relaxed text-slate-500 max-w-xs">
               La plataforma de gestión notarial con inteligencia artificial para
               México.
@@ -87,12 +88,18 @@ export default function Footer() {
               <ul className="space-y-2.5">
                 {items.map(({ label, href }) => (
                   <li key={label}>
-                    <a
-                      href={href}
-                      className="text-sm text-slate-500 hover:text-slate-200 transition-colors"
-                    >
-                      {label}
-                    </a>
+                    {href.startsWith("/") ? (
+                      <Link
+                        href={href}
+                        className="text-sm text-slate-500 hover:text-slate-200 transition-colors"
+                      >
+                        {label}
+                      </Link>
+                    ) : (
+                      <a href={href} className="text-sm text-slate-500 hover:text-slate-200 transition-colors">
+                        {label}
+                      </a>
+                    )}
                   </li>
                 ))}
               </ul>

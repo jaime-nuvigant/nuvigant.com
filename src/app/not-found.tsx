@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
 const css = `
@@ -734,7 +735,7 @@ export default function NotFound() {
       {/* ═══ HERO ═══ */}
       <section className="nf-hero">
         <div className="nf-crumbs">
-          <a href="/">inicio</a>
+          <Link href="/">inicio</Link>
           <span>/</span>
           <span style={{ color: "#fff" }}>404</span>
         </div>
@@ -920,8 +921,8 @@ export default function NotFound() {
             <p>
               Respire hondo, como antes de una audiencia. La página no existe, pero usted sí — eso
               ya constituye prueba suficiente para seguir adelante. Considere regresar al{" "}
-              <a href="/">inicio</a>, donde la mayoría de las páginas todavía conservan su forma
-              corpórea, o explorar nuestros <a href="/fedatarios">módulos</a>: Control de
+              <Link href="/">inicio</Link>, donde la mayoría de las páginas todavía conservan su forma
+              corpórea, o explorar nuestros <Link href="/fedatarios">módulos</Link>: Control de
               Proyectos, Facturación, Control de Flujo, Automatización de Documentos y PLD — todos
               plenamente localizables.
             </p>
