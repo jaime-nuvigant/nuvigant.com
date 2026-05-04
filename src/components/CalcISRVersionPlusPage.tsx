@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { ArrowRight, CheckCircle, ChevronDown, ChevronUp } from "lucide-react";
 import { PRICE_ISR_PRO, URL_ISR, WA_LINK } from "../constants";
 
@@ -43,32 +44,71 @@ export default function CalcISRVersionPlusPage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <section className="bg-[#f6f2ea] pt-28 pb-20 lg:pt-36 lg:pb-28">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <div className="max-w-3xl">
-            <p className="inline-flex items-center rounded-full bg-white/80 px-4 py-1.5 text-xs font-semibold text-[#544fff]">
-              Versión avanzada
-            </p>
-            <h1 className="mt-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-[1.05] tracking-tight">
-              Calculadora ISR — Versión PLUS
-            </h1>
-            <p className="mt-6 text-lg text-slate-600 leading-relaxed">
-              Diseñada para fedatarios y equipos que necesitan control completo del proceso, trazabilidad
-              y una experiencia profesional sin fricción.
-            </p>
-            <p className="mt-8 text-5xl font-extrabold text-slate-900">
-              ${PRICE_ISR_PRO}
-              <span className="ml-2 text-lg font-semibold text-slate-500">/ año + IVA</span>
-            </p>
-            <a
-              href={WA_LINK}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-8 inline-flex items-center gap-2 rounded-xl bg-[#544fff] px-7 py-3.5 font-semibold text-white shadow-lg transition hover:shadow-xl"
-            >
-              Solicitar versión PLUS
-              <ArrowRight size={18} />
-            </a>
+      <section className="relative overflow-hidden bg-slate-950 pt-28 pb-16 lg:pt-36 lg:pb-24">
+        <div
+          aria-hidden
+          className="pointer-events-none absolute -left-32 top-20 h-80 w-80 rounded-full bg-amber-500/25 blur-[100px]"
+        />
+        <div
+          aria-hidden
+          className="pointer-events-none absolute -right-24 bottom-0 h-96 w-96 rounded-full bg-[#544fff]/30 blur-[110px]"
+        />
+        <div
+          aria-hidden
+          className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,23,42,0)_0%,rgba(15,23,42,0.65)_100%)]"
+        />
+
+        <div className="relative z-10 mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="grid items-center gap-12 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:gap-16">
+            <div className="max-w-xl lg:max-w-none">
+              <p className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.12em] text-amber-200/90 backdrop-blur-sm">
+                <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
+                Versión avanzada
+              </p>
+              <h1 className="mt-7 text-4xl font-extrabold leading-[1.08] tracking-tight text-white sm:text-5xl lg:text-[3.25rem] xl:text-6xl">
+                Calculadora ISR{" "}
+                <span className="bg-gradient-to-r from-white via-indigo-100 to-indigo-200/90 bg-clip-text text-transparent">
+                  — Versión PLUS
+                </span>
+              </h1>
+              <p className="mt-6 text-lg leading-relaxed text-slate-300">
+                Diseñada para fedatarios y equipos que necesitan control completo del proceso, trazabilidad
+                y una experiencia profesional sin fricción.
+              </p>
+              <div className="mt-8 flex flex-wrap items-baseline gap-x-3 gap-y-1 border-l-2 border-[#544fff] pl-5">
+                <p className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">${PRICE_ISR_PRO}</p>
+                <span className="text-base font-medium text-slate-400">/ año + IVA</span>
+              </div>
+              <a
+                href={WA_LINK}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-9 inline-flex items-center gap-2 rounded-xl bg-[#544fff] px-7 py-3.5 font-semibold text-white shadow-[0_12px_40px_-8px_rgba(84,79,255,0.55)] transition hover:bg-[#4540e6] hover:shadow-[0_16px_48px_-8px_rgba(84,79,255,0.65)]"
+              >
+                Solicitar versión PLUS
+                <ArrowRight size={18} />
+              </a>
+            </div>
+
+            <div className="relative mx-auto w-full max-w-lg lg:max-w-none">
+              <div
+                aria-hidden
+                className="absolute -inset-3 rounded-[2rem] bg-gradient-to-br from-amber-400/35 via-[#544fff]/25 to-transparent opacity-90 blur-xl sm:-inset-4"
+              />
+              <div className="relative rounded-[1.75rem] border border-white/10 bg-slate-900/40 p-2 shadow-2xl backdrop-blur-sm sm:p-3">
+                <div className="overflow-hidden rounded-2xl ring-1 ring-white/10">
+                  <Image
+                    src="/images/calculo-isr-version-plus-hero.png"
+                    alt="Vista de la calculadora ISR Plus: pestañas Terreno y Construcción, datos de compra y venta, cálculo por vendedor e ISR a pagar."
+                    width={887}
+                    height={958}
+                    priority
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    className="h-auto w-full"
+                  />
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

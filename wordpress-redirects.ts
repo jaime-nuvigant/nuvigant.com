@@ -8,17 +8,17 @@ import type { Redirect } from "next/dist/lib/load-custom-routes";
 export const wordpressLegacyRedirects: Redirect[] = [
   {
     source: "/blog/category/legal-tech",
-    destination: "/blog/category/industry/legal-tech",
+    destination: "/blog/industry/lawyers",
     statusCode: 301,
   },
   {
     source: "/blog/category/industry/legal-tech/lawyers",
-    destination: "/blog/category/industry/lawyers",
+    destination: "/blog/industry/lawyers",
     statusCode: 301,
   },
   {
     source: "/blog/category/industry/legal-tech",
-    destination: "/blog/category/industry/lawyers/legal-tech",
+    destination: "/blog/industry/lawyers/legal-tech",
     statusCode: 301,
   },
   {
@@ -339,6 +339,12 @@ export const wordpressLegacyRedirects: Redirect[] = [
     source: "/122",
     destination:
       "https://docs.google.com/spreadsheets/d/1sPkI9kRHcZOVlApq_8mGT_DzlBl52uNoQmWl4_VWo2g/edit?gid=0#gid=0",
+    statusCode: 301,
+  },
+  // WordPress category archive URLs: /blog/category/a/b → /blog/a/b (must stay last in this list)
+  {
+    source: "/blog/category/:path*",
+    destination: "/blog/:path*",
     statusCode: 301,
   },
 ];

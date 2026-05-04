@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { redirect } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { Calendar, Clock, ArrowLeft, ArrowRight, ChevronRight, Home } from "lucide-react";
@@ -108,7 +108,7 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
     getSurroundingPosts(slug),
   ]);
 
-  if (!post) notFound();
+  if (!post) redirect("/blog");
 
   const siteUrl = getSiteUrl();
   const canonical = `${siteUrl}${getPostUrl(post)}`;
