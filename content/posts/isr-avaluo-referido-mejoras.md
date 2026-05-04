@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-En nuestro [blog sobre ISR por enajenación de inmuebles](https://nuvigant.com/isr-enajenacion-inmuebles-manual) hemos visto todo tipo de cálculos. Pero ha llegado la hora de ver uno de los casos más laboriosos: el del avalúo referido y con avalúo de mejoras. Como ya sabemos, una de las cosas que complica este cálculo en mayor medida es si el terreno y la construcción no se compraron juntos. En este artículo vamos a hacer un cálculo donde no se compraron juntos, y peor aún, el vendedor no tiene manera de comprobar cuánto gastó en construir la propiedad.
+En nuestro [blog sobre ISR por enajenación de inmuebles](/isr-enajenacion-inmuebles-manual) hemos visto todo tipo de cálculos. Pero ha llegado la hora de ver uno de los casos más laboriosos: el del avalúo referido y con avalúo de mejoras. Como ya sabemos, una de las cosas que complica este cálculo en mayor medida es si el terreno y la construcción no se compraron juntos. En este artículo vamos a hacer un cálculo donde no se compraron juntos, y peor aún, el vendedor no tiene manera de comprobar cuánto gastó en construir la propiedad.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/UcAtoDpj9yU" title="Avalúo Referido en el Cálculo del ISR" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -50,7 +50,7 @@ Los datos en concreto son los siguientes:
 Aquí es cuando nos va a servir realizar nuestro avalúo referido. El proceso es el siguiente:
 
 1. **Hacer un avalúo del precio actual del terreno.** Supongamos que nos dio $3,235,000.00 MXN.
-2. **Ajustar el monto por la inflación** ([lee este artículo que explica cómo funciona](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)). Utilizando los factores INPC nos da $800,544.42 en pesos de 1997.
+2. **Ajustar el monto por la inflación** ([lee este artículo que explica cómo funciona](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)). Utilizando los factores INPC nos da $800,544.42 en pesos de 1997.
 3. **Tomar el 80% del valor ajustado:** $640,435.54. Este es el precio que podremos deducir como valor del inmueble.
 
 Se hace el mismo procedimiento para la pared adicional (avalúo de mejoras) y nos debe de dar:
@@ -63,7 +63,7 @@ Este cálculo puedes hacerlo manual, o lo puedes hacer también utilizando nuest
 
 Ahora pudiéramos pensar que ya tenemos todos los datos para hacer nuestro cálculo, pero cuando seleccionamos un cálculo de terreno y construcción con diferente fecha de compra, necesitamos desglosar el precio de venta por construcción y terreno. La ganancia del terreno y construcción se calcula por separado.
 
-Existen varias maneras de separar este cálculo ([puedes leer más de ellas en este artículo](https://nuvigant.com/blog/industry/isr/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion)), pero la que usaremos en este caso es el método de avalúo, porque es la que comúnmente utilizan las notarías. Esto consiste en hacer un avalúo del terreno y tomar ese valor como precio de venta del terreno. Luego al precio total le restas ese monto y el restante es el precio que se destinará a la construcción.
+Existen varias maneras de separar este cálculo ([puedes leer más de ellas en este artículo](/blog/industry/isr/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion)), pero la que usaremos en este caso es el método de avalúo, porque es la que comúnmente utilizan las notarías. Esto consiste en hacer un avalúo del terreno y tomar ese valor como precio de venta del terreno. Luego al precio total le restas ese monto y el restante es el precio que se destinará a la construcción.
 
 Digamos que se hizo el avalúo y nos dio lo siguiente:
 
@@ -87,4 +87,4 @@ Ahora sí tenemos todos los valores que necesitamos:
 | Precio de Venta Terreno | $2,645,552 |
 | Precio de Venta Construcción | $7,219,580 |
 
-Te invitamos a realizar el cálculo con nuestra herramienta gratuita de cálculo de ISR, la puedes encontrar [dando clic en esta liga](https://isr.nuvigant.com/calculo-isr?show_welcome_message=true). El resultado total de ISR es: **$970,387.43**. Ahí puedes hacer los cálculos en línea que quieras y de manera gratuita. Si quieres ver cómo funciona el cálculo a mayor profundidad, puedes visitar [este artículo](https://nuvigant.com/blog/industry/isr/calculo-isr-diferente-fecha) donde se hace el mismo tipo de cálculo paso a paso. ¡Buena suerte en todos tus cálculos!
+Te invitamos a realizar el cálculo con nuestra herramienta gratuita de cálculo de ISR, la puedes encontrar [dando clic en esta liga](https://isr.nuvigant.com/calculo-isr?show_welcome_message=true). El resultado total de ISR es: **$970,387.43**. Ahí puedes hacer los cálculos en línea que quieras y de manera gratuita. Si quieres ver cómo funciona el cálculo a mayor profundidad, puedes visitar [este artículo](/blog/industry/isr/calculo-isr-diferente-fecha) donde se hace el mismo tipo de cálculo paso a paso. ¡Buena suerte en todos tus cálculos!

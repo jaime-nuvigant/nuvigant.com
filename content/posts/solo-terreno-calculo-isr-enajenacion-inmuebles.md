@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-En los dos artículos anteriores vimos [cómo transformar una suma de dinero de una fecha a otra para tomar en cuenta la inflación](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) y [también cómo depreciar un inmueble con los años transcurridos](https://nuvigant.com/blog/industry/isr/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble). En este artículo vamos a realizar el primer cálculo completo para cuando se está vendiendo solo terreno. Haremos este cálculo primero ya que es el más sencillo y es conocido, sencillamente, como Cálculo de ISR: Solo Terreno.
+En los dos artículos anteriores vimos [cómo transformar una suma de dinero de una fecha a otra para tomar en cuenta la inflación](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) y [también cómo depreciar un inmueble con los años transcurridos](/blog/industry/isr/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble). En este artículo vamos a realizar el primer cálculo completo para cuando se está vendiendo solo terreno. Haremos este cálculo primero ya que es el más sencillo y es conocido, sencillamente, como Cálculo de ISR: Solo Terreno.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WnWGorEly_c" title="Solo Terreno: Cálculo de ISR Enajenación de Inmuebles" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -31,7 +31,7 @@ Para cálculo de ISR solo terreno se necesitan los siguientes valores (debajo de
 
 ## Paso 1: Ajuste del precio del terreno
 
-Primero que nada, para hacer el cálculo solo terreno, va a ser necesario hacer el ajuste del precio del terreno. Esto ya lo hicimos en [este artículo (clic para ir a ver)](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) y vimos que el valor que quedó fue:
+Primero que nada, para hacer el cálculo solo terreno, va a ser necesario hacer el ajuste del precio del terreno. Esto ya lo hicimos en [este artículo (clic para ir a ver)](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) y vimos que el valor que quedó fue:
 
 - **$15,275.00 MXN**
 

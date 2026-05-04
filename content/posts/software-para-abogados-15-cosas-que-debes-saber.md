@@ -92,4 +92,4 @@ Para finalizar, ten en cuenta que al iniciar el proceso de compra del software p
 
 Recuerda: Elige un aliado de negocios, no una marca.
 
-¿Buscas un software para tu despacho? Conoce [Nuvigant para abogados](https://nuvigant.com/lawyers) y solicita una [demo gratuita aquí.](https://nuvigant.com/schedule-demo)
+¿Buscas un software para tu despacho? Conoce [Nuvigant para abogados](/lawyers) y solicita una [demo gratuita aquí.](/schedule-demo)

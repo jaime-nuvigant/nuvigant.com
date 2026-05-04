@@ -87,7 +87,7 @@ Una vez identificada una operación vulnerable, la notaría debe:
 - Implementar **listas de verificación** para detectar umbrales y tipos de actos.
 - Establecer **sistemas internos** que calculen automáticamente si se rebasa un monto.
 - Capacitar continuamente al personal.
-- Utilizar plataformas tecnológicas de consulta de listas negras y validación de personas (como el [buscador de PEPS y listas de la UIF de Nuvigant](https://nuvigant.com)).
+- Utilizar plataformas tecnológicas de consulta de listas negras y validación de personas (como el [buscador de PEPS y listas de la UIF de Nuvigant](/)).
 
 ---
 

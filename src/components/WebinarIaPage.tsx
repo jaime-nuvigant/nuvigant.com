@@ -1,4 +1,5 @@
 import { ArrowRight, BookOpen } from "lucide-react";
+import { getPostUrl } from "@/lib/blog";
 import { URL_SCHEDULE_DEMO, EMAIL_MAIN, WA_DISPLAY_2 } from "../constants";
 
 const relatedPosts = [
@@ -7,6 +8,8 @@ const relatedPosts = [
     excerpt:
       "La Inteligencia Artificial en Notaría está revolucionando la gestión documental en despachos notariales. Con Nuvigant, es posible analizar escrituras automáticamente y extraer datos sin intervención manual.",
     slug: "ia-en-notaria-automatizacion-y-analisis-de-escrituras-con-nuvigant",
+    category: "industry",
+    subcategory: "fedatarios",
     date: "Mar 12, 2025",
   },
   {
@@ -14,6 +17,8 @@ const relatedPosts = [
     excerpt:
       "Nuvigant ha desarrollado una innovadora herramienta de análisis de escrituras con inteligencia artificial diseñada para transformar la gestión notarial, reducir errores y optimizar tiempos.",
     slug: "analisis-de-escrituras-con-ia",
+    category: "inteligencia-artificial",
+    subcategory: "",
     date: "Feb 21, 2025",
   },
   {
@@ -21,6 +26,8 @@ const relatedPosts = [
     excerpt:
       "Presentamos la función que eficientizará la forma en que gestionas la información de personas: la extracción automática de datos de documentos con inteligencia artificial.",
     slug: "extraccion-automatica-de-datos-de-documentos",
+    category: "inteligencia-artificial",
+    subcategory: "",
     date: "Jul 16, 2025",
   },
 ];
@@ -107,9 +114,7 @@ export default function WebinarIaPage() {
             {relatedPosts.map((post) => (
               <a
                 key={post.slug}
-                href={`https://nuvigant.com/blog/${post.slug}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={getPostUrl(post)}
                 className="group bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 flex flex-col"
               >
                 <div

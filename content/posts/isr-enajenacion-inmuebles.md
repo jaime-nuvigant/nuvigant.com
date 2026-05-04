@@ -102,9 +102,9 @@ Si terminaste así después de ver cómo se hace el cálculo, déjame decirte qu
 
 No es tan fácil realizar este cálculo y se vuelve tedioso si lo necesitas hacer muchas veces. Para esto es útil tener una herramienta de cálculo como es la nuestra que ofrecemos de manera gratuita. Para seguir leyendo sobre el cálculo de ISR y realizar más ejemplos, te invitamos ir al menú de nuestra guía de cálculo de ISR por venta de inmuebles.
 
-[Ir a guía de cálculo](https://nuvigant.com/isr-enajenacion-inmuebles-manual)
+[Ir a guía de cálculo](/isr-enajenacion-inmuebles-manual)
 
-Te invitamos a continuar leyendo si quieres aprender sobre las otras cosas que necesitas tomar en cuenta al calcular el ISR por enajenación de inmuebles: [Inflación y el ISR por enajenación de inmuebles](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles).
+Te invitamos a continuar leyendo si quieres aprender sobre las otras cosas que necesitas tomar en cuenta al calcular el ISR por enajenación de inmuebles: [Inflación y el ISR por enajenación de inmuebles](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles).
 
 ## Herramienta de cálculo gratuita
 

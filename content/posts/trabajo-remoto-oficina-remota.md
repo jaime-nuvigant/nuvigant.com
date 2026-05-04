@@ -21,7 +21,7 @@ La pandemia de COVID19 definitivamente ha cambiado de manera radical diferentes 
 
 Afortunadamente, las tecnologías que permiten estos esquemas de trabajo (la nube) ya están muy probadas y se han vuelto el estándar en muchas industrias. Adicionalmente, estos esquemas (si se implementan bien) ofrecen también muchas ventajas como lo son:
 
-- [Contacto](https://nuvigant.com/contact)
+- [Contacto](/contact)
 - Más satisfacción de los empleados
 - Menos Rotación (como consecuencia del punto anterior)
 - Costos Reducidos (no necesitas pagar servicios y en casos más avanzados incluso oficinas)
@@ -59,7 +59,7 @@ Afortunadamente, los softwares modernos se han adaptado para que puedas acceder 
 
 Otra ventaja de este tipo de software en comparación a los más antiguos, es que ya no necesitas pagar una licencia para utilizar el software, sino obtienes acceso a dicho software por medio de una suscripción. Puedes pensar en ellos como Netflix, pero para control administrativo.
 
-Si aún no estás utilizando este tipo de software, esta es una excelente oportunidad para empezar a modernizarte. Nosotros, en Nuvigant ofrecemos exactamente esto, una herramienta integral en la nube para que te puedas seguir administrando sin ningún problema en la nube. Si te interesaría aprender más sobre esto, te invitamos a visitar nuestra página ([click aquí para ver más](https://nuvigant.com/)).
+Si aún no estás utilizando este tipo de software, esta es una excelente oportunidad para empezar a modernizarte. Nosotros, en Nuvigant ofrecemos exactamente esto, una herramienta integral en la nube para que te puedas seguir administrando sin ningún problema en la nube. Si te interesaría aprender más sobre esto, te invitamos a visitar nuestra página ([click aquí para ver más](/)).
 
 ## 4. Considera implementar el "Huddle" diario
 

@@ -21,13 +21,13 @@ Ya hasta se puede decir que extrañábamos que el SAT nos hiciera algún cambio 
 
 ### 1. Cuándo entró en vigor
 
-El complemento entró en vigor el primero de enero del 2022. Al momento de escribir este artículo, el SAT ha permitido seguir facturando con la versión 3.3 hasta el 31 de abril del 2022. En mi opinión muy personal, esta fecha se puede extender, ya que han salido varias complicaciones al hacer estos CFDIs. El SAT liberó la ficha técnica en diciembre del 2021, puedes consultarlo dando [clic aquí](https://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20_version3-3.htm) (Anexo 20 del SAT: formato de factura electrónica y material técnico vigente).
+El complemento entró en vigor el primero de enero del 2022. Al momento de escribir este artículo, el SAT ha permitido seguir facturando con la versión 3.3 hasta el 31 de abril del 2022. En mi opinión muy personal, esta fecha se puede extender, ya que han salido varias complicaciones al hacer estos CFDIs. El SAT liberó la ficha técnica en diciembre del 2021, puedes consultarlo dando [clic aquí](https://wwwmat.sat.gob.mx/aplicacion/75169/servicio-de-facturacion-cfdi-version-4.0-(vigente-a-partir-del-1-de-enero-de-2022)) (Anexo 20 del SAT: formato de factura electrónica y material técnico vigente).
 
 ### 2. Elemento vs Complemento de Gastos de Terceros
 
 Antes se mencionó que la relación de gastos de terceros sería por medio de un complemento. Ahora el SAT ha definido que será por medio de un elemento, que deberá ir relacionado al concepto que se factura. Ej. se deberá de crear un concepto por cada impuesto (ISAI, Certificados, etc.) o gastos, agregando en cada uno de estos conceptos los datos del cliente por quien pagaste en el elemento "ACuentaTerceros".
 
-Este será probablemente el cambio más grande que necesites implementar en tu facturación si eres notario público o corredor público. Será un cambio relativamente sencillo de implementar si cuentas con un sistema integral de notaría, como lo es [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias) ([clic para ver más](https://nuvigant.com/fedatarios/sistema-notarias)). De lo contrario, necesitarás volver a capturar el presupuesto en cada factura al igual que la información de a cuenta de quién pagaste cada concepto.
+Este será probablemente el cambio más grande que necesites implementar en tu facturación si eres notario público o corredor público. Será un cambio relativamente sencillo de implementar si cuentas con un sistema integral de notaría, como lo es [Nuvigant](/fedatarios/sistema-notarias) ([clic para ver más](/fedatarios/sistema-notarias)). De lo contrario, necesitarás volver a capturar el presupuesto en cada factura al igual que la información de a cuenta de quién pagaste cada concepto.
 
 #### Un ejemplo práctico
 
@@ -65,12 +65,12 @@ Pues eso es hasta el momento, lo que afectará principalmente el cambio de esta 
 
 Cabe mencionar que si no cuentas con un sistema integral de notaría o correduría, te llevará bastante trabajo. Vas a tener que estar capturando de nuevo el presupuesto con cada una de tus facturas.
 
-Si utilizas [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias), nuestro sistema de notarías y corredurías, el cambio será bastante transparente. Para su uso, ya capturas toda la información que necesitas, y esta actualización no tendrá ningún costo para ti.
+Si utilizas [Nuvigant](/fedatarios/sistema-notarias), nuestro sistema de notarías y corredurías, el cambio será bastante transparente. Para su uso, ya capturas toda la información que necesitas, y esta actualización no tendrá ningún costo para ti.
 
 Nosotros nomás nos encargaremos de anexar esta información de manera sencilla al momento de hacer la factura y permitir hacer cambios en el momento en caso de ser necesario. En especial en nodo de gastos de terceros del cfdi 4.0.
 
 ### Para los clientes, amigos e interesados:
 
-Ya nos encontramos trabajando para este cambio del CFDI 4.0 para nuestros clientes. Siéntete seguro/a que podrás empezar a facturar con esta versión cuando lo necesites. Si no trabajas con nuestra aplicación y te gustaría conocer más sobre ella, ponte en contacto con nosotros ya sea por el chat (abajo a la derecha), en [contacto@nuvigant.com](mailto:contacto@nuvigant.com), o llenando una solicitud para una demo ([clic aquí](https://nuvigant.com/schedule-demo)). Contamos con todas las herramientas tecnológicas que necesitas para administrar tu notaría en la nube.
+Ya nos encontramos trabajando para este cambio del CFDI 4.0 para nuestros clientes. Siéntete seguro/a que podrás empezar a facturar con esta versión cuando lo necesites. Si no trabajas con nuestra aplicación y te gustaría conocer más sobre ella, ponte en contacto con nosotros ya sea por el chat (abajo a la derecha), en [contacto@nuvigant.com](mailto:contacto@nuvigant.com), o llenando una solicitud para una demo ([clic aquí](/schedule-demo)). Contamos con todas las herramientas tecnológicas que necesitas para administrar tu notaría en la nube.
 
 Ya por último, queremos mencionar que nosotros no somos Contadores Públicos y mucho menos fiscalistas. Nosotros somos nerds de computadoras con más de 30 años de experiencia en software para notarías públicas y corredurías. Lo que está en este artículo es lo que nosotros hemos detectado hasta este momento en base al esquema técnico del CFDI y a los cursos sobre el tema a los que hemos asistido. De igual manera, te recomendamos que vayas de la mano con tu contador o contadora en la implementación de esta nueva versión del CFDI.

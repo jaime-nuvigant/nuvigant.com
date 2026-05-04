@@ -17,7 +17,7 @@ subcategory: "fedatarios"
 
 En la práctica notarial, es común que los clientes entreguen a los notarios públicos sumas de dinero para que éstos realicen pagos de impuestos, derechos o servicios a nombre de los clientes, es decir, gastos por cuenta de terceros. Sin embargo, surgen las preguntas:
 
-- [Contacto](https://nuvigant.com/contact)
+- [Contacto](/contact)
 - ¿Ese dinero recibido por el notario se considera ingreso propio para efectos fiscales?
 - ¿Qué debe hacer el notario para demostrar que no es ingreso acumulable?
 - ¿Sirve el CFDI con complemento para que el cliente deduzca o acredite el gasto?

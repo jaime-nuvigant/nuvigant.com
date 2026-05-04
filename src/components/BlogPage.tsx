@@ -5,6 +5,7 @@ import type { PostMeta } from "@/lib/blog";
 import PostCard from "@/components/blog/PostCard";
 import TagFilter from "@/components/blog/TagFilter";
 import { getPostUrl } from "@/lib/blog";
+import { getSiteUrl } from "@/lib/site-url";
 
 const SITE_NAME = "Nuvigant";
 
@@ -25,6 +26,7 @@ export default function BlogPage({
   totalPages,
   totalPosts,
 }: BlogPageProps) {
+  const siteUrl = getSiteUrl();
   return (
     <div className="min-h-screen bg-white">
       {/* Skip-to-content */}
@@ -108,7 +110,7 @@ export default function BlogPage({
                 itemListElement: posts.map((p, i) => ({
                   "@type": "ListItem",
                   position: i + 1,
-                  url: `https://nuvigant.com${getPostUrl(p)}`,
+                  url: `${siteUrl}${getPostUrl(p)}`,
                   name: p.title,
                 })),
               }),

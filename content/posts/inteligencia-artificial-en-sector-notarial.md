@@ -23,7 +23,7 @@ La inteligencia artificial (IA) en el sector notarial será revolucionaria en el
 
 Uno de los beneficios más inmediatos de la IA en el sector notarial es la automatización de tareas repetitivas y administrativas. Procesos como la verificación de identidad, la revisión de documentos legales y la validación de transacciones pueden automatizarse mediante algoritmos de IA, acelerando los tiempos de procesamiento y reduciendo la posibilidad de errores humanos. Esto es crucial en un ámbito donde la precisión es fundamental.
 
-Por ejemplo, en nuestra [aplicación para notarías y corredores](https://nuvigant.com/fedatarios/sistema-notarias), los usuarios pueden cargar documentos como identificaciones o avalúos de inmuebles. La IA extrae la información automáticamente, evitando la necesidad de teclear manualmente, ahorrando tiempo y minimizando errores.
+Por ejemplo, en nuestra [aplicación para notarías y corredores](/fedatarios/sistema-notarias), los usuarios pueden cargar documentos como identificaciones o avalúos de inmuebles. La IA extrae la información automáticamente, evitando la necesidad de teclear manualmente, ahorrando tiempo y minimizando errores.
 
 ### IA para la Verificación de Identidad y Prevención de Fraudes
 

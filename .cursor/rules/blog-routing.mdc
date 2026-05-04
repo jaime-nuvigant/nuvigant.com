@@ -32,7 +32,7 @@ This applies in: `PostCard`, `RelatedPosts`, prev/next navigation, RSS route, sc
 
 ```tsx
 // ✅ GOOD
-<ShareButtons title={post.title} url={canonical} />  // canonical = SITE_URL + getPostUrl(post)
+<ShareButtons title={post.title} url={canonical} />  // canonical = getSiteUrl() + getPostUrl(post)
 
 // ❌ BAD
 <ShareButtons title={post.title} slug={post.slug} />

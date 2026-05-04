@@ -1,6 +1,5 @@
 import { getAllPostsMeta, getPostUrl } from "@/lib/blog";
-
-const SITE_URL = "https://nuvigant.com";
+import { getSiteUrl } from "@/lib/site-url";
 const SITE_NAME = "Nuvigant";
 const SITE_DESCRIPTION =
   "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
@@ -15,11 +14,12 @@ function escapeXml(str: string): string {
 }
 
 export async function GET() {
+  const siteUrl = getSiteUrl();
   const posts = await getAllPostsMeta();
 
   const items = posts
     .map((post) => {
-      const url = `${SITE_URL}${getPostUrl(post)}`;
+      const url = `${siteUrl}${getPostUrl(post)}`;
       const pubDate = new Date(post.date + "T00:00:00").toUTCString();
       const categories = post.tags.map((t) => `<category>${escapeXml(t)}</category>`).join("\n    ");
 
@@ -43,10 +43,10 @@ export async function GET() {
 >
   <channel>
     <title>${escapeXml(SITE_NAME)} Blog</title>
-    <link>${SITE_URL}/blog</link>
+    <link>${siteUrl}/blog</link>
     <description>${escapeXml(SITE_DESCRIPTION)}</description>
     <language>es-MX</language>
-    <atom:link href="${SITE_URL}/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="${siteUrl}/blog/rss.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${items}
   </channel>

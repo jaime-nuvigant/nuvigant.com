@@ -26,7 +26,7 @@ En una notaría pequeña, la gestión de información suele ser sencilla: pocos 
 - **Centralización de datos:** Nuvigant ofrece una plataforma centralizada donde toda la información de los clientes y transacciones se almacena de forma segura, evitando duplicados.
 - **Captura única de información:** La información se captura una sola vez en el sistema y ya sirve para la mayoría de procesos que se llevan a cabo en la notaría.
 - **Acceso remoto y en tiempo real:** Permite al equipo trabajar sobre una misma base de datos desde diferentes ubicaciones.
-- **Evita captura con inteligencia artificial:** Nuvigant cuenta con una herramienta para [escanear documentos y extraer información de manera estructurada.](https://nuvigant.com/blog/industry/fedatarios/inteligencia-artificial-en-sector-notarial)
+- **Evita captura con inteligencia artificial:** Nuvigant cuenta con una herramienta para [escanear documentos y extraer información de manera estructurada.](/blog/industry/fedatarios/inteligencia-artificial-en-sector-notarial)
 
 ## 2. Falta de Estandarización en los Procesos
 
@@ -75,4 +75,4 @@ El crecimiento exige la adopción de tecnologías más avanzadas, pero esto no e
 
 El camino de una notaría pequeña a una grande está lleno de desafíos, pero también de oportunidades. Nuvigant se presenta como un aliado estratégico para superar los problemas administrativos y de captura de información, proporcionando soluciones que centralizan datos, automatizan procesos y optimizan la gestión del equipo. Con herramientas modernas y una estrategia bien definida, una notaría puede crecer sin sacrificar eficiencia ni calidad, posicionándose como un referente en su sector.
 
-Ponte en contacto con nosotros en el correo [contacto@nuvigant.com](mailto:contacto@nuvigant.com), llena una solicitud de demo dando clic en [esta liga](https://nuvigant.com/schedule-demo).
+Ponte en contacto con nosotros en el correo [contacto@nuvigant.com](mailto:contacto@nuvigant.com), llena una solicitud de demo dando clic en [esta liga](/schedule-demo).

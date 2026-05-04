@@ -63,9 +63,9 @@ Esto es algo esencial para nuestra visión de "Notario en Línea" y es algo que 
 
 Si te interesa seguir leyendo sobre las demás pláticas, te invitamos a dar click en los siguientes vínculos:
 
-1. [Aspectos Fiscales Prácticos a la Luz del Nuevo Declaranot | Notarios Gómez Portugal y Manzanero Escutia](https://nuvigant.com/blog/industry/fedatarios/aspectos-fiscales-practicos-con-el-nuevo-declaranot)
-2. [Reglas para la Realización de Visitas a Notarios | Dr. García Gibson y Notario Castillo Villanueva](https://nuvigant.com/blog/industry/fedatarios/reglas-para-la-realizacion-de-visitas-a-notarios)
+1. [Aspectos Fiscales Prácticos a la Luz del Nuevo Declaranot | Notarios Gómez Portugal y Manzanero Escutia](/blog/industry/fedatarios/aspectos-fiscales-practicos-con-el-nuevo-declaranot)
+2. [Reglas para la Realización de Visitas a Notarios | Dr. García Gibson y Notario Castillo Villanueva](/blog/industry/fedatarios/reglas-para-la-realizacion-de-visitas-a-notarios)
 
 Y pues con esto concluyo mi resumen de la jornada notarial de Mazatlán. Esperamos verlos la próxima jornada en enero en la Ciudad de México. Siempre nos da mucho gusto que se acerquen a saludarnos y que nos permitan platicarles sobre las novedades de nuestra aplicación para notarías.
 
-Si te pareció interesante este resumen, agradeceremos si puedes compartirlo con tus compañeros que les pueda interesar. Y si te gustaría recibir más contenido que te puede ayudar con lo relacionado al lavado de dinero y las obligaciones de tu notaría, [contáctanos aquí](https://nuvigant.com/contact).
+Si te pareció interesante este resumen, agradeceremos si puedes compartirlo con tus compañeros que les pueda interesar. Y si te gustaría recibir más contenido que te puede ayudar con lo relacionado al lavado de dinero y las obligaciones de tu notaría, [contáctanos aquí](/contact).

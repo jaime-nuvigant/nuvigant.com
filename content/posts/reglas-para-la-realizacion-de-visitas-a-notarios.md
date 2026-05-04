@@ -41,4 +41,4 @@ El Lic. García Gibson entonces mencionó una guía orientativa que recomendaba 
 
 Al final se dieron algunos de los resultados del programa de autorregularización. Se mencionó que fueron alrededor de 10,000 (perdí el número exacto, una disculpa) los valientes que se inscribieron al programa de autorregularización, de los cuales 279 eran notarios.
 
-Si tienes dudas sobre tus obligaciones PLD o deseas conocer cómo nuestra plataforma puede ayudarte a cumplir con ellas, [contáctanos aquí](https://nuvigant.com/contact).
+Si tienes dudas sobre tus obligaciones PLD o deseas conocer cómo nuestra plataforma puede ayudarte a cumplir con ellas, [contáctanos aquí](/contact).

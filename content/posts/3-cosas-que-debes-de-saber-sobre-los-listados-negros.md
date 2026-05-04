@@ -23,7 +23,7 @@ Es por eso que hay que tener procedimientos escritos en tu manual anti lavado pa
 
 Me he encontrado con muchas personas en diferentes notarías que piensan que con tan sólo buscar en varios listados negros, ya tienen un proceso completo de Debida Diligencia de Cliente o [DDC](https://biblioteca.gafilat.org/wp-content/uploads/2024/07/Recomendaciones-metodologia-actDIC2023.pdf). En verdad esta búsqueda de listados negros es sólo un punto de partida.
 
-[La GAFI recomienda tomar medidas basadas en niveles de riesgo.](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Risk-based-approach-banking-sector.html) Digamos que realizan una búsqueda de alguna persona y sale en algún listado de [PEPs (Politically Exposed Person) o de RCAs (Relatives and Close Associates)](https://nuvigant.com/blog/industry/aml/que-son-los-peps-para-notarios). Esto por si solo no es suficiente base para negarle servicio a la persona, pero definitivamente sube el riesgo relacionado con la operación. Otros factores que deben de ser tomados en cuenta son:
+[La GAFI recomienda tomar medidas basadas en niveles de riesgo.](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Risk-based-approach-banking-sector.html) Digamos que realizan una búsqueda de alguna persona y sale en algún listado de [PEPs (Politically Exposed Person) o de RCAs (Relatives and Close Associates)](/blog/industry/aml/que-son-los-peps-para-notarios). Esto por si solo no es suficiente base para negarle servicio a la persona, pero definitivamente sube el riesgo relacionado con la operación. Otros factores que deben de ser tomados en cuenta son:
 
 - La naturaleza de la transacción relacionada
 - Las cantidades de dinero involucradas en la transacción

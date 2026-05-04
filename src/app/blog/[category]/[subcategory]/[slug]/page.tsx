@@ -17,9 +17,9 @@ import ReadingProgress from "@/components/blog/ReadingProgress";
 import AuthorBio from "@/components/blog/AuthorBio";
 import RelatedPosts from "@/components/blog/RelatedPosts";
 import BlogContent from "@/components/blog/BlogContent";
+import { getSiteUrl } from "@/lib/site-url";
 
 const SITE_NAME = "Nuvigant";
-const SITE_URL = "https://nuvigant.com";
 
 const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   PLD: { bg: "#eff6ff", text: "#056dfe" },
@@ -64,7 +64,8 @@ export async function generateMetadata({
   const post = await getPostBySlug(slug);
   if (!post) return { title: "Artículo no encontrado" };
 
-  const canonical = `${SITE_URL}${getPostUrl(post)}`;
+  const siteUrl = getSiteUrl();
+  const canonical = `${siteUrl}${getPostUrl(post)}`;
 
   return {
     title: `${post.title} | Blog | ${SITE_NAME}`,
@@ -108,7 +109,8 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
 
   if (!post) notFound();
 
-  const canonical = `${SITE_URL}${getPostUrl(post)}`;
+  const siteUrl = getSiteUrl();
+  const canonical = `${siteUrl}${getPostUrl(post)}`;
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -120,13 +122,13 @@ export default async function PostPage({ params }: { params: Promise<Params> }) 
     author: {
       "@type": "Organization",
       name: post.author.name,
-      url: SITE_URL,
+      url: siteUrl,
     },
     publisher: {
       "@type": "Organization",
       name: SITE_NAME,
-      url: SITE_URL,
-      logo: { "@type": "ImageObject", url: `${SITE_URL}/favicon.svg` },
+      url: siteUrl,
+      logo: { "@type": "ImageObject", url: `${siteUrl}/favicon.svg` },
     },
     mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
     keywords: post.tags.join(", "),

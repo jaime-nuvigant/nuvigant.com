@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-[En el artículo anterior](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) vimos cómo realizar el cálculo de ISR por enajenación de inmuebles cuando solo se vende un terreno. En este artículo realizaremos otro cálculo sencillo, pero esta vez simularemos que lo que se vende es una construcción. Este cálculo es conocido como **Cálculo de ISR: Solo Construcción**.
+[En el artículo anterior](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) vimos cómo realizar el cálculo de ISR por enajenación de inmuebles cuando solo se vende un terreno. En este artículo realizaremos otro cálculo sencillo, pero esta vez simularemos que lo que se vende es una construcción. Este cálculo es conocido como **Cálculo de ISR: Solo Construcción**.
 
 ## ¿Qué información necesitamos?
 
@@ -38,7 +38,7 @@ La diferencia clave entre el cálculo de solo terreno y el de solo construcción
 
 ## Paso 2: Ajustar por inflación
 
-Tomamos el valor depreciado ($7,300) y lo actualizamos por la inflación. El proceso es el mismo que explicamos en [este artículo](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles), pero utilizando el valor depreciado como base.
+Tomamos el valor depreciado ($7,300) y lo actualizamos por la inflación. El proceso es el mismo que explicamos en [este artículo](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles), pero utilizando el valor depreciado como base.
 
 **Resultado: $7,300 actualizados = $11,150.75 MXN**
 

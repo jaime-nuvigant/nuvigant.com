@@ -14,8 +14,8 @@ export const EMAIL_CONTACT = "contacto@nuvigant.com";
 export const EMAIL_ADMIN = "admin@nuvigant.com";
 
 // ─── URLs ─────────────────────────────────────────────────────────────────────
-export const URL_SITE = "https://nuvigant.com";
-export const URL_SCHEDULE_DEMO = `${URL_SITE}/schedule-demo`;
+/** Same-site paths — work on any host (local, preview, production). */
+export const URL_SCHEDULE_DEMO = "/schedule-demo";
 export const URL_ISR = "https://isr.nuvigant.com";
 export const URL_ISR_CALCULATOR = `${URL_ISR}/calculo-isr`;
 export const URL_ISR_CONVENIO = `${URL_ISR_CALCULATOR}?show_welcome_message=true`;

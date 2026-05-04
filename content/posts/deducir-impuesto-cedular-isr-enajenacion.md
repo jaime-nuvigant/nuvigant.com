@@ -33,7 +33,7 @@ El mecanismo descrito a continuación tiene como objetivo incorporar el impuesto
 
 Solo hay una diferencia que ocurre al hacer esta deducción: el cedular que se tiene que pagar depende de la ganancia obtenida de una operación. Si deducimos el cedular estamos alterando la ganancia, lo que alteraría al cedular circularmente. Es por eso que se tiene que hacer un procedimiento especial que funciona así:
 
-1. Calculas la ganancia que obtuvo el enajenante **sin** deducir el cedular (si quieres aprender cómo hacer esto paso a paso, te invitamos a consultar nuestro manual dando [clic aquí](https://nuvigant.com/isr-enajenacion-inmuebles-manual))
+1. Calculas la ganancia que obtuvo el enajenante **sin** deducir el cedular (si quieres aprender cómo hacer esto paso a paso, te invitamos a consultar nuestro manual dando [clic aquí](/isr-enajenacion-inmuebles-manual))
 2. Calculas el cedular con la ganancia del paso anterior
 3. Ahora sí, realizas todo el cálculo de ISR de nuevo aplicando el cedular del paso anterior como una deducción (sin volver a calcular el cedular)
 4. El total a pagar va a ser la suma del cedular calculado y el ISR calculado en el último paso
@@ -51,7 +51,7 @@ Una persona decide en el 2023 vender un terreno que compró en el 2020. Las fech
 | Fecha de Venta Terreno | 24/11/2023 |
 | Precio Venta Terreno | $6,750,500 MXN |
 
-Si quieres saber cómo funciona paso a paso un cálculo de ISR por vender solo un terreno puedes visitar este [artículo de aquí](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles). Te recomiendo que utilices nuestra herramienta de cálculo de ISR por enajenación de inmuebles gratis y en línea, que puedes encontrar dando clic en [esta liga](https://isr.nuvigant.com/calculo-isr?show_welcome_message=true).
+Si quieres saber cómo funciona paso a paso un cálculo de ISR por vender solo un terreno puedes visitar este [artículo de aquí](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles). Te recomiendo que utilices nuestra herramienta de cálculo de ISR por enajenación de inmuebles gratis y en línea, que puedes encontrar dando clic en [esta liga](https://isr.nuvigant.com/calculo-isr?show_welcome_message=true).
 
 Si decides utilizar [nuestra herramienta gratuita](https://isr.nuvigant.com/calculo-isr?show_welcome_message=true) y quieres deducir el impuesto automáticamente, asegúrate de marcar la opción para añadir el cedular como deducción en la sección de configuración.
 

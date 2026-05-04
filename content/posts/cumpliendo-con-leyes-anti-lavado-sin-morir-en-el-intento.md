@@ -67,7 +67,7 @@ Me parece obsceno que en un país como México se exija únicamente que se busqu
 
 Si en verdad no quieres pagar por alguna solución que haga esta búsqueda por ti, no veo porque no puedas hacer la búsqueda tú mism@ (ctrl + F) en los diferentes formatos que nos proporciona la ONU y después imprimir tu propia constancia de búsqueda.
 
-Pero vamos, como lo único que necesitas es buscar en este único listado, ya el servicio lo puedes conseguir de manera muy económica. [Contáctanos](https://nuvigant.com/contact) y con mucho gusto te platicamos sobre esto.
+Pero vamos, como lo único que necesitas es buscar en este único listado, ya el servicio lo puedes conseguir de manera muy económica. [Contáctanos](/contact) y con mucho gusto te platicamos sobre esto.
 
 Si eres notario en México, entonces próximamente podrás buscar e imprimir tu constancia en un sistema que les facilitará el colegio de notarios.
 
@@ -85,7 +85,7 @@ Estas sesiones de igual manera las puedes usar para entrenamiento del personal, 
 
 Para puntos adicionales con la UIF, te invitamos a que le des [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit?usp=sharing), y compartas esa liga con tu personal. Ellos podrán escribir su correo ahí, y recibirán nuestra guía anti lavado, así como correos sobre el tema periódicamente actualizándolos con lo que hay que saber. Esto te puede ayudar en caso de una auditoría, ya que te proporciona una manera tangible de demostrar tu compromiso para que el equipo esté informado.
 
-Esas son algunas de las cosas que he visto que pueden propulsar la operación de tu empresa hacia el cumplimiento de una manera sencilla. Si te interesa resolver esto de una manera aún más sencilla, te invitamos a visitar [la página de nuestro sistema para notarías](https://nuvigant.com/fedatarios/sistema-notarias), que se enfoca en permitirte hacer todo esto y cumplir con estas leyes con la menor cantidad de clicks posibles.
+Esas son algunas de las cosas que he visto que pueden propulsar la operación de tu empresa hacia el cumplimiento de una manera sencilla. Si te interesa resolver esto de una manera aún más sencilla, te invitamos a visitar [la página de nuestro sistema para notarías](/fedatarios/sistema-notarias), que se enfoca en permitirte hacer todo esto y cumplir con estas leyes con la menor cantidad de clicks posibles.
 
 Lo mejor de todo es que como nos gusta mucho la tecnología, estamos innovando constantemente, por ejemplo, para utilizar la aplicación, ya no necesitas comprar un servidor, ni mantener redes, ni pagar por licencias (es por medio de una suscripción, piensa en el Netflix del anti lavado). Tienes acceso a tu información sin importar donde estés, sólo con tener internet y con cualquier dispositivo y, según nuestros clientes, la app es muy fácil de usar y amigable (ya estamos en el 2020, así deberían de ser todos los sistemas). En verdad le quitamos lo difícil e intimidante a manejar un sistema informático.
 

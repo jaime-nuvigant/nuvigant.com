@@ -93,7 +93,7 @@ Por último preguntaron, ¿qué es peor no informar, o informar mal? Siendo su r
 
 Aprovechando el tema, quiero poner a su disposición una nueva herramienta para notarios con la cual podrán calcular el ISR de manera gratuita e incluso desde su teléfono.
 
-[Click aquí para ir a herramienta](https://nuvigant.com/fedatarios/calculo-de-isr-enajenacion-inmuebles)
+[Click aquí para ir a herramienta](/fedatarios/calculo-de-isr-enajenacion-inmuebles)
 
 ![Resumen-de-la-jornada-Notarial-Oaxaca-2021](/images/blog/jornada-notarial-oaxaca-2021-body.jpg)
 

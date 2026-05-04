@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-La venta de un inmueble en México conlleva la obligación de pagar impuesto sobre la renta, y para los extranjeros, existen dos opciones específicas que deben tener en cuenta al momento de calcular su obligación tributaria. En este artículo, exploraremos las disposiciones legales relevantes y las opciones disponibles para los no residentes que venden propiedades en México. Si quieres conocer cómo se realiza el cálculo para un ciudadano mexicano, te invito a leer [este artículo](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles).
+La venta de un inmueble en México conlleva la obligación de pagar impuesto sobre la renta, y para los extranjeros, existen dos opciones específicas que deben tener en cuenta al momento de calcular su obligación tributaria. En este artículo, exploraremos las disposiciones legales relevantes y las opciones disponibles para los no residentes que venden propiedades en México. Si quieres conocer cómo se realiza el cálculo para un ciudadano mexicano, te invito a leer [este artículo](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles).
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Qnh58QiD8Cc" title="ISR por Enajenación de Inmuebles para Extranjeros" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -25,7 +25,7 @@ El ISR en México es un impuesto federal que grava las ganancias obtenidas por p
 
 Dos artículos clave de la [Ley de Impuesto Sobre Renta (LISR)](https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf), el 160 y el 161, detallan las opciones de tributación para los extranjeros que venden propiedades en territorio mexicano.
 
-Para entender cómo funciona, hagamos un ejemplo: un extranjero vende un terreno por $500,000.00 MXN que compró el día anterior (para simplificar el cálculo y no tener que [actualizar los montos](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)) por $250,000.00 MXN.
+Para entender cómo funciona, hagamos un ejemplo: un extranjero vende un terreno por $500,000.00 MXN que compró el día anterior (para simplificar el cálculo y no tener que [actualizar los montos](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)) por $250,000.00 MXN.
 
 ## Opción 1: Pago del 25% del Precio de Venta (LISR: Artículo 160)
 

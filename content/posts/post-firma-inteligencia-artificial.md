@@ -47,4 +47,4 @@ El proceso de post firma implica trasladar información de la escritura a múlti
 
 El equipo de Nuvigant contará con un **stand durante el Seminario de Actualización Fiscal** para quienes deseen conocer más sobre esta herramienta en persona, ver demostraciones en vivo y platicar sobre cómo implementarla en su notaría.
 
-Si estás interesado en recibir más información sobre cómo avanza esta herramienta, o en explorar cómo Nuvigant puede apoyar los procesos de tu notaría, te invitamos a [contactarnos aquí](https://nuvigant.com/contact).
+Si estás interesado en recibir más información sobre cómo avanza esta herramienta, o en explorar cómo Nuvigant puede apoyar los procesos de tu notaría, te invitamos a [contactarnos aquí](/contact).

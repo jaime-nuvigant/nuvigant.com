@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-En los artículos anteriores vimos cómo realizar el cálculo de ISR por enajenación de inmuebles cuando se vende [solo terreno](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) y [solo construcción](https://nuvigant.com/blog/industry/isr/solo-construccion-calculo-isr). Cuando se venden tanto la construcción como el terreno, se denomina al cálculo como Cálculo de ISR: Terreno y Construcción. Existen algunas variantes, y en este artículo veremos la más sencilla de todas: la variante de **misma fecha ochenta veinte**. Puedes conocer más sobre qué significa cada variante visitando [este artículo](https://nuvigant.com/blog/industry/isr/variantes-calculo-isr-enajenacion-inmuebles).
+En los artículos anteriores vimos cómo realizar el cálculo de ISR por enajenación de inmuebles cuando se vende [solo terreno](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) y [solo construcción](/blog/industry/isr/solo-construccion-calculo-isr). Cuando se venden tanto la construcción como el terreno, se denomina al cálculo como Cálculo de ISR: Terreno y Construcción. Existen algunas variantes, y en este artículo veremos la más sencilla de todas: la variante de **misma fecha ochenta veinte**. Puedes conocer más sobre qué significa cada variante visitando [este artículo](/blog/industry/isr/variantes-calculo-isr-enajenacion-inmuebles).
 
 ## ¿Qué información necesitamos para el cálculo ochenta veinte?
 
@@ -33,13 +33,13 @@ Los valores que usaremos para este ejemplo son:
 
 ## Cálculo del terreno
 
-El terreno no se deprecia, solo se actualiza por inflación. Con el valor de adquisición de $2,000 (20% del total), aplicamos los mismos cálculos del artículo de [inflación](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles):
+El terreno no se deprecia, solo se actualiza por inflación. Con el valor de adquisición de $2,000 (20% del total), aplicamos los mismos cálculos del artículo de [inflación](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles):
 
 **$2,000 pesos de 03/08/2012 actualizados al 22/05/2022 = $3,055.00 MXN**
 
 ## Cálculo de la construcción
 
-La actualización de la construcción funciona igual que como vimos en [solo construcción](https://nuvigant.com/blog/industry/isr/solo-construccion-calculo-isr), aplicando la ley ochenta veinte al precio de adquisición: 80% del precio de compra total = $8,000.
+La actualización de la construcción funciona igual que como vimos en [solo construcción](/blog/industry/isr/solo-construccion-calculo-isr), aplicando la ley ochenta veinte al precio de adquisición: 80% del precio de compra total = $8,000.
 
 **$8,000 pesos de 03/08/2012 actualizados y depreciados al 22/05/2022 = $8,890.60 MXN**
 

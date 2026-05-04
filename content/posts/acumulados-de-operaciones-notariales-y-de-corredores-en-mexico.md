@@ -48,4 +48,4 @@ En la tabla encontrarán las siguientes columnas:
 | **C** | **Funcionarios con Fe Pública** | | | |
 | a) | Cuando intervengan en la realización de actividades vulnerables | $1 | $1 | |
 
-Si tienes dudas o necesitas más información sobre el cumplimiento de tus obligaciones de Prevención de Lavado de Dinero, [contáctanos aquí](https://nuvigant.com/contact). En Nuvigant contamos con herramientas diseñadas específicamente para que los fedatarios públicos puedan gestionar sus operaciones vulnerables y acumulados de manera eficiente y segura.
+Si tienes dudas o necesitas más información sobre el cumplimiento de tus obligaciones de Prevención de Lavado de Dinero, [contáctanos aquí](/contact). En Nuvigant contamos con herramientas diseñadas específicamente para que los fedatarios públicos puedan gestionar sus operaciones vulnerables y acumulados de manera eficiente y segura.

@@ -1,7 +1,6 @@
 import { MetadataRoute } from "next";
 import { getAllPostsMeta, getPostUrl } from "@/lib/blog";
-
-const SITE_URL = "https://nuvigant.com";
+import { getSiteUrl } from "@/lib/site-url";
 
 const STATIC_ROUTES: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
   { path: "/",                                    priority: 1.0,  changeFrequency: "weekly" },
@@ -71,17 +70,18 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const siteUrl = getSiteUrl();
   const posts = await getAllPostsMeta();
 
   const postEntries: MetadataRoute.Sitemap = posts.map((post) => ({
-    url: `${SITE_URL}${getPostUrl(post)}`,
+    url: `${siteUrl}${getPostUrl(post)}`,
     lastModified: new Date(post.date),
     changeFrequency: "monthly",
     priority: 0.7,
   }));
 
   const staticEntries: MetadataRoute.Sitemap = STATIC_ROUTES.map(({ path, priority, changeFrequency }) => ({
-    url: `${SITE_URL}${path}`,
+    url: `${siteUrl}${path}`,
     lastModified: new Date(),
     changeFrequency,
     priority,

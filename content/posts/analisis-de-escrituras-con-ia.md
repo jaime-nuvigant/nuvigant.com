@@ -53,7 +53,7 @@ Nuvigant ofrece un sistema avanzado de análisis de escrituras con IA que emplea
 
 El análisis de escrituras con IA se integra con tu sistema actual:
 
-- Puedes utilizar este módulo incluso si ya cuentas con algún [sistema notarial que no sea el de Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias).
+- Puedes utilizar este módulo incluso si ya cuentas con algún [sistema notarial que no sea el de Nuvigant](/fedatarios/sistema-notarias).
 - Permite una sincronización fluida de documentos y registros.
 - Facilita el acceso remoto y la colaboración entre profesionales.
 
@@ -66,7 +66,7 @@ El análisis de escrituras con IA se integra con tu sistema actual:
 - **Cumplimiento Normativo:** Verificación automática con regulaciones vigentes.
 - **Ahorro de Costos:** Menor dependencia de revisiones manuales extensivas.
 
-[Da clic aquí para agendar una demo y ver esto en acción](https://nuvigant.com/schedule-demo)
+[Da clic aquí para agendar una demo y ver esto en acción](/schedule-demo)
 
 ---
 

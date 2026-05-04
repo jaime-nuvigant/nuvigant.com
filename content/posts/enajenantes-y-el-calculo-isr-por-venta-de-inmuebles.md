@@ -20,9 +20,9 @@ Un factor muy importante en el cálculo de ISR es el número de enajenantes. Por
 <div class="video-container"><iframe src="https://www.youtube.com/embed/RipX3zIafbY" title="Enajenantes y el cálculo ISR por venta de inmuebles" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-El cálculo que vimos en el artículo de [solo terreno](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) muestra cómo proceder cuando hay un solo enajenante del 100%. En este artículo elaboraremos los ejemplos con dos enajenantes del mismo y de diferente porcentaje. El porcentaje de los enajenantes siempre tiene que dar un total del 100%; por ello, en el primer caso serán dos enajenantes de 50% cada uno, y en el segundo caso uno de 70% y otro de 30%.
+El cálculo que vimos en el artículo de [solo terreno](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) muestra cómo proceder cuando hay un solo enajenante del 100%. En este artículo elaboraremos los ejemplos con dos enajenantes del mismo y de diferente porcentaje. El porcentaje de los enajenantes siempre tiene que dar un total del 100%; por ello, en el primer caso serán dos enajenantes de 50% cada uno, y en el segundo caso uno de 70% y otro de 30%.
 
-Los cálculos se realizan de la misma manera hasta el punto número 4 ([da clic aquí para revisarlo](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles)), a partir del punto número 5 es donde ya comienzan a cambiar las operaciones dependiendo de los enajenantes. Las cantidades de referencia son:
+Los cálculos se realizan de la misma manera hasta el punto número 4 ([da clic aquí para revisarlo](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles)), a partir del punto número 5 es donde ya comienzan a cambiar las operaciones dependiendo de los enajenantes. Las cantidades de referencia son:
 
 - **Precio Actualizado**: $15,275.00
 - **Utilidad Gravable**: $4,725.00

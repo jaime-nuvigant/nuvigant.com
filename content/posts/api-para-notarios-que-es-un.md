@@ -19,7 +19,7 @@ En el mundo digital actual, los notarios no solo manejan documentos y transaccio
 
 ## ¿Qué es un API para notarios?
 
-Primero, es importante entender qué es una API. Imagina que una API es como un puente que permite que dos sistemas diferentes se comuniquen entre sí. En lugar de tener que construir desde cero una funcionalidad o sistema, una API para notarios permite que diferentes programas o aplicaciones compartan información de manera eficiente y estandarizada. Nosotros los utilizamos mucho en [nuestra aplicación para notarías y corredurías.](https://nuvigant.com/fedatarios/sistema-notarias)
+Primero, es importante entender qué es una API. Imagina que una API es como un puente que permite que dos sistemas diferentes se comuniquen entre sí. En lugar de tener que construir desde cero una funcionalidad o sistema, una API para notarios permite que diferentes programas o aplicaciones compartan información de manera eficiente y estandarizada. Nosotros los utilizamos mucho en [nuestra aplicación para notarías y corredurías.](/fedatarios/sistema-notarias)
 
 Por ejemplo, si alguna vez has utilizado una aplicación para verificar tu identidad o firmar digitalmente un documento, es probable que esa aplicación haya interactuado con una API para validar tus datos con una base de datos gubernamental o de identidad digital.
 

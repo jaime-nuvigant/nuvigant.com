@@ -34,7 +34,7 @@ Aquí hay algunas consideraciones al implementarlos:
 - **Verificación de identidad**: Utiliza formularios para verificar la identidad de los clientes. Puede ser necesario solicitar copias escaneadas de documentos de identificación o utilizar preguntas de seguridad.
 - **Consentimiento y aprobación**: Asegúrate de que los clientes comprendan y aprueben el uso de su información personal según las regulaciones aplicables.
 
-Hay un sinfín de herramientas que te pueden ayudar a hacer esto ([Typeform](https://www.typeform.com/), [JotForm](https://www.jotform.com/), [Google Forms](https://www.google.com/forms/about/)), pero en [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias) te podemos ayudar a hacer este proceso más simple, ya que sabemos cuáles son tus necesidades como fedatario y tenemos formularios preestablecidos específicamente para ti. [Agenda una demo sin compromiso](https://nuvigant.com/schedule-demo) con nosotros si te gustaría platicar más a fondo de esto.
+Hay un sinfín de herramientas que te pueden ayudar a hacer esto ([Typeform](https://www.typeform.com/), [JotForm](https://www.jotform.com/), [Google Forms](https://www.google.com/forms/about/)), pero en [Nuvigant](/fedatarios/sistema-notarias) te podemos ayudar a hacer este proceso más simple, ya que sabemos cuáles son tus necesidades como fedatario y tenemos formularios preestablecidos específicamente para ti. [Agenda una demo sin compromiso](/schedule-demo) con nosotros si te gustaría platicar más a fondo de esto.
 
 ## Permítele a tus clientes agendar citas en línea
 
@@ -51,7 +51,7 @@ Es importante tener un lugar centralizado donde tengas un registro de todo lo qu
 - **Servicio al cliente**: El permitirle a tu equipo entero saber qué está pasando en todas tus operaciones les dará la posibilidad de atender a tus clientes de manera más puntual y eficiente.
 - **Integración con tus otras herramientas**: Un software de gestión puede permitirte integrar todos tus procesos informáticos, como facturación o generación de documentos Word a partir de plantillas.
 
-Hay muchos sistemas de administración, pero muy pocos se ajustan al trabajo de un fedatario público. Nuestro sistema de administración en la nube para fedatarios públicos te puede ayudar con eso. Te invitamos a ver una demo del sistema llenando [este formulario](https://nuvigant.com/schedule-demo).
+Hay muchos sistemas de administración, pero muy pocos se ajustan al trabajo de un fedatario público. Nuestro sistema de administración en la nube para fedatarios públicos te puede ayudar con eso. Te invitamos a ver una demo del sistema llenando [este formulario](/schedule-demo).
 
 ## Implementar firmas electrónicas y verificación de identidad
 
@@ -67,4 +67,4 @@ De nada sirve hacer todos los pasos anteriores si nunca nadie visita tu página 
 
 En conclusión, la prestación de servicios de notario público o corredor público en línea es una oportunidad emocionante para modernizar y expandir tu negocio. Sin embargo, es esencial que se sigan las regulaciones legales y que se garantice la seguridad y la autenticidad en cada transacción. Al adoptar la tecnología y desarrollar procesos sólidos, los notarios públicos y corredores públicos pueden brindar servicios en línea de manera eficiente y confiable.
 
-En Nuvigant nos enfocamos en ayudar a los fedatarios públicos a empezar a incursionar en esta nueva era de tecnología. Te invitamos a [agendar una demo con nosotros](https://nuvigant.com/schedule-demo), donde podemos platicar sobre las diferentes funciones que quisieras digitalizar en tu operación.
+En Nuvigant nos enfocamos en ayudar a los fedatarios públicos a empezar a incursionar en esta nueva era de tecnología. Te invitamos a [agendar una demo con nosotros](/schedule-demo), donde podemos platicar sobre las diferentes funciones que quisieras digitalizar en tu operación.

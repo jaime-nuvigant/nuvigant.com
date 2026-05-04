@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "fedatarios"
 ---
 
-El mundo está cambiando. Cuando antes era necesario pararte en la banqueta y hacer señas y brincos hasta el cansancio para poder conseguir un taxi, ahora, como por arte de magia, puedes llamarlo directo a tu ubicación por medio de un dispositivo que cabe en el bolsillo de tu pantalón. Ocupaciones que pensábamos que nunca cambiarían están siendo revolucionadas con una rapidez sin precedente y en este artículo les voy a platicar sobre lo que yo creo será el principal cambio que veremos en el nicho de la fe pública gracias a las nuevas tendencias: [corredor y notario en línea](https://nuvigant.com/blog/industry/fedatarios/corredor-y-notario-en-linea).
+El mundo está cambiando. Cuando antes era necesario pararte en la banqueta y hacer señas y brincos hasta el cansancio para poder conseguir un taxi, ahora, como por arte de magia, puedes llamarlo directo a tu ubicación por medio de un dispositivo que cabe en el bolsillo de tu pantalón. Ocupaciones que pensábamos que nunca cambiarían están siendo revolucionadas con una rapidez sin precedente y en este artículo les voy a platicar sobre lo que yo creo será el principal cambio que veremos en el nicho de la fe pública gracias a las nuevas tendencias: [corredor y notario en línea](/blog/industry/fedatarios/corredor-y-notario-en-linea).
 
 ## A la nube y más allá
 

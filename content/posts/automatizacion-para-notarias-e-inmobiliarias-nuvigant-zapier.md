@@ -77,4 +77,4 @@ Para una guía paso a paso sobre la configuración, visita nuestro centro de ayu
 
 La integración de Nuvigant con Zapier es un gran avance para notarías e inmobiliarias que buscan mejorar su eficiencia y digitalizar sus operaciones. Gracias a esta automatización, las empresas pueden ahorrar tiempo, minimizar errores y ofrecer un mejor servicio a sus clientes.
 
-¡[Agenda una demo](https://nuvigant.com/schedule-demo) y empieza a aprovechar todas las ventajas de la automatización con Nuvigant y Zapier!
+¡[Agenda una demo](/schedule-demo) y empieza a aprovechar todas las ventajas de la automatización con Nuvigant y Zapier!

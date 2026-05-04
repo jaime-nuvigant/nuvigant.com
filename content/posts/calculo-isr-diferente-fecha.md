@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-[A lo largo de esta guía de cálculo de ISR por enajenación de inmuebles](https://nuvigant.com/isr-enajenacion-inmuebles-manual) hemos visto diversas variaciones. Ahora hablaremos sobre una un poco más complicada: el **Cálculo de ISR: Diferente Fecha**. Este cálculo se denomina así porque la venta del terreno se hace en fecha distinta a la venta de la construcción. En estos casos los cálculos se hacen completamente por separado y al final se juntan para obtener la cantidad que cada enajenante debe pagar. Si no sabes cómo funciona el cálculo base, te recomendamos revisar primero los artículos de [solo terreno](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) y [solo construcción](https://nuvigant.com/blog/industry/isr/solo-construccion-calculo-isr).
+[A lo largo de esta guía de cálculo de ISR por enajenación de inmuebles](/isr-enajenacion-inmuebles-manual) hemos visto diversas variaciones. Ahora hablaremos sobre una un poco más complicada: el **Cálculo de ISR: Diferente Fecha**. Este cálculo se denomina así porque la venta del terreno se hace en fecha distinta a la venta de la construcción. En estos casos los cálculos se hacen completamente por separado y al final se juntan para obtener la cantidad que cada enajenante debe pagar. Si no sabes cómo funciona el cálculo base, te recomendamos revisar primero los artículos de [solo terreno](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles) y [solo construcción](/blog/industry/isr/solo-construccion-calculo-isr).
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/y7Rv2QW4nM4" title="Cálculo ISR: Diferente Fecha" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -31,7 +31,7 @@ Los datos deben estar separados por terreno y construcción:
 - Terreno: $25,000.00 MXN
 - Construcción: $45,000.00 MXN
 
-Si únicamente tienes el precio total de la venta, es necesario separarlo. [Clic aquí para ver cómo hacerlo](https://nuvigant.com/blog/industry/isr/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion).
+Si únicamente tienes el precio total de la venta, es necesario separarlo. [Clic aquí para ver cómo hacerlo](/blog/industry/isr/isr-enajenacion-separar-precio-de-venta-terreno-y-construccion).
 
 **Fechas de adquisición** (separadas por ser diferente fecha)
 - Terreno: 25/10/2010
@@ -42,7 +42,7 @@ Si únicamente tienes el precio total de la venta, es necesario separarlo. [Clic
 
 ## Cálculo del terreno
 
-Primero hay que hacer los cálculos del terreno (puedes ver un ejemplo de solo terreno dando clic [aquí](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles)):
+Primero hay que hacer los cálculos del terreno (puedes ver un ejemplo de solo terreno dando clic [aquí](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles)):
 
 ![Cálculo-ISR:-Diferente-Fecha](/images/blog/calculo-isr-diferente-fecha-body.jpg)
 
@@ -59,7 +59,7 @@ Primero hay que hacer los cálculos del terreno (puedes ver un ejemplo de solo t
 
 ## Cálculo de la construcción
 
-Después se realizan los cálculos de la construcción (puedes ver un ejemplo de solo construcción dando clic [aquí](https://nuvigant.com/blog/industry/isr/solo-construccion-calculo-isr)):
+Después se realizan los cálculos de la construcción (puedes ver un ejemplo de solo construcción dando clic [aquí](/blog/industry/isr/solo-construccion-calculo-isr)):
 
 1. **Depreciación**:
    - Años: 6 → porcentaje: 6 × 3% = 18%

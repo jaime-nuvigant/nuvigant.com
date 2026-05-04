@@ -31,7 +31,7 @@ No quieres que te atrapen con una revisión intentando explicar tus procedimient
 
 Es por eso que tener un manual por escrito donde expliques cuáles son tus procedimientos PLD y como le conciernen a cada uno de los integrantes del equipo es una excelente medida que tomar.
 
-Nosotros creamos un manual que se adapta al uso de [nuestra aplicación](https://nuvigant.com/fedatarios/sistema-notarias) que puedes descargar libremente dando [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit). Son más que bienvenidos para utilizar este manual como un punto de partida para la creación del suyo. Recomendamos que lo descarguen y lo adapten a sus procesos.
+Nosotros creamos un manual que se adapta al uso de [nuestra aplicación](/fedatarios/sistema-notarias) que puedes descargar libremente dando [click aquí](https://docs.google.com/document/d/1e2rYoy7q_Lh-GcAx6uplmeOCFOQILjpOD33uno2Olec/edit). Son más que bienvenidos para utilizar este manual como un punto de partida para la creación del suyo. Recomendamos que lo descarguen y lo adapten a sus procesos.
 
 ## OFICIAL DE CUMPLIMIENTO
 
@@ -49,7 +49,7 @@ Lo bien aprendido no se olvida, ¿verdad? Bueno eso no es algo que le vas a pode
 
 Es importante que cada miembro de la empresa que tenga contacto con las transacciones de los clientes esté enterado de los requerimientos legales y todas las formas en las que el dinero es lavado.
 
-Una buena manera de empezar a mantenerse al tanto es visitar [nuestra página sobre prevención de lavado de dinero](https://nuvigant.com/aml) y el [blog de Nuvigant](https://nuvigant.com/blog); si quieren orientación para su operación, pueden [escribirnos](https://nuvigant.com/contact).
+Una buena manera de empezar a mantenerse al tanto es visitar [nuestra página sobre prevención de lavado de dinero](/aml) y el [blog de Nuvigant](/blog); si quieren orientación para su operación, pueden [escribirnos](/contact).
 
 ## AUDITORÍA EXTERNA
 
@@ -61,4 +61,4 @@ Antes de hacer una auditoría de este tipo es importante que se aseguren que el/
 
 Pues eso es, esperamos que este artículo les haya sido de ayuda. Si tienen alguna duda, nos pueden escribir a [contacto@nuvigant.com](mailto:contacto@nuvigant.com).
 
-Si conocen alguien que le pueda servir este artículo o el manual anti lavado de dinero, agradecemos mucho si se lo pudieran compartir. Si quisieran recibir correos con información PLD cotidianamente, los invitamos a visitar [nuestra sección AML](https://nuvigant.com/aml) o [contáctanos](https://nuvigant.com/contact) para recibir novedades sobre PLD.
+Si conocen alguien que le pueda servir este artículo o el manual anti lavado de dinero, agradecemos mucho si se lo pudieran compartir. Si quisieran recibir correos con información PLD cotidianamente, los invitamos a visitar [nuestra sección AML](/aml) o [contáctanos](/contact) para recibir novedades sobre PLD.

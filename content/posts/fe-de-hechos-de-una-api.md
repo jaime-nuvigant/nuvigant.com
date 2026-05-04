@@ -15,11 +15,11 @@ category: "industry"
 subcategory: "lawyers"
 ---
 
-En el ámbito del derecho, la **fe de hechos** es un documento emitido por un notario o autoridad competente que certifica que un evento o acción ha tenido lugar. En términos de tecnología, y específicamente en el desarrollo de software y servicios web, el concepto de fe de hechos puede aplicarse para describir el registro o verificación de las interacciones entre computadoras que sucede mediante una [llamada API](https://nuvigant.com/blog/industry/lawyers/legal-tech/api-para-notarios-que-es-un). En este contexto, se busca garantizar que una operación fue ejecutada y que los datos intercambiados entre el cliente y el servidor son los esperados. Este artículo explora el concepto de una "fe de hechos" en el marco de las llamadas API y hablaremos sobre todo lo que uno no entiende de derecho notarial, combinado con todo lo que uno no entiende de tecnología.
+En el ámbito del derecho, la **fe de hechos** es un documento emitido por un notario o autoridad competente que certifica que un evento o acción ha tenido lugar. En términos de tecnología, y específicamente en el desarrollo de software y servicios web, el concepto de fe de hechos puede aplicarse para describir el registro o verificación de las interacciones entre computadoras que sucede mediante una [llamada API](/blog/industry/lawyers/legal-tech/api-para-notarios-que-es-un). En este contexto, se busca garantizar que una operación fue ejecutada y que los datos intercambiados entre el cliente y el servidor son los esperados. Este artículo explora el concepto de una "fe de hechos" en el marco de las llamadas API y hablaremos sobre todo lo que uno no entiende de derecho notarial, combinado con todo lo que uno no entiende de tecnología.
 
 ## ¿Qué es una llamada API?
 
-Una **API** (Interfaz de Programación de Aplicaciones, por sus siglas en inglés) es un conjunto de reglas y protocolos que permiten que diferentes aplicaciones se comuniquen entre sí. Las **llamadas API** son solicitudes realizadas por un cliente a un servidor para obtener, modificar, eliminar o crear información. [Te invitamos a leer este artículo, APIs para notarios](https://nuvigant.com/blog/industry/lawyers/legal-tech/api-para-notarios-que-es-un), para entender mejor qué son estas APIs.
+Una **API** (Interfaz de Programación de Aplicaciones, por sus siglas en inglés) es un conjunto de reglas y protocolos que permiten que diferentes aplicaciones se comuniquen entre sí. Las **llamadas API** son solicitudes realizadas por un cliente a un servidor para obtener, modificar, eliminar o crear información. [Te invitamos a leer este artículo, APIs para notarios](/blog/industry/lawyers/legal-tech/api-para-notarios-que-es-un), para entender mejor qué son estas APIs.
 
 ## La Fe de Hechos en una API
 
@@ -69,7 +69,7 @@ Imaginemos un sistema donde un cliente realiza una solicitud POST a una API para
 
 - Método: `POST`
 - Endpoint: `/api/users`
-- URL: `https://nuvigant.com`
+- URL: `https://ejemplo.com` (dominio público base del servicio)
 - Cuerpo de la solicitud: `{ "name": "Juan Pérez", "email": "juan.perez@example.com" }`
 - Cabeceras: `Authorization: Bearer <token>`
 

@@ -125,4 +125,4 @@ El Impuesto Cedular por Enajenación de Bienes Inmuebles en San Luis Potosí mar
 
 Para quienes estén pensando vender una propiedad en el Estado a partir del 1 de enero de 2025, es importante contar con la asesoría adecuada, tanto para aprovechar las posibles exenciones como para cumplir con las obligaciones fiscales correspondientes.
 
-Aprovechamos para volver a invitar a probar nuestro sistema de cálculo de ISR gratuito ([clic aquí](https://isr.nuvigant.com/calculo-isr)) y nuestro sistema para notarías e inmobiliarias ([dando clic aquí](https://nuvigant.com/)).
+Aprovechamos para volver a invitar a probar nuestro sistema de cálculo de ISR gratuito ([clic aquí](https://isr.nuvigant.com/calculo-isr)) y nuestro sistema para notarías e inmobiliarias ([dando clic aquí](/)).

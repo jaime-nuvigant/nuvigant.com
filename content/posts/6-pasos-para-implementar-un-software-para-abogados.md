@@ -29,13 +29,13 @@ El primer paso es identificar las necesidades únicas que tiene la firma, estas 
 
 Identificar tus necesidades únicas va de la mano con la retroalimentación que obtengas de tus colaboradores y clientes. Platica con todos tus colaboradores y elaboren una lista de procesos que no aporten valor y funciones que se puedan automatizar.
 
-Para conocer como saber identificar tus necesidades únicas, te recomiendo leer el artículo [cómo saber si necesito un software para mi despacho.](https://nuvigant.com/blog/industry/lawyers/legal-tech/como-saber-si-necesito-un-software-de-abogados)
+Para conocer como saber identificar tus necesidades únicas, te recomiendo leer el artículo [cómo saber si necesito un software para mi despacho.](/blog/industry/lawyers/legal-tech/como-saber-si-necesito-un-software-de-abogados)
 
 Una vez que cuentes con certeza sobre las necesidades únicas de tu oficina, será más sencillo comenzar con el proceso de búsqueda de una solución tecnológica que se adapte a tus necesidades.
 
 Si bien cada día hay una mayor oferta de herramientas al grado de ser abrumador elegir entre alguna, al tener claras las necesidades que tiene la oficina, te permitirá identificar las soluciones que pueden calificar para lo que necesitas y eliminar de tu lista las soluciones que no cumplan con los objetivos a los que quieres llegar.
 
-Antes de iniciar tu proceso de búsqueda te recomiendo leer el artículo [Software para abogados: 15 cosas que debes saber.](https://nuvigant.com/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber)
+Antes de iniciar tu proceso de búsqueda te recomiendo leer el artículo [Software para abogados: 15 cosas que debes saber.](/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber)
 
 La mejor sugerencia que te puedo dar es que no elijas una marca, sino un aliado estratégico, ya que tu proveedor de software se convertirá en una relación a largo plazo y necesitas aliarte con una empresa con una visión que se acople a las metas del despacho.
 
@@ -101,13 +101,13 @@ Elige a uno o dos miembros del equipo para que ejecuten la configuración que ne
 
 Para obtener el máximo provecho, un tema importante a considerar al momento de configurar la herramienta es como quieres visualizar la información, por eso es importante definir que KPI's necesitas para darle seguimiento a lo que sea que quieres medir.
 
-Si necesitas inspiración, te recomiendo leer el artículo de [50 KPI's para abogados.](https://nuvigant.com/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados)
+Si necesitas inspiración, te recomiendo leer el artículo de [50 KPI's para abogados.](/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados)
 
 Una vez que están satisfechos con la configuración, realiza una junta para homologar la forma de uso de la herramienta, si manejas integraciones o utilizas otras herramientas, definan en esa junta cuál va a ser la manera de operar y definan KPI's para cada área o perfil de puesto.
 
 Una recomendación es definir 2 etapas importantes:
 
-1. [Contacto](https://nuvigant.com/contact)
+1. [Contacto](/contact)
 2. Workflow antes del hub tecnológico.
 3. Presente-futuro del hub tecnológico.
 
@@ -171,7 +171,7 @@ El equipo del proyecto debe identificar elementos importantes como el enfoque qu
 
 Organiza con tu proveedor de software legal capacitaciones dependiendo del rol o las funciones que se tengan en cada área del despacho.
 
-En [Nuvigant Software](https://nuvigant.com/lawyers) diseñamos capacitaciones personalizadas que se adaptan a las necesidades y tamaño de tu despacho, solicita una [demo aquí.](https://nuvigant.com/schedule-demo)
+En [Nuvigant Software](/lawyers) diseñamos capacitaciones personalizadas que se adaptan a las necesidades y tamaño de tu despacho, solicita una [demo aquí.](/schedule-demo)
 
 Dentro de tu organización, tendrás personas positivas y decididas a que el proyecto tenga éxito, y personas que se aferrarán a cada experiencia negativa. Ambos tipos de personas compartirán sus experiencias con sus colegas.
 
@@ -193,7 +193,7 @@ Muestra a los empleados que, el software en lugar de ser solo una pieza de tecno
 
 Conocer los documentos, videos o tutoriales interactivos y guiados de soporte en la aplicación pueden ayudar a abordar las preguntas de ¿Cómo hacer?.
 
-En [Nuvigant Software](https://nuvigant.com/lawyers) contamos con varios canales de comunicación entre ellos un chat dentro del sistema que facilita el apoyo inmediato a todos los usuarios en caso de necesitarlo.
+En [Nuvigant Software](/lawyers) contamos con varios canales de comunicación entre ellos un chat dentro del sistema que facilita el apoyo inmediato a todos los usuarios en caso de necesitarlo.
 
 Organiza videoconferencias o implementa jornadas de usuarios con tu proveedor de tecnología.
 
@@ -219,4 +219,4 @@ Este conocimiento significa que juegan un papel importante más allá de la capa
 
 Comparte el progreso del despacho hacia estos objetivos con regularidad y ayuda a mostrar a los empleados cómo el uso del sistema y la entrada de datos están contribuyendo a la transformación.
 
-¿Estás list@ para llevar la gestión de tu despacho al siguiente nivel? Solicita una demostración del Software Nuvigant totalmente gratis [aquí.](https://nuvigant.com/schedule-demo)
+¿Estás list@ para llevar la gestión de tu despacho al siguiente nivel? Solicita una demostración del Software Nuvigant totalmente gratis [aquí.](/schedule-demo)

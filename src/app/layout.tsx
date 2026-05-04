@@ -3,6 +3,9 @@ import { Inter, Fraunces, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { getSiteUrl } from "@/lib/site-url";
+
+const siteUrl = getSiteUrl();
 
 const inter = Inter({
   subsets: ["latin"],
@@ -27,7 +30,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nuvigant.com"),
+  metadataBase: new URL(siteUrl),
   title: {
     default: "Nuvigant · Gestión Notarial con IA",
     template: "%s · Nuvigant",
@@ -40,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "es_MX",
-    url: "https://nuvigant.com",
+    url: siteUrl,
     siteName: "Nuvigant",
     title: "Nuvigant · Gestión Notarial con IA",
     description:

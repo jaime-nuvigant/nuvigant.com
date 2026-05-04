@@ -193,6 +193,6 @@ Para dar seguimiento a KPI's para abogados, la tecnología juega un papel esenci
 
 Si bien las hojas de cálculo son excelentes para la descarga de datos, a menos de que seas un ninja en excel es difícil alcanzar el nivel de dinamismo para obtener los reportes que necesitas, además que al haber varias áreas en la firma, resulta complicado recopilar toda la información en un solo documento.
 
-Por ello, la mejor herramienta de seguimiento es un [software de gestión](https://nuvigant.com/lawyers) donde tengas una visión global del despacho que incluya toda la información de los asuntos, el dinero, tiempos de ejecución y cumplimiento.
+Por ello, la mejor herramienta de seguimiento es un [software de gestión](/lawyers) donde tengas una visión global del despacho que incluya toda la información de los asuntos, el dinero, tiempos de ejecución y cumplimiento.
 
 Si en el día a día de la operación de la firma, todos los colaboradores agregan información al sistema -si es un sistema capaz- te dará toda la información que necesites para tomar las mejores decisiones.

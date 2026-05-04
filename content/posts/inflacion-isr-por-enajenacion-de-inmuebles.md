@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-[Como vimos en el artículo anterior](https://nuvigant.com/blog/industry/isr/isr-enajenacion-inmuebles) en esta [guía para el cálculo de ISR por enajenación de inmuebles](https://nuvigant.com/isr-enajenacion-inmuebles-manual), para calcular el ISR por enajenación de inmuebles es necesario considerar la inflación para poder calcular la ganancia obtenida por la venta del inmueble. En este artículo veremos lo que hay que saber sobre cómo calcular esta inflación con los dos métodos que se nos proporcionan: el índice nacional de precios al consumidor y los factores de ajuste de inflación.
+[Como vimos en el artículo anterior](/blog/industry/isr/isr-enajenacion-inmuebles) en esta [guía para el cálculo de ISR por enajenación de inmuebles](/isr-enajenacion-inmuebles-manual), para calcular el ISR por enajenación de inmuebles es necesario considerar la inflación para poder calcular la ganancia obtenida por la venta del inmueble. En este artículo veremos lo que hay que saber sobre cómo calcular esta inflación con los dos métodos que se nos proporcionan: el índice nacional de precios al consumidor y los factores de ajuste de inflación.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5I02LBnSy3s" title="Inflación y el ISR por enajenación de inmuebles" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -82,7 +82,7 @@ En este ejercicio, terminamos con dos montos diferentes:
 
 Al calcular el ISR por Enajenación de Inmueble, para reducir el impuesto conviene declarar que se pagó la cantidad mayor posible al momento de comprar la casa. Esto es porque entre mayor haya sido el gasto, menor va a ser la ganancia y el impuesto en sí se calcula sobre la ganancia. Entonces, en este caso, el valor que se usará será el de **$15,275.00 MXN**.
 
-Este procedimiento se debe utilizar si estás vendiendo un terreno, una construcción o ambos. En el siguiente artículo vamos a ver un procedimiento que se debe de usar solamente para construcciones: calcular la [depreciación de un inmueble](https://nuvigant.com/blog/industry/isr/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble).
+Este procedimiento se debe utilizar si estás vendiendo un terreno, una construcción o ambos. En el siguiente artículo vamos a ver un procedimiento que se debe de usar solamente para construcciones: calcular la [depreciación de un inmueble](/blog/industry/isr/isr-enajenacion-inmuebles-depreciacion-de-un-inmueble).
 
 ## Conoce nuestra herramienta de cálculo de ISR gratuita
 

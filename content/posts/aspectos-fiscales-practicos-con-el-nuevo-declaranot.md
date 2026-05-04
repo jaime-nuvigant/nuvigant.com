@@ -46,4 +46,4 @@ Se comentaron también varios casos prácticos y de cómo se debería de dar el 
 
 Tratando sobre las listas negras, el Licenciado indicó que él tiene la práctica de realizar la búsqueda cuando alguien entra a la notaría, al igual que al día de la firma, evitándose tener que hacer todo el trabajo si la persona se encuentra en algún listado. Si utilizas nuestra aplicación, este proceso se vuelve automático, ahorrándote tiempo y esfuerzo.
 
-Para más información sobre cómo nuestra plataforma facilita el cumplimiento de tus obligaciones PLD y la gestión de avisos al Declaranot, [contáctanos aquí](https://nuvigant.com/contact).
+Para más información sobre cómo nuestra plataforma facilita el cumplimiento de tus obligaciones PLD y la gestión de avisos al Declaranot, [contáctanos aquí](/contact).

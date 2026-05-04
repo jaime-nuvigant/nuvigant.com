@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { getAllPostsMeta, getAllTags } from "@/lib/blog";
 import BlogPage from "@/components/BlogPage";
-
-const SITE_URL = "https://nuvigant.com";
+import { getSiteUrl } from "@/lib/site-url";
 const BASE_DESCRIPTION =
   "Artículos sobre gestión notarial, tecnología legal, ISR, PLD y transformación digital para fedatarios en México.";
 
@@ -31,7 +30,8 @@ export async function generateMetadata({
   if (tag) canonicalParams.set("tag", tag);
   if (currentPage > 1) canonicalParams.set("page", String(currentPage));
   const qs = canonicalParams.toString();
-  const canonical = `${SITE_URL}/blog${qs ? `?${qs}` : ""}`;
+  const siteUrl = getSiteUrl();
+  const canonical = `${siteUrl}/blog${qs ? `?${qs}` : ""}`;
 
   return {
     title,

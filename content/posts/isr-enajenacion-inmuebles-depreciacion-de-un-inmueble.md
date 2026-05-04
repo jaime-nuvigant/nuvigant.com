@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-[En el artículo anterior](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) de esta guía [sobre el cálculo de ISR por venta de inmuebles](https://nuvigant.com/isr-enajenacion-inmuebles-manual), vimos cómo se hace para actualizar precios pasados de acuerdo a la inflación que ha ocurrido desde entonces. En este artículo veremos cómo calcular la depreciación de inmuebles al momento de realizar un cálculo de ISR. A diferencia del cálculo de inflación, este procedimiento solo aplica cuando estás calculando el valor actual de una construcción y no de un terreno.
+[En el artículo anterior](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles) de esta guía [sobre el cálculo de ISR por venta de inmuebles](/isr-enajenacion-inmuebles-manual), vimos cómo se hace para actualizar precios pasados de acuerdo a la inflación que ha ocurrido desde entonces. En este artículo veremos cómo calcular la depreciación de inmuebles al momento de realizar un cálculo de ISR. A diferencia del cálculo de inflación, este procedimiento solo aplica cuando estás calculando el valor actual de una construcción y no de un terreno.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cZpsAwXCKRE" title="Depreciación de un inmueble y el ISR por Enajenación" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -27,7 +27,7 @@ Antes que nada, vale la pena comenzar mencionando que [Economipedia](https://eco
 
 ## ¿Qué valores necesitamos?
 
-Para calcular la depreciación de un inmueble se necesitan tres valores (vamos a usar los mismos valores del terreno [en el artículo anterior](https://nuvigant.com/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)):
+Para calcular la depreciación de un inmueble se necesitan tres valores (vamos a usar los mismos valores del terreno [en el artículo anterior](/blog/industry/isr/inflacion-isr-por-enajenacion-de-inmuebles)):
 
 1. El precio a depreciar: **$10,000.00 MXN**
 2. La fecha original: **03/08/2012**
@@ -70,7 +70,7 @@ Tomando en cuenta el factor de inflación del ejercicio del artículo anterior, 
 
 ## Conoce nuestra herramienta de cálculo de ISR gratuita
 
-¡Felicidades! Ya calculaste la depreciación de un inmueble. Te invitamos a seguir leyendo sobre el cálculo de ISR en [nuestro manual sobre el tema](https://nuvigant.com/isr-enajenacion-inmuebles-manual). O si prefieres, puedes echarle un ojo a nuestra herramienta gratuita para calcular el ISR por enajenación de un inmueble.
+¡Felicidades! Ya calculaste la depreciación de un inmueble. Te invitamos a seguir leyendo sobre el cálculo de ISR en [nuestro manual sobre el tema](/isr-enajenacion-inmuebles-manual). O si prefieres, puedes echarle un ojo a nuestra herramienta gratuita para calcular el ISR por enajenación de un inmueble.
 
 - Siempre se mantiene actualizada con los índices de [BANXICO](https://www.banxico.org.mx/)
 - Puedes hacer el cálculo directamente en el celular

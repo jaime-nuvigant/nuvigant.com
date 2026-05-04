@@ -15,7 +15,7 @@ category: "industry"
 subcategory: "isr"
 ---
 
-Como ya hemos visto en esta guía de cálculo de ISR, se puede calcular el ISR cuando se vende [solo un terreno](https://nuvigant.com/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles), [solo una construcción](https://nuvigant.com/blog/industry/isr/solo-construccion-calculo-isr) o ambos. La cosa empieza a volverse un poco más compleja cuando se venden ambos, ya que existen variantes en la manera en que se puede realizar el cálculo. En este artículo analizaremos cuándo se debe utilizar cada variante y qué información se necesita según el caso.
+Como ya hemos visto en esta guía de cálculo de ISR, se puede calcular el ISR cuando se vende [solo un terreno](/blog/industry/isr/solo-terreno-calculo-isr-enajenacion-inmuebles), [solo una construcción](/blog/industry/isr/solo-construccion-calculo-isr) o ambos. La cosa empieza a volverse un poco más compleja cuando se venden ambos, ya que existen variantes en la manera en que se puede realizar el cálculo. En este artículo analizaremos cuándo se debe utilizar cada variante y qué información se necesita según el caso.
 
 Las diferencias provienen básicamente de:
 

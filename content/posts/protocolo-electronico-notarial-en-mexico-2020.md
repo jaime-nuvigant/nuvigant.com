@@ -95,4 +95,4 @@ Las nuevas tecnologías hacen posible, jurídicamente hablando, implementar un s
 
 Un protocolo electrónico capaz deberá posibilitar la automatización para la consignación y autorización de actos y hechos jurídicos ante el notariado de una manera funcionalmente equivalente a la del protocolo notarial que hoy conocemos, y tener una capacidad de adaptación constante a los avances tecnológicos.
 
-¿Qué recursos tecnológicos tiene tu oficina para hacer frente a las necesidades de adaptación al cambiante mundo digital? Te invitamos a conocer nuestra [plataforma para notarías y corredurías](https://nuvigant.com/fedatarios/sistema-notarias) y a ponerte en contacto con nosotros en [contacto@nuvigant.com](mailto:contacto@nuvigant.com).
+¿Qué recursos tecnológicos tiene tu oficina para hacer frente a las necesidades de adaptación al cambiante mundo digital? Te invitamos a conocer nuestra [plataforma para notarías y corredurías](/fedatarios/sistema-notarias) y a ponerte en contacto con nosotros en [contacto@nuvigant.com](mailto:contacto@nuvigant.com).

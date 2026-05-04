@@ -51,9 +51,9 @@ Es importante que el personal de la notaría reciba capacitación continua en ma
 
 ### Implementación de Tecnologías de Apoyo
 
-Se recomienda utilizar herramientas tecnológicas adecuadas para la operación. Puede ser desde archivos Excel hasta un sistema integral de control notarial como el de [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias). Lo importante es usar la tecnología a tu favor.
+Se recomienda utilizar herramientas tecnológicas adecuadas para la operación. Puede ser desde archivos Excel hasta un sistema integral de control notarial como el de [Nuvigant](/fedatarios/sistema-notarias). Lo importante es usar la tecnología a tu favor.
 
-Realizar la búsqueda en listados negros puede ser complicado sin una herramienta tecnológica. Si no has realizado estas búsquedas desde el principio, nosotros te podemos ayudar con nuestro servicio de búsquedas retroactivas. Nos envías un Excel con los nombres a buscar, nosotros realizamos la búsqueda y te regresamos las constancias. Puedes ver más de esto en [esta liga](https://nuvigant.com/regularizacion).
+Realizar la búsqueda en listados negros puede ser complicado sin una herramienta tecnológica. Si no has realizado estas búsquedas desde el principio, nosotros te podemos ayudar con nuestro servicio de búsquedas retroactivas. Nos envías un Excel con los nombres a buscar, nosotros realizamos la búsqueda y te regresamos las constancias. Puedes ver más de esto en [esta liga](/regularizacion).
 
 ## Conclusión
 

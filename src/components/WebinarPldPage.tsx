@@ -6,7 +6,7 @@ const bullets = [
   {
     icon: Download,
     text: "Descarga los lineamientos del programa de capacitación",
-    link: "https://nuvigant.com/webinar-pld",
+    link: "/webinar-pld",
     linkLabel: "(clic aquí)",
   },
   {
@@ -18,7 +18,7 @@ const bullets = [
   {
     icon: FileText,
     text: "Lee el artículo de apoyo sobre los principales cambios",
-    link: "https://nuvigant.com/blog/reforma-antilavado-2025-para-notarios",
+    link: "/blog/reforma-antilavado-2025-para-notarios",
     linkLabel: "(clic aquí)",
   },
 ];

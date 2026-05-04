@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Link2, Check } from "lucide-react";
+import { getClientSiteOrigin } from "@/lib/site-url";
 
 function IconTwitterX({ size = 13 }: { size?: number }) {
   return (
@@ -29,8 +30,12 @@ export default function ShareButtons({ title, url }: ShareButtonsProps) {
 
   const shareUrl =
     typeof window !== "undefined"
-      ? url.startsWith("http") ? url : `${window.location.origin}${url}`
-      : url.startsWith("http") ? url : `https://nuvigant.com${url}`;
+      ? url.startsWith("http")
+        ? url
+        : `${window.location.origin}${url}`
+      : url.startsWith("http")
+        ? url
+        : `${getClientSiteOrigin()}${url}`;
 
   function copyLink() {
     navigator.clipboard.writeText(shareUrl).then(() => {

@@ -1,6 +1,8 @@
 import { MetadataRoute } from "next";
+import { getSiteUrl } from "@/lib/site-url";
 
 export default function robots(): MetadataRoute.Robots {
+  const siteUrl = getSiteUrl();
   return {
     rules: {
       userAgent: "*",
@@ -18,6 +20,6 @@ export default function robots(): MetadataRoute.Robots {
         "/portal-clientes/",
       ],
     },
-    sitemap: "https://nuvigant.com/sitemap.xml",
+    sitemap: `${siteUrl}/sitemap.xml`,
   };
 }

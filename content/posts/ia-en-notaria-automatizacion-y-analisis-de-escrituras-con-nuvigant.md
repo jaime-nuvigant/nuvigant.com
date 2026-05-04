@@ -17,7 +17,7 @@ subcategory: "fedatarios"
 
 La Inteligencia Artificial en Notaría está transformando la forma en que los despachos notariales gestionan documentos legales. La digitalización y automatización de procesos no solo optimizan tiempos, sino que también reducen errores humanos. Nuvigant, un software especializado en el control notarial, ahora incorpora inteligencia artificial para analizar escrituras, descomponerlas en partes clave, cargar la información en el sistema de manera automática para luego generar documentos y exportar la info de diferentes maneras, todo sin tener que teclear nada.
 
-[Agenda una demo para ver esta herramienta en acción](https://nuvigant.com/schedule-demo)
+[Agenda una demo para ver esta herramienta en acción](/schedule-demo)
 
 ---
 
@@ -58,4 +58,4 @@ Una de las grandes ventajas de este proceso es la capacidad de exportar la infor
 
 La Inteligencia Artificial en Notaría tiene el potencial de revolucionar la gestión notarial a través de herramientas como Nuvigant. La capacidad de analizar y descomponer escrituras automáticamente no solo mejora la eficiencia, sino que también garantiza mayor precisión en la documentación legal. La integración con Declaranot y la generación automática de documentos refuerzan la digitalización del sector notarial, permitiendo que los despachos notariales operen con mayor rapidez y seguridad.
 
-Si quieres conocer más sobre cómo la Inteligencia Artificial en Notaría puede transformar tu gestión notarial, **[¡prueba Nuvigant hoy!](https://nuvigant.com/schedule-demo)**
+Si quieres conocer más sobre cómo la Inteligencia Artificial en Notaría puede transformar tu gestión notarial, **[¡prueba Nuvigant hoy!](/schedule-demo)**

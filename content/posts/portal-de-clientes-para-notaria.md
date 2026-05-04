@@ -51,4 +51,4 @@ El lanzamiento del Portal de Clientes para Notarías de Nuvigant marca un hito i
 
 Si tu notaría aún no ha explorado las ventajas de Nuvigant y su nuevo Portal de Clientes para Notarías, este es el momento ideal para considerar su implementación. En un entorno donde la satisfacción del cliente y la eficiencia operativa son clave, contar con herramientas innovadoras como Nuvigant puede marcar la diferencia.
 
-¡Descubre hoy mismo cómo el portal puede transformar la gestión de tu notaría, solicita una corta demo de 30 minutos donde te mostramos todas las bondades de la plataforma ([clic aquí para solicitar demo](https://nuvigant.com/schedule-demo))!
+¡Descubre hoy mismo cómo el portal puede transformar la gestión de tu notaría, solicita una corta demo de 30 minutos donde te mostramos todas las bondades de la plataforma ([clic aquí para solicitar demo](/schedule-demo))!

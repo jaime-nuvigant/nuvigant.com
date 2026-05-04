@@ -30,7 +30,7 @@ La **exención por casa habitación** es un beneficio fiscal contemplado en el *
 - Puede comprobar su residencia en el domicilio mediante documentación oficial (INE, comprobantes de domicilio, etc.).
 - La operación es formalizada ante notario público.
 
-Este beneficio **aplica de forma individual** por cada contribuyente. Por eso, cuando hay **varios enajenantes**, es fundamental analizar caso por caso. Si no estás bien familiarizado con cómo funciona la exención de casa habitación normal, te recomendamos primero leer [este artículo](https://nuvigant.com/blog/industry/isr/casa-habiracion-exentar-casa-habitacion).
+Este beneficio **aplica de forma individual** por cada contribuyente. Por eso, cuando hay **varios enajenantes**, es fundamental analizar caso por caso. Si no estás bien familiarizado con cómo funciona la exención de casa habitación normal, te recomendamos primero leer [este artículo](/blog/industry/isr/casa-habiracion-exentar-casa-habitacion).
 
 ## Antes de seguir
 
@@ -88,7 +88,7 @@ Solo para quienes **no exentan**, se resta:
 
 Se utiliza la **tarifa progresiva** que corresponda o un cálculo con base en tasa fija, según lo determine el notario.
 
-Puedes ver un ejemplo completo en esta liga: [clic aquí](https://nuvigant.com/blog/industry/isr/isr-enajenacion-inmuebles)
+Puedes ver un ejemplo completo en esta liga: [clic aquí](/blog/industry/isr/isr-enajenacion-inmuebles)
 
 ---
 

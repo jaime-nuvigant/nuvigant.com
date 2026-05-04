@@ -19,7 +19,7 @@ En el último seminario de actualización fiscal del Colegio Nacional del Notari
 
 ## ¿Cómo funciona?
 
-Cada notario podrá generar un código QR (que es una representación del Sello Digital Notarial) para sus documentos. Esto podrá hacerse por medio de la [página del colegio del notariado](https://www.notariadomexicano.org.mx/) o con diferentes sistemas de administración notarial como [el nuestro](https://nuvigant.com/fedatarios/sistema-notarias). Se tendrán que introducir algunos datos para poder generarlo:
+Cada notario podrá generar un código QR (que es una representación del Sello Digital Notarial) para sus documentos. Esto podrá hacerse por medio de la [página del colegio del notariado](https://www.notariadomexicano.org.mx/) o con diferentes sistemas de administración notarial como [el nuestro](/fedatarios/sistema-notarias). Se tendrán que introducir algunos datos para poder generarlo:
 
 - Nombres de los participantes
 - Número de escritura
@@ -55,8 +55,8 @@ Puedes ver un [vídeo de cómo funciona el proceso de registro](https://www.nota
 
 - Se recomienda que, durante el proceso de verificación, sea el notario o notaria mismo/a quien realice el proceso.
 - El notario/a puede descargar la app del Colegio Nacional del Notariado para hacer estas validaciones desde su celular.
-- Pueden automatizar este proceso utilizando herramientas de gestión notarial como [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias), lo que les evitará capturar varias veces la misma información.
+- Pueden automatizar este proceso utilizando herramientas de gestión notarial como [Nuvigant](/fedatarios/sistema-notarias), lo que les evitará capturar varias veces la misma información.
 
 Para más información puedes ir a la [guía oficial del Colegio Nacional del Notariado Mexicano](https://www.notariadomexicano.org.mx/tutorial/sdn/#quees).
 
-El Sello Digital Notarial es un gran avance para evitar fraudes mediante escrituras fraudulentas. Un siguiente paso podría ser la implementación de alguna medida similar que utilice la [Firma Electrónica Avanzada](https://nuvigant.com/blog/industry/fedatarios/que-es-la-firma-electronica-avanzada-para-notarios-y-corredores).
+El Sello Digital Notarial es un gran avance para evitar fraudes mediante escrituras fraudulentas. Un siguiente paso podría ser la implementación de alguna medida similar que utilice la [Firma Electrónica Avanzada](/blog/industry/fedatarios/que-es-la-firma-electronica-avanzada-para-notarios-y-corredores).

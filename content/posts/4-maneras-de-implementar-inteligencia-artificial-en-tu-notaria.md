@@ -33,7 +33,7 @@ Puedes hacer esto con cualquiera de las herramientas anteriores (ChatGPT y Gemin
 
 ## 3. Utilizar un Sistema Administrativo con Inteligencia Artificial en Notaría
 
-Implementar un sistema administrativo impulsado por IA puede transformar la forma en que gestionas tu notaría. Sistemas como [Nuvigant](https://nuvigant.com/fedatarios/sistema-notarias) permiten la automatización de procesos administrativos, evitando la captura manual de datos y reduciendo el riesgo de errores humanos. Estos sistemas pueden gestionar la organización de archivos, la programación de citas, y la facturación, mejorando la eficiencia operativa y permitiéndote enfocarte en las tareas más críticas.
+Implementar un sistema administrativo impulsado por IA puede transformar la forma en que gestionas tu notaría. Sistemas como [Nuvigant](/fedatarios/sistema-notarias) permiten la automatización de procesos administrativos, evitando la captura manual de datos y reduciendo el riesgo de errores humanos. Estos sistemas pueden gestionar la organización de archivos, la programación de citas, y la facturación, mejorando la eficiencia operativa y permitiéndote enfocarte en las tareas más críticas.
 
 Un ejemplo muy básico de lo que puede hacer nuestra herramienta: supongamos que tienes el antecedente de tu operación en digital. Con simplemente copiar y pegar los generales a Nuvigant, el sistema separa todos los datos y los ordena para después poder utilizarlos para imprimir cualquier tipo de documento que requieras.
 

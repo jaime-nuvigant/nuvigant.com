@@ -35,7 +35,7 @@ Esta flexibilidad es cada vez más importante. ["Los millenials", que ya estamos
 
 ## 3. Es el futuro
 
-Vienen cambios interesantísimos y se aproxima la era del "[corredor y notario en línea](https://nuvigant.com/blog/industry/fedatarios/corredor-y-notario-en-linea)". Para incursionar en ella, será muy importante que ya estés muy familiarizad@ con lo que es trabajar en la nube.
+Vienen cambios interesantísimos y se aproxima la era del "[corredor y notario en línea](/blog/industry/fedatarios/corredor-y-notario-en-linea)". Para incursionar en ella, será muy importante que ya estés muy familiarizad@ con lo que es trabajar en la nube.
 
 En menos tiempo de lo que crees, estarás firmando tus escrituras usando tu firma electrónica avanzada desde cualquier lugar en el mundo, con toda la seguridad y certeza que esta ofrece.
 
@@ -45,4 +45,4 @@ Como con todo cambio, habrá personas que se opongan a esto, pero la verdad es q
 
 Aunque algunas personas todavía piensan que es más seguro tener su información de manera local, la verdad de las cosas es que muy pocas empresas invierten los recursos necesarios para mantener sus propios servidores seguros. En cambio, si trabajas en la nube, delegas tu seguridad a los expertos y no tienes que preocuparte por esto.
 
-Es por eso que te invitamos a empezar a [trabajar en la nube](https://nuvigant.com/fedatarios/sistema-notarias) y si tienes cualquier duda sobre la nube, no dudes en enviarme un correo a jaime@nuvigant.com.
+Es por eso que te invitamos a empezar a [trabajar en la nube](/fedatarios/sistema-notarias) y si tienes cualquier duda sobre la nube, no dudes en enviarme un correo a jaime@nuvigant.com.

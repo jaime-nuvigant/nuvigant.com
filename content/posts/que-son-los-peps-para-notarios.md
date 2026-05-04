@@ -48,7 +48,7 @@ El buscador de Nuvigant de PEPS para notarios permite hacerlo automáticamente, 
 
 ## 🛡️ Beneficios clave del uso del buscador de Nuvigant de PEPS para notarios
 
-En Nuvigant, le ofrecemos a nuestros clientes una manera sencilla y efectiva de buscar a estas personas. [Ponte en contacto con nosotros para empezar a usar la herramienta](https://nuvigant.com/schedule-demo). Algunos beneficios de esta herramienta son:
+En Nuvigant, le ofrecemos a nuestros clientes una manera sencilla y efectiva de buscar a estas personas. [Ponte en contacto con nosotros para empezar a usar la herramienta](/schedule-demo). Algunos beneficios de esta herramienta son:
 
 | Beneficios | Descripción |
 | --- | --- |
@@ -73,4 +73,4 @@ Este enfoque automatizado te brinda confianza al operar, protege tu reputación 
 ---
 
 ¿Quieres conocer más sobre cómo Nuvigant puede ayudarte a identificar PEPS automáticamente?
-🖱️ **[Agenda una demo hoy](https://nuvigant.com/schedule-demo) y da el siguiente paso hacia una notaría 100% cumplida.**
+🖱️ **[Agenda una demo hoy](/schedule-demo) y da el siguiente paso hacia una notaría 100% cumplida.**
