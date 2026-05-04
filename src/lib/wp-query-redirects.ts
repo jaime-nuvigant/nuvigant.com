@@ -4,6 +4,9 @@
  *
  * Sourced from `.ignore/webpages.json` plus manual IDs from `.ignore/all_urls.txt`.
  * Paths are normalized to final public URLs (single hop).
+ *
+ * Unknown `?p=` post IDs (e.g. old drafts) are not listed below on purpose: middleware
+ * sends them to `WP_QUERY_UNKNOWN_FALLBACK` with HTTP 302 (soft redirect), not 301.
  */
 
 /** Normalize old permalink paths from the export to current routes. */
@@ -50,10 +53,10 @@ export const WP_QUERY_ID_TO_PATH: Record<string, string> = {
   "230": "/blog/industry/fedatarios/protocolo-electronico-notarial-en-mexico-2020",
   "234": "/blog/business-technology/cloud/trabajo-remoto-oficina-remota",
   "238": "/blog/industry/fedatarios/constitucion-de-sociedad-a-traves-de-la-firma-electronica-avanzada",
-  "802": "/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber",
-  "822": "/blog/industry/lawyers/legal-tech/como-saber-si-necesito-un-software-de-abogados",
-  "856": "/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados",
-  "1334": "/blog/industry/lawyers/legal-tech/6-pasos-para-implementar-un-software-para-abogados",
+  "802": "/blog/industry/lawyers/software-para-abogados-15-cosas-que-debes-saber",
+  "822": "/blog/industry/lawyers/como-saber-si-necesito-un-software-de-abogados",
+  "856": "/blog/industry/lawyers/50-kpis-para-abogados",
+  "1334": "/blog/industry/lawyers/6-pasos-para-implementar-un-software-para-abogados",
   "1831": "/blog/industry/fedatarios/jornada-notarial-oaxaca-2021",
   "1930": "/blog/industry/fedatarios/cfdi-4-notarios-publicos",
   "1999": "/blog/industry/isr/isr-enajenacion-inmuebles",
@@ -78,8 +81,8 @@ export const WP_QUERY_ID_TO_PATH: Record<string, string> = {
   "26477": "/blog/inteligencia-artificial/4-maneras-de-implementar-inteligencia-artificial-en-tu-notaria",
   "26543": "/blog/industry/fedatarios/portal-de-clientes-para-notaria",
   "26579": "/blog/industry/fedatarios/fe-de-hechos-de-mensajes-de-whatsapp-y-otras-herramientas-de-mensajeria",
-  "27812": "/blog/industry/lawyers/legal-tech/api-para-notarios-que-es-un",
-  "27862": "/blog/industry/lawyers/legal-tech/retos-de-una-notaria-en-crecimiento",
+  "27812": "/blog/industry/lawyers/api-para-notarios-que-es-un",
+  "27862": "/blog/industry/lawyers/retos-de-una-notaria-en-crecimiento",
   "27885": "/blog/industry/isr/impuesto-cedular-san-luis-potosi",
   "27904": "/blog/inteligencia-artificial/post-firma-inteligencia-artificial",
   "27953": "/blog/business-technology/automatizacion-para-notarias-e-inmobiliarias-nuvigant-zapier",
@@ -95,4 +98,5 @@ export const WP_QUERY_ID_TO_PATH: Record<string, string> = {
   "25883": "/videos-producto",
 };
 
+/** Target for legacy `?p=` when the ID is not in `WP_QUERY_ID_TO_PATH`. Middleware uses 302 here (soft redirect). */
 export const WP_QUERY_UNKNOWN_FALLBACK = "/blog";

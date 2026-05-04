@@ -39,7 +39,7 @@ La firma de un documento sin conocer a la persona que lo valida podría reducir 
 
 La digitalización y la IA pueden y deben ser herramientas que ayuden a los notarios a hacer su trabajo de manera más eficiente, pero no pueden reemplazar el juicio humano. Existen aspectos de la práctica notarial que requieren discernimiento, comprensión contextual y consideración ética, elementos que una máquina no puede replicar.
 
-En este contexto, los notarios deben abrazar la tecnología, pero sin perder su esencia. Adoptar herramientas digitales que faciliten su trabajo no significa delegar su responsabilidad a un algoritmo. Un ejemplo de esto es nuestro sistema Nuvigant cuenta con herramientas de IA que le ayudan a los notarios a realizar sus procesos mucho más rápido ([clic aquí para ver más](/blog/industry/fedatarios/post-firma-inteligencia-artificial)).
+En este contexto, los notarios deben abrazar la tecnología, pero sin perder su esencia. Adoptar herramientas digitales que faciliten su trabajo no significa delegar su responsabilidad a un algoritmo. Un ejemplo de esto es nuestro sistema Nuvigant cuenta con herramientas de IA que le ayudan a los notarios a realizar sus procesos mucho más rápido ([clic aquí para ver más](/blog/inteligencia-artificial/post-firma-inteligencia-artificial)).
 
 La tecnología debería utilizarse para fortalecer el papel del notario, permitiéndole centrarse en lo que realmente importa: brindar seguridad y confianza a la sociedad. Sustituir al notario con IA pondría en riesgo nuestro sistema jurídico.
 

@@ -15,6 +15,28 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Legacy WordPress asset/API paths (GSC 404 cleanup → single hop home)
+      {
+        source: "/wp-content/uploads/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/wp-content/themes/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/wp-content/plugins/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      // Truncated or legacy short URL → main ISR product page
+      {
+        source: "/fedatarios/calculo-de",
+        destination: "/fedatarios/calculo-de-isr-enajenacion-inmuebles",
+        permanent: true,
+      },
       {
         source: "/blog/industry/lawyers/ia-automatizacion-notarias",
         destination:

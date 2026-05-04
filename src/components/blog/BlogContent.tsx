@@ -1,5 +1,11 @@
 import Image from "next/image";
-import parse, { type HTMLReactParserOptions, Element, domToReact } from "html-react-parser";
+import Link from "next/link";
+import parse, {
+  type DOMNode,
+  type HTMLReactParserOptions,
+  Element,
+  domToReact,
+} from "html-react-parser";
 
 interface BlogContentProps {
   html: string;
@@ -8,25 +14,42 @@ interface BlogContentProps {
 const BLOG_IMAGE_WIDTH = 800;
 const BLOG_IMAGE_HEIGHT = 450;
 
+function isAppRelativeHref(href: string): boolean {
+  return href.startsWith("/") && !href.startsWith("//");
+}
+
 const parseOptions: HTMLReactParserOptions = {
   replace(domNode) {
-    if (!(domNode instanceof Element) || domNode.name !== "img") return;
+    if (!(domNode instanceof Element)) return;
 
-    const { src, alt = "", title, class: cls } = domNode.attribs;
-    if (!src) return;
+    if (domNode.name === "img") {
+      const { src, alt = "", title, class: cls } = domNode.attribs;
+      if (!src) return;
 
-    return (
-      <Image
-        src={src}
-        alt={alt}
-        title={title}
-        width={BLOG_IMAGE_WIDTH}
-        height={BLOG_IMAGE_HEIGHT}
-        sizes="(max-width: 768px) 100vw, 680px"
-        className={cls ?? "blog-img"}
-        style={{ width: "100%", height: "auto" }}
-      />
-    );
+      return (
+        <Image
+          src={src}
+          alt={alt}
+          title={title}
+          width={BLOG_IMAGE_WIDTH}
+          height={BLOG_IMAGE_HEIGHT}
+          sizes="(max-width: 768px) 100vw, 680px"
+          className={cls ?? "blog-img"}
+          style={{ width: "100%", height: "auto" }}
+        />
+      );
+    }
+
+    if (domNode.name === "a") {
+      const { href, class: className, title, id } = domNode.attribs;
+      if (!href || !isAppRelativeHref(href)) return;
+
+      return (
+        <Link href={href} className={className} title={title} id={id}>
+          {domToReact(domNode.children as DOMNode[], parseOptions)}
+        </Link>
+      );
+    }
   },
 };
 

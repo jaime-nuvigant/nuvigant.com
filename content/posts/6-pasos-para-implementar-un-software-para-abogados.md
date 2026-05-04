@@ -29,13 +29,13 @@ El primer paso es identificar las necesidades únicas que tiene la firma, estas 
 
 Identificar tus necesidades únicas va de la mano con la retroalimentación que obtengas de tus colaboradores y clientes. Platica con todos tus colaboradores y elaboren una lista de procesos que no aporten valor y funciones que se puedan automatizar.
 
-Para conocer como saber identificar tus necesidades únicas, te recomiendo leer el artículo [cómo saber si necesito un software para mi despacho.](/blog/industry/lawyers/legal-tech/como-saber-si-necesito-un-software-de-abogados)
+Para conocer como saber identificar tus necesidades únicas, te recomiendo leer el artículo [cómo saber si necesito un software para mi despacho.](/blog/industry/lawyers/como-saber-si-necesito-un-software-de-abogados)
 
 Una vez que cuentes con certeza sobre las necesidades únicas de tu oficina, será más sencillo comenzar con el proceso de búsqueda de una solución tecnológica que se adapte a tus necesidades.
 
 Si bien cada día hay una mayor oferta de herramientas al grado de ser abrumador elegir entre alguna, al tener claras las necesidades que tiene la oficina, te permitirá identificar las soluciones que pueden calificar para lo que necesitas y eliminar de tu lista las soluciones que no cumplan con los objetivos a los que quieres llegar.
 
-Antes de iniciar tu proceso de búsqueda te recomiendo leer el artículo [Software para abogados: 15 cosas que debes saber.](/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber)
+Antes de iniciar tu proceso de búsqueda te recomiendo leer el artículo [Software para abogados: 15 cosas que debes saber.](/blog/industry/lawyers/software-para-abogados-15-cosas-que-debes-saber)
 
 La mejor sugerencia que te puedo dar es que no elijas una marca, sino un aliado estratégico, ya que tu proveedor de software se convertirá en una relación a largo plazo y necesitas aliarte con una empresa con una visión que se acople a las metas del despacho.
 
@@ -101,7 +101,7 @@ Elige a uno o dos miembros del equipo para que ejecuten la configuración que ne
 
 Para obtener el máximo provecho, un tema importante a considerar al momento de configurar la herramienta es como quieres visualizar la información, por eso es importante definir que KPI's necesitas para darle seguimiento a lo que sea que quieres medir.
 
-Si necesitas inspiración, te recomiendo leer el artículo de [50 KPI's para abogados.](/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados)
+Si necesitas inspiración, te recomiendo leer el artículo de [50 KPI's para abogados.](/blog/industry/lawyers/50-kpis-para-abogados)
 
 Una vez que están satisfechos con la configuración, realiza una junta para homologar la forma de uso de la herramienta, si manejas integraciones o utilizas otras herramientas, definan en esa junta cuál va a ser la manera de operar y definan KPI's para cada área o perfil de puesto.
 

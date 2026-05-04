@@ -26,14 +26,6 @@ function authorJsonLd(post: Post) {
   return { "@type": "Person" as const, name };
 }
 
-function capitalizeSegment(s: string): string {
-  if (!s) return s;
-  return s
-    .split(/[-_\s]+/)
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase())
-    .join(" ");
-}
-
 /** Schema.org Article for blog posts. */
 export function articleJsonLd(post: Post, canonical: string) {
   const image = absoluteArticleImage(post.coverImage);
@@ -57,23 +49,18 @@ export function articleJsonLd(post: Post, canonical: string) {
   };
 }
 
-type BreadcrumbItem = { name: string; item?: string };
-
-/** Schema.org BreadcrumbList aligned with on-page breadcrumb trail. */
+/**
+ * Schema.org BreadcrumbList. Only includes URLs that exist (home, blog index, article).
+ * Category/subcategory appear in the visible trail as non-links but are omitted here
+ * so every ListItem has a resolvable `item` (Google rich-result guidance).
+ */
 export function breadcrumbJsonLd(post: Post, canonical: string): { "@context": string; "@type": string; itemListElement: unknown[] } {
   const base = getSiteUrl();
-  // Category/subcategory steps omit `item` until dedicated hub routes exist (see .cursor/rules/blog-routing.mdc).
-  const items: BreadcrumbItem[] = [
+  const items = [
     { name: "Inicio", item: `${base}/` },
     { name: "Blog", item: `${base}/blog` },
+    { name: post.title, item: canonical },
   ];
-  if (post.category) {
-    items.push({ name: capitalizeSegment(post.category) });
-  }
-  if (post.subcategory) {
-    items.push({ name: capitalizeSegment(post.subcategory) });
-  }
-  items.push({ name: post.title, item: canonical });
 
   return {
     "@context": "https://schema.org",
@@ -82,7 +69,7 @@ export function breadcrumbJsonLd(post: Post, canonical: string): { "@context": s
       "@type": "ListItem",
       position: i + 1,
       name: entry.name,
-      ...(entry.item ? { item: entry.item } : {}),
+      item: entry.item,
     })),
   };
 }

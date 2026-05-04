@@ -56,11 +56,11 @@ Algunas señales que debes de considerar para saber si necesitas un software par
 
 Si al responder a estas preguntas necesitas:
 
-Optimizar tus procesos internos, automatizar funciones repetitivas, medir el desempeño de tu equipo, llevar el control financiero y/o obtener [informes personalizados](/blog/industry/lawyers/legal-tech/metodologies/50-kpis-para-abogados) para aumentar la satisfacción de tus clientes y el aumento de tus ganancias, definitivamente necesitas un software para tu despacho y es momento de actuar.
+Optimizar tus procesos internos, automatizar funciones repetitivas, medir el desempeño de tu equipo, llevar el control financiero y/o obtener [informes personalizados](/blog/industry/lawyers/50-kpis-para-abogados) para aumentar la satisfacción de tus clientes y el aumento de tus ganancias, definitivamente necesitas un software para tu despacho y es momento de actuar.
 
 ![¿Cómo-saber-si-necesito-un-software-para-mi-despacho?](/images/blog/como-saber-si-necesito-un-software-de-abogados-body.jpg)
 
-### Te puede interesar leer: [15 cosas que debes saber para elegir un software de abogados.](/blog/industry/lawyers/legal-tech/software-para-abogados-15-cosas-que-debes-saber)
+### Te puede interesar leer: [15 cosas que debes saber para elegir un software de abogados.](/blog/industry/lawyers/software-para-abogados-15-cosas-que-debes-saber)
 
 Ahora bien, identificar tus necesidades únicas será la puerta de entrada para que puedas elegir la herramienta que mejor se centre en la obtención de los resultados y objetivos que esperas.
 
